@@ -1,0 +1,81 @@
+Person	6
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	10
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1'], ['10', '1']]
+ACTWKDY	Tuesday;Wednesday;Thursday
+ILLWK	No
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+ENROL	No
+work_related_education_3months	Yes
+work_related_education_4weeks	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	AS Levels, A Levels or T Levels;BTEC, BEC, TEC, Edexcel or LQL
+EWNI_College	ONC;City and Guilds Qualification
+EWNI_Additional	Youth Training Scheme Certificate
+EWNI_Prof	Chartered Qualification
+EWNI_Uni	Doctorate
+Safety_Net_EWNINonUK	None of these
+NonUK_School	Qualifications like GCSEs or O Levels
+NonUK_Deg	None of these
+Qual_Check	AS Levels, A Levels or T Levels;BTEC, BEC, TEC, Edexcel or LQL;ONC;City and Guilds Qualification;Youth Training Scheme Certificate;Chartered Qualification;Doctorate
+Qual_Check_NonUK	Qualifications like GCSEs or O Levels;I need to add a qualification gained in Scotland
+Add_Qual_Scot	Higher education qualification
+Add_HE	Diploma in Higher Education
+Alev_Tlev	AS Levels
+BTEC_Type	Edexcel Qualification
+Edexcel_Lev	Level 2
+CG_Type	I don't know
+CG_Size	Level 3
+Chart_type	I am a member of a professional body
+sickness_disability_benefits_claiming	Industrial Injuries Disablement Benefit
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+SATIS	Prefer not to say
+WORTH	Prefer not to say
+HAPPY	Prefer not to say
+ANXIOUS	Prefer not to say
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	Skin conditions;Other physical health condition
+current_mental_health_condition	Yes
+main_health_condition	Skin
+LIMACT	Yes, a lot
+REDACT	Less than 6 months
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Main job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	14
+TYPINJ	Dislocation of a joint  
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Slipped, tripped or fell on the same level
+ILLWRK1	Yes
+NUMILL	16
+TYPILL	Headache or eyestrain
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	1
+ILCURR	Yes
+WCHJB3	Main job
+CIGEVER	No
+HH_refday	John BP0 HH110 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

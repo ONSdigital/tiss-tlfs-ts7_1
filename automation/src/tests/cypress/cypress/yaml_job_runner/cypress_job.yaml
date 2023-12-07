@@ -1,0 +1,76 @@
+apiVersion: "batch/v1"
+kind: Job
+metadata:
+  name: cypress-job-chrome
+  namespace: performance
+  labels:
+    app: cypress-job-chrome
+spec:
+  completions: 6
+  parallelism: 6
+  backoffLimit: 4
+  ttlSecondsAfterFinished: 60
+  template:
+    metadata:
+      labels:
+        app: cypress-job-chrome
+        type: cypress-job-chrome
+    spec:
+      topologySpreadConstraints:
+      - maxSkew: 1
+        topologyKey: kubernetes.io/hostname
+        whenUnsatisfiable: DoNotSchedule #ScheduleAnyway
+        labelSelector:
+          matchLabels:
+            app: cypress-job-chrome
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                - key: "cloud.google.com/gke-nodepool"
+                  operator: In
+                  values: ["performance"]
+      containers:
+        - image: eu.gcr.io/census-basit-eng/ctf-cypress-latest:8.7.0
+          name: cypress-container
+          env:
+            - name: HTTP_PROXY
+              value: "http://34.105.195.115:3128"
+            - name: COMMIT_INFO_AUTHOR
+              value: "K8 Automated Job"
+            - name: COMMIT_INFO_MESSAGE
+              value: "LMS Online Regression v26: 02/11/2021-14:31:35"
+            - name: CYPRESS_PROJECT_ID
+              value: "1uepii"
+            - name: CYPRESS_RECORD_KEY
+              value: "747cd087-ee19-4336-a471-1f37f0179802"
+          volumeMounts:
+            - name: workdir
+              mountPath: "/e2e/"
+          resources:
+            requests:
+              memory: "1Gi"
+              cpu: "2000m"
+            limits:
+              memory: "2Gi"
+              cpu: "4000m"
+          command: ["/bin/bash", "-c"]
+          args:
+            - cd /e2e;
+              cypress run --spec cypress/e2e/LMS/online_hh_*.js --browser chrome --record --group LMS_Online_chrome --parallel --ci-build-id LMS_Online:02/11/2021-14:31:35;
+      restartPolicy: Never
+      initContainers:
+        - name: gitpod
+          image: eu.gcr.io/census-basit-eng/ctf-git-client
+          command: ["/bin/bash", "-c"]
+          args:
+            - mkdir /e2e;
+              git clone -b develop --single-branch https://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:x-oauth-basic@github.com/ONSdigital/TISS-CTF-LMS.git /tmp/git;
+              cp -r /tmp/git/automation/src/tests/cypress/* /e2e;
+          volumeMounts:
+            - name: workdir
+              mountPath: "/e2e/"
+      volumes:
+        - name: workdir
+          emptyDir: {}

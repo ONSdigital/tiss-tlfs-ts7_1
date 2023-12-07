@@ -1,0 +1,76 @@
+apiVersion: "batch/v1"
+kind: Job
+metadata:
+  name: cypress-job-{browser}
+  namespace: performance
+  labels:
+    app: cypress-job-{browser}
+spec:
+  completions: {nodes}
+  parallelism: {nodes}
+  backoffLimit: 0
+  ttlSecondsAfterFinished: 60
+  template:
+    metadata:
+      labels:
+        app: cypress-job-{browser}
+        type: cypress-job-{browser}
+    spec:
+      topologySpreadConstraints:
+      - maxSkew: 1
+        topologyKey: kubernetes.io/hostname
+        whenUnsatisfiable: DoNotSchedule #ScheduleAnyway
+        labelSelector:
+          matchLabels:
+            app: cypress-job-{browser}    
+      affinity:
+        nodeAffinity: 
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                - key: "cloud.google.com/gke-nodepool"
+                  operator: In
+                  values: ["performance"]
+      containers:
+        - image: eu.gcr.io/census-basit-eng/ctf-cypress-latest:{cy_version}
+          name: cypress-container
+          env:
+            - name: HTTP_PROXY
+              value: "{proxy}"
+            - name: COMMIT_INFO_AUTHOR
+              value: "{commit_author}"
+            - name: COMMIT_INFO_MESSAGE
+              value: "{commit_message}: {timestamp}"
+            - name: CYPRESS_PROJECT_ID
+              value: "{project_id}"
+            - name: CYPRESS_RECORD_KEY
+              value: "{record_key}"
+          volumeMounts:
+            - name: workdir
+              mountPath: "/e2e/"
+          resources:
+            requests:
+              memory: "1Gi"
+              cpu: "2000m"
+            limits:
+              memory: "2Gi"
+              cpu: "4000m"
+          command: ["/bin/bash", "-c"]
+          args:
+            - cd /e2e;
+              cypress run --spec {scope} --browser {browser} --record --group {group}_{browser} --parallel --ci-build-id {group}:{timestamp};
+      restartPolicy: Never
+      initContainers:
+        - name: gitpod
+          image: eu.gcr.io/census-basit-eng/ctf-git-client
+          command: ["/bin/bash", "-c"]
+          args:
+            - mkdir /e2e;
+              git clone -b {branch} --single-branch https://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:x-oauth-basic@github.com/ONSdigital/TISS-CTF-LMS.git /tmp/git;
+              cp -r /tmp/git/automation/src/tests/cypress/* /e2e;
+          volumeMounts:
+            - name: workdir
+              mountPath: "/e2e/"
+      volumes:
+        - name: workdir
+          emptyDir: {}

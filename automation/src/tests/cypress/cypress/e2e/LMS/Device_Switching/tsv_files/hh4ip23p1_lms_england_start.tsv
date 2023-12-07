@@ -1,0 +1,73 @@
+AboutYou	Alex IP23;;Hamilton
+Sex	Male
+AddressChk	Yes
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+HRP	Someone else not listed above
+TEN1SomeoneElse	Don't know
+Comment	End Of HouseHold Section
+Comment	Start IP23
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Alex IP23 Hamilton
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	;;;
+Age	45
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Cypriot
+CRY12	Other
+CRY12_Other	Cyprus
+Comment	Year > 2 years from Ref Date
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Other
+NATID Other	Cypriot
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_OTH	Black Cypriot
+RELIGION	Other religion
+RELIGION_Oth	7 day Adventist
+Current_Passports	United Kingdom
+Expired_Passports	Ireland;Other
+Multi_expired_passport	Cyprus
+Expired_passport_check	Yes
+Multi_expired_passport	Cuba
+Expired_passport_check	No
+Sexual_Orientation	Straight or Heterosexual
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Waiting to start a job I have accepted
+START182	Yes
+LKTIMB	;
+LEFTYR18	-18m;-18m
+work_unpaid	Yes, for an internship
+REDYL18	Left for some other reason
+employment_status_previous	An employee
+soc2020_job_title_previous_job	Forklift driver
+soc2020_job_description_previous_job	Driving forklift
+sic2007_industry_employed_previous_job	Construction
+number_employees_workplace_previous_job	25-49
+AppCurr	No
+Enrol	No
+future_work_related_education_3months	Yes
+Enrol_Check	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Outside of the UK
+NonUK_School	International Baccalaureate
+NonUK_Deg	Postgraduate Degree
+Qual_Check_NonUK	International Baccalaureate;I need to add a qualification gained outside of the UK
+Other_Qual_NonUK	Bachelor Of Arts
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Job Seekers Allowance
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No

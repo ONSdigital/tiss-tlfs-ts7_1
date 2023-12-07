@@ -1,0 +1,25 @@
+AboutYou	Daniel BP2;;HH108 Howell
+Sex	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HHoldChk	Yes
+Person	2
+AddPpl	John BP0;;HH108 Smith
+Sex	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Phil IP3;;HH108 Lester
+Sex	Male
+StuRel	Husband
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;Mother or father
+ShareCooking	Yes
+ShareLiv	No
+HRP	Daniel BP2 HH108 Howell;Someone else not listed above
+TEN1	Own it outright
+Person	3
+IndivIntroPage	

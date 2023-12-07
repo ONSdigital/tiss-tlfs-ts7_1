@@ -1,0 +1,25 @@
+AboutYou	Gerard BP59;;HH111 Way
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mikey IP4;;HH111 Way
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Ray IP5;;HH111 Toro
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Frank IP8;;HH111 Iero
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Partner

@@ -1,0 +1,219 @@
+AboutYou	John IP0;;HH19 Smith
+DOB	1;1;1947
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP36;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Husband or wife
+HholdChk	Yes
+Person	3
+AddPpl	Three IP43;;HH19 Person
+DOB	22;2;1980
+SEX	Male
+Rel to P1	Legally registered civil partner
+HholdChk	Yes
+Person	4
+AddPpl	Four IP44;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Partner
+HholdChk	Yes
+Person	5
+AddPpl	Five BP48;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	6
+AddPpl	Six BP66;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Stepfather or stepmother
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP69;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Father-in-law or mother-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP70;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son or daughter
+HholdChk	Yes
+Person	9
+AddPpl	Nine BP71;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Stepson or stepdaughter
+HholdChk	Yes
+Person	10
+AddPpl	Ten BP74;;HH19 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son-in-law or daughter-in-law
+LastPerMessage	
+StudentChk	Someone else not listed above
+RelExPage	Save and continue
+Relationships	2;3;Husband or wife
+Relationships	2;4;Legally registered civil partner
+Relationships	2;5;Partner
+Relationships	2;6;Father or mother
+Relationships	2;7;Stepfather or stepmother
+Relationships	2;8;Father-in-law or mother-in-law
+Relationships	2;9;Son or daughter
+Relationships	2;10;Stepson or stepdaughter
+Relationships	3;4;Son-in-law or daughter-in-law
+Relationships	3;5;Brother or sister
+Relationships	3;6;Brother or sister
+Relationships	3;7;Brother or sister
+Relationships	3;8;Brother or sister
+Relationships	3;9;Brother or sister
+Relationships	3;10;Brother or sister
+Relationships	4;5;Brother or sister
+Relationships	4;6;Brother or sister
+Relationships	4;7;Brother or sister
+Relationships	4;8;Brother or sister
+Relationships	4;9;Brother or sister
+Relationships	4;10;Brother or sister
+Relationships	5;6;Brother or sister
+Relationships	5;7;Brother or sister
+Relationships	5;8;Brother or sister
+Relationships	5;9;Brother or sister
+Relationships	5;10;Brother or sister
+Relationships	6;7;Brother or sister
+Relationships	6;8;Brother or sister
+Relationships	6;9;Brother or sister
+Relationships	6;10;Brother or sister
+Relationships	7;8;Brother or sister
+Relationships	7;9;Brother or sister
+Relationships	7;10;Brother or sister
+Relationships	8;9;Brother or sister
+Relationships	8;10;Brother or sister
+Relationships	9;10;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Live here rent-free
+TIED	No
+Person	4
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Four IP44 HH19 Person
+AltAdd	Yes
+AltAddType	My holiday home
+TimeAway	No
+XMARSTA	Married
+Nationality	Polish;Other
+Nationality_Oth	Arab
+CRY12	Poland
+Comment	CAMEYR > 2 years
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	For study
+NATID	English;Welsh
+Ethnicity	Other
+OTHER	Any other background
+OTHER_Oth	Chinese English
+RELIGION	Buddhist
+Current_passports	United Kingdom
+Expired_passports	Ireland
+Sexual_Orientation	;
+SATIS	Prefer not to say
+WORTH	Prefer not to say
+HAPPY	Prefer not to say
+ANXIOUS	Prefer not to say
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	Yes
+CASWRK18	Yes
+WhyCas18	Could not find a permanent job
+Paid_wage_employee_21	An employment agency or umbrella company
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+CONTRACTMAINJOB20	No
+MINHRS	Yes
+HOME	From home
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	No
+CASAC	150;0
+SOC2020PT1	Engineer
+SOC2020PT2	Produce coke ovens
+sic2007_employed_main_job	Production of coke ovens
+SECTOR	A private firm, business or limited company
+Comment	CONMON1/CONMPY > 4 months
+CONMON1	-12m
+CONMPY	-12m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Disagree
+employees_decision_involvement_main_job	Very poor
+meaningful_main_job	Neither disagree nor agree
+satisfaction_main_job	Dissatisfied
+manager_support_main_job	Neither disagree nor agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	More than 10 times
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Other aspects unsatisfactory
+looking_for_new_main_job_preferred_hours	Shorter
+shorter_hours_less_pay	No
+paid_same_as_usual	Yes
+WKPL99	Oxford
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Primary education
+ACTWKDY	Tuesday;Wednesday
+ILLWK	No
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	O Grades
+Scot_leavers	SVQ
+Scot_Other	Youth Training Scheme Certificate
+Scot_HigherEd	Qualified Teacher Status
+Safety_Net_Q	Formal Award Qualification;Other Formal Qualification
+Safety_Net_Level_Awards	Level 4
+Safety_Net_Level_Other	Entry level
+Qual_Check_Scot	O Grades;SVQ;Youth Training Scheme Certificate;Qualified Teacher Status;Other Formal Award, Level 4;Other Formal Qualification, Entry level
+SVQ_Lev	Level 3
+SCQF_Lev	Yes
+SVQLev_3	Level 6
+Teaching_Qual	Degree
+Teach_Age	Primary education;Foundation stage
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP;Employment Support Allowance, ESA;Attendance Allowance;Industrial Injuries Disablement Benefit;Adult Disability Payment;Child Disability Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;National Insurance Credits;Child Benefit;Pension Credit;Carer's Allowance;Job Seekers Allowance, JSA;Other
+uc_reason_claiming	Other reason
+previously_served_armed_forces	No
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	Autism including Asperger's syndrome;Epilepsy;Learning disabilities, for example prenatal and postnatal;Learning difficulties, for example dyslexia and dyspraxia;ADHD;Down's syndrome;Tourette's syndrome;Speech impediment;Other neurodivergent condition
+current_conditions_other	Heart, blood pressure or blood circulation conditions
+current_mental_health_condition	Yes
+main_health_condition	Heart, blood pressure or blood circulation conditions
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+HH_refday	John IP0 HH19 Smith;Two IP36 HH19 Person;Three IP43 HH19 Person;Four IP44 HH19 Person;Five BP48 HH19 Person;Six BP66 HH19 Person;Seven BP69 HH19 Person;Eight BP70 HH19 Person;Nine BP71 HH19 Person;Ten BP74 HH19 Person
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

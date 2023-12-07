@@ -1,0 +1,127 @@
+Person	9
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	9
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1']]
+HRP	John BP0 HH117 Smith;Snow IP103 HH117 White;Happy IP100 HH117 White;Bashful IP95 HH117 White;Grumpy IP87 HH117 White;Dopey IP83 HH117 White;Sleepy IP82 HH117 White;Sneezy IP42 HH117 White;Doc IP20 HH117 White
+TEN1	Own it outright
+Person	8
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Sneezy IP42 HH117 White
+AltAdd	No
+DOB	30;9;1991
+XMARSTA	Married
+Nationality	Pakistani;Other
+Nationality_Oth	Chinese
+CRY12	Pakistan
+Comment	CAMEYR > 2 years
+CAMEYR	-30m
+CONTUK	No
+Comment	CAMYR2/CAMEMT <= 12 months
+CAMEYR2	-7m
+CAMEMT	-7m
+QSTAY	12 months or more
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+ever_sought_asylum	No
+NATID	Other
+NATID_Oth	Chinese
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Black, Black Scottish or Black British
+RELIGION_SC	Roman Catholic
+Current_passports	None
+Expired_passports	United Kingdom
+Sexual_Orientation	prefer not to say
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	Yes
+CASWRK18	Yes
+WhyCas18	To suit my circumstances
+Paid_wage_employee_21	An employment agency or umbrella company
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	Yes
+HOME	In the same grounds or building as my home
+HOMEEV	No
+BroadbandA	Yes
+BroadbandB	Yes
+WHCDAYS18	Did not work that week
+SOC2020PT1	Miner
+SOC2020PT2	Mine diamonds
+SIC2020EMP	Mining
+SECTOR	A private firm, business or limited company
+Comment	CONMPY/CONMON1 > 4 months
+CONMON1	-8m
+CONMPY	-8m
+work_unpaid	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Agree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Strongly agree
+satisfaction_main_job	Dissatisfied
+manager_support_main_job	Strongly disagree
+in_job_bullying_12months	No
+skills_match_main_job	I lack some skills required in my current duties
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Would like longer hours
+number_of_extra_weekly_hours_preferred	4;15
+longer_hours_offered_start_in_2weeks_self_employed	No
+paid_same_as_usual	No
+paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Absent from work through illness
+WKPL99	Liverpool
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+ENROL	Yes
+COURSE	A part-time course at university or college
+ATTEND	Stopped attending
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	None of these
+Scot_leavers	HND or SHND
+Scot_Other	Scottish Wider Access Programme Qualification
+Scot_HigherEd	None of these
+Safety_Net_Q	Formal Diploma Qualification;Other Formal Qualification
+Safety_Net_Level_Dips	Level 1
+Safety_Net_Level_Other	Level 4
+Qual_Check_Scot	HND or SHND;Scottish Wider Access Programme Qualification;Other Formal Diploma, Level 1;Other Formal Qualification, Level 4
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+SATIS	6
+WORTH	6
+HAPPY	6
+ANXIOUS	6
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	Other neurodivergent condition
+current_conditions_other	None of these
+current_mental_health_condition	Yes
+main_health_condition	Other neurodivergent condition
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+CIGEVER	No
+HH_refday	John BP0 HH117 Smith;Snow IP103 HH117 White;Happy IP100 HH117 White;Bashful IP95 HH117 White;Grumpy IP87 HH117 White;Dopey IP83 HH117 White;Sleepy IP82 HH117 White;Sneezy IP42 HH117 White;Doc IP20 HH117 White
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

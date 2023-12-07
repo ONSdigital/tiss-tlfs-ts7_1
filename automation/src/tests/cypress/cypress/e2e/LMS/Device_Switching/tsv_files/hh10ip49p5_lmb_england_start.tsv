@@ -1,0 +1,179 @@
+AboutYou	John IP0;;HH10 Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP37;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Three IP45;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	4
+AddPpl	Four IP47;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	5
+AddPpl	Five IP49;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	6
+AddPpl	Six BP50;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP51;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP52;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	9
+AddPpl	Nine BP54;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	10
+AddPpl	Ten BP104;;HH10 Person
+Sex	Male
+Rel to P1	Brother or sister
+LastPerMessage	Save and continue
+StudentChk	Someone else not listed above
+RelExPage	Save and continue
+Relationships	2;3;Husband, wife or legally registered civil partner
+Relationships	2;4;
+Relationships	2;5;Son or daughter
+Relationships	2;6;Son or daughter
+Relationships	2;7;Son or daughter
+Relationships	2;8;Son or daughter
+Relationships	2;9;Son or daughter
+Relationships	2;10;Son or daughter
+Relationships	3;4;Son or daughter
+Relationships	3;5;Son or daughter
+Relationships	3;6;Son or daughter
+Relationships	3;7;Son or daughter
+Relationships	3;8;Son or daughter
+Relationships	3;9;Son or daughter
+Relationships	3;10;Son or daughter
+Relationships	4;5;Brother or sister
+Relationships	4;6;Brother or sister
+Relationships	4;7;Brother or sister
+Relationships	4;8;Brother or sister
+Relationships	4;9;Brother or sister
+Relationships	4;10;Brother or sister
+Relationships	5;6;Brother or sister
+Relationships	5;7;Brother or sister
+Relationships	5;8;Brother or sister
+Relationships	5;9;Brother or sister
+Relationships	5;10;Brother or sister
+Relationships	6;7;Brother or sister
+Relationships	6;8;Brother or sister
+Relationships	6;9;Brother or sister
+Relationships	6;10;Brother or sister
+Relationships	7;8;Brother or sister
+Relationships	7;9;Brother or sister
+Relationships	7;10;Brother or sister
+Relationships	8;9;Brother or sister
+Relationships	8;10;Brother or sister
+Relationships	9;10;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Squatting
+Person	5
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Five IP49 HH10 Person
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	;;;
+Age	67
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Japanese
+CRY12	Other
+CRY12_Other	Japan
+Comment	CAMEYR > 2 years
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	British
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_Oth	Jamaican
+RELIGION	Other religion
+RELIGION_OTH	Vegetarian
+Current_passports	Ireland
+Expired_passports	Ireland
+Sexual_Orientation	Gay or Lesbian
+PAIDJOB	Yes
+SECJOB	No
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Good pay
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+supervisory_duties_1job	No
+managerial_duties_1job	No, I have no managerial duties
+number_employees_workplace_1job	250-499
+HOME	From home
+BroadbandA	Yes
+BroadbandB	Yes
+main_job_work_pattern_type	Condensed or compressed hours;Staggered hours
+usual_work_pattern_time_periods_main_job	11pm to 6am
+night_work_frequency_main_job	No time worked in these hours in past four weeks
+evening_work_ever_main_job	No
+day_work_ever_main_job	Yes
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	Yes
+EVEROT	I do not work overtime
+USHR	35;13
+ACTHR	0;0
+Comment	TOTAC1 should be 0 hrs 0 mins
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Dog walking
+SOC2020PT2	Walking dogs
+SIC2020EMP	They walk dogs
+SECTOR	A private firm, business or limited company
+Comment	CONMPY/CONMON1 < 4 months
+CONMON1	-3m
+CONMPY	-3m
+work_unpaid	No
+JobQual_Intro	;
+career_progression_main_job	Strongly agree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Agree
+satisfaction_main_job	Very satisfied
+manager_support_main_job	Strongly disagree
+in_job_bullying_12months	No
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Current job or business may come to an end;Current job or business is to fill time before finding another job or business;Pay unsatisfactory in current job or business
+looking_for_new_main_job_preferred_hours	Don't know
+PAYINTRO	Save and continue
+Grs1A	Hourly
+GrsExp	;
+GrsSkpA	12
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Annual leave

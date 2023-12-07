@@ -1,0 +1,39 @@
+AboutYou	Tinky Winky IP171;;HH46 Teletubbie
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dipsy IP169;;HH46 Teletubbie
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Lala BP148;;HH46 Teletubbie
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	4
+AddPpl	Po BP141;;HH46 Teletubbie
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+Relationships	2;4;Other non-relative
+Relationships	3;4;Daughter or son
+ShareCooking	Yes
+ShareLiv	No
+HRP	Po BP141 HH46 Teletubbie
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Dipsy IP169 HH46 Teletubbie
+AltAdd	No
+DOB	1;1;1980
+XMARSTA	Separated but still legally married
+Nationality	British
+CRY12	Scotland
+NATID	Scottish

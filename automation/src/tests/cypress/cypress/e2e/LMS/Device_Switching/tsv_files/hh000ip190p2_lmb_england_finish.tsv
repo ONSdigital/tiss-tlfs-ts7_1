@@ -1,0 +1,72 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+Grs1A	Hourly
+GrsExp	17
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Bank holiday
+WKPL99	Cardiff
+REDPAID	Yes
+REDYL18	Family or personal reasons
+HTHOTH	Yes
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Diff job
+soc2020_job_description_redundant_job	Diff job
+sic2007_industry_employed_redundant_job	Diff work
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	No
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Heart, blood pressure & circulation problems
+ILLST17	At least three months but less than six months
+ILNXSM	A different medical reason
+ILLNXT20	Pregnancy problems
+DIFPER	1
+APPCURR	No
+ENROL	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	Personal Independence Payment;Employment Support Allowance;Attendance Allowance;Industrial Injuries Disablement Benefit;Adult Disability Payment;Child Disability Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;National Insurance Credits;Child Benefit;Pension Credit;Carer;Job Seeker;Other
+uc_reason_claiming	Joint household claim with your partner
+state_pension_receiving	Yes
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2010
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+SATIS	;
+SATIS	Prefer not to say
+WORTH	;
+WORTH	Prefer not to say
+HAPPY	;
+HAPPY	Prefer not to say
+ANXIOUS	;
+ANXIOUS	Prefer not to say
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	No
+WCHJB	Main job
+GOBCK9	The same day
+TYPINJ	Fracture or broken bones
+SITEFR	Fingers or thumbs;Other bones
+ACCURH	Lost consciousness, even if just briefly;Needed resuscitation
+ACCKIND	Physically assaulted by a person
+ILLWRK1	No
+CIGEVER	No
+HH_refday	Gerard Way;Mikey IP190 Way;Ray Toro;Frank Iero
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

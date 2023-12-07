@@ -1,0 +1,59 @@
+AboutYou	Sarah P1Ineligible;;Jones
+Sex	Female
+AddressChk	No
+IneligibleType	My second home
+HholdChkAlt	Yes
+Person	2
+AddPpl	Dolly BP0;;Jones
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Alex BP12;;Hamilton
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Alice BP11;;Smith
+Sex	Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	5
+AddPpl	John IP22;;Carey
+Sex	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+Comment	StudentChk to be skipped.
+StudentChk	
+RelExPage	Save and continue
+Comment	All Relationships to be skipped.
+Relationships	2;3
+Relationships	2;4
+Relationships	2;5
+Relationships	3;4
+Relationships	3;5
+Relationships	4;5
+ShareCooking	Yes
+ShareLiv	Yes
+HRP	John IP22 Carey;Alice BP11 Smith;Someone else not listed above
+TEN1	Pay rent to the council, housing association, or charitable trust
+TIED	No
+Comment	End of House Hold
+Comment	Start IP22
+Person	5
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	John IP22 Carey
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	
+Age	35
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	British;Pakistani;Other
+Nationality_Oth	English
+CRY12	Other
+CRY12_Other	India
+Comment	> than 2 years from Ref date
+CAMEYR	2019

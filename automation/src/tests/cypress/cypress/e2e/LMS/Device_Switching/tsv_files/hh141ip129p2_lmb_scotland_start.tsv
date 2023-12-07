@@ -1,0 +1,74 @@
+Comment	Person1(BP0) dummy person
+AboutYou	John BP0;;Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dolly IP129;;Jones
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	No
+ShareLiv	Yes
+HRP	John BP0 Smith;Dolly IP129 Jones
+TEN1	Pay rent to a private landlord
+TIED	No
+Comment	End of Household Section
+Comment	Start of Person2 (IP129)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Dolly IP129 Jones
+AltAdd	No
+DOB	30;4;1953
+XMARSTA	In a legally registered civil partnership
+Nationality	Pakistani
+CRY12	England
+NatID	Scottish;British;Other
+NATID Other	Cypriot
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Black, Black Scottish or Black British
+RELIGION_SC	Buddhist
+Current_Passports	None
+Expired_Passports	None
+Sexual_Orientation	
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Full-time
+STAT2	Self-employed;Part-time
+Paid_wage_self_employed_21	My employer through PAYE
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Temporary
+Jobtyp18	Seasonal work;A job that included training
+WhyTemp18	To suit my circumstances
+CONTRACTMAINJOB20	No
+MINHRS	Yes
+number_employees_self_employed_main_2job	None, I work on my own or with a partner
+Paid_wage_self_employed_22	My clients or customers
+NITAX22	My tax or National Insurance is taken from my pay before I am paid
+number_employees_self_employed_second_2job	None, I work on my own or with a partner
+HOME	In different places using home as a base
+Work_location_second_job	In the same grounds or building as my home
+HOMEEV	No
+BROADBANDA	No
+BROADBANDB	No
+WHCDAYS18	;
+EVEROT	I am self-employed and this does not apply to me
+USHR1	40;34
+ACTHR1	30;0
+USHR2	10;57
+ACTHR2	10;57
+Comment	Total should be 40 Hours 57 Minutes
+check_total_usual_work_main_2job	Yes
+TOTAC2	Yes
+check_total_usual_work_second_2job	Yes
+check_total_actual_work_second_2job	Yes
+YLESS.SEMP	Illness or disability expected to last for 4 weeks or longer
+SOC2020PT1	Teacher
+SOC2020PT2	Teaching
+SIC2020SEMP	Primary School Education
+SOC2020_2_PT1	Dentist
+SOC2020_2_PT2	Fix Oral Issues
+SIC2020_2_SEmp	Dental Treatment

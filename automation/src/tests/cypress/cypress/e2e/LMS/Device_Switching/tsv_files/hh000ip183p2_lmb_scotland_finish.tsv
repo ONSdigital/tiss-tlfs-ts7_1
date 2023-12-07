@@ -1,0 +1,112 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	Gay or Lesbian
+PAIDJOB	No
+Own_run_business_check	Yes
+STAT	An employee;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_employee_20	My clients or customers
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Permanent
+CONTRACTMAINJOB20	Yes
+ZHC20	Yes
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, I am a manager
+number_employees_workplace_1job	Don't know
+number_employees_workplace_1job_dont_know_bands	25-49
+HOME	In a different location from my home
+HOMEEV	Yes
+BroadbandA	Yes
+BroadbandB	Yes
+main_job_work_pattern_type	Flexible working hours;Condensed or compressed hours;Working from home
+usual_work_pattern_time_periods_main_job	6am to 6pm;6pm to 11pm;11pm to 6am
+night_work_frequency_main_job	Less than half of the total time worked in these hours
+evening_work_frequency_main_job	Less than half of the total time worked in these hours
+WHCDAYS18	Did not work that week
+EVEROT	I work unpaid overtime
+usual_unpaid_overtime_nwrw_1job_hours	2;0
+USHR	90;50
+check_total_usual_work_1job	Yes
+YLESS.EMP	Caring responsibilities for adults and children
+SOC2020pt1	Firefighter
+SoC2020pt2	Fight fire
+SIC2020EMP	Firefighting
+SECTOR	A private firm, business or limited company
+Comment	< 4 months
+CONMON1	-1m
+CONMPY	-1m
+work_unpaid	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Strongly disagree
+employees_decision_involvement_main_job	Very poor
+meaningful_main_job	Strongly disagree
+satisfaction_main_job	Very Dissatisfied
+manager_support_main_job	Strongly disagree
+in_job_bullying_12months	No
+skills_match_main_job	I lack some skills required in my current duties
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	Yes
+number_of_extra_weekly_hours_preferred	10;0
+want_longer_hours_not_looking_reasons	Would like to work longer hours but in current job or business
+longer_hours_offered_start_in_2weeks_main_job	No
+PAYINTRO	Save and continue
+Grs1A	Monthly
+GrsExp	1500
+PTHRS	Yes, this is the full-time pay for my job
+Paid_same_as_usual	Yes
+WKPL99	Bath
+TRVTME	30
+TRVMTH	Walk
+REDPAID	No
+REDANY	No
+ACTWKDY	Tuesday;Wednesday;Thursday
+ILLWK	Yes
+ILLDAYS	Tuesday;Wednesday;Thursday
+statutory_sick_pay_receiving	No
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Eye, ear, nose or mouth problem
+ILLST17	Four days
+ILNXSM	A different medical reason
+ILLNXT20	Manic depression, schizophrenia or any other serious mental health problems
+EMPSICK4	No
+APPCURR	No
+ENROL	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	Personal Independence Payment;Employment Support Allowance
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very good
+SATIS	0
+WORTH	0
+HAPPY	0
+ANXIOUS	0
+LNGLST	;
+LNGLST	Don't know
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	No
+CIGEVER	Yes
+CIGNOW	No
+HH_refday	Gerard Way;Mikey IP183 Way;Ray Toro;Frank Iero
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

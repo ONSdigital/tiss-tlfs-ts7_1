@@ -1,0 +1,38 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	2
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+ENROL	No
+future_work_related_education_3months	Yes
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	Any grade GCSEs, O Levels or CSEs;EPQ;AS Levels, A Levels or T Levels
+EWNI_College	OND;HNC
+EWNI_Additional	Key, Essential or Functional Skills Qualification
+EWNI_Prof	Early Years Teaching or Professional Status
+EWNI_Uni	Undergraduate or Bachelor’s Degree
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Level 3
+Qual_Check	Any grade GCSEs, O Levels or CSEs;AS Levels, A Levels or T Levels;HNC;I need to add a qualification gained in Scotland
+Add_Qual_Scot	My qualification does not fit into any of these
+Add_Other_Qual	Some other qualification
+GCSE_Olevs	CSEs grade 2 or below
+Alev_Tlev	AS Levels;A Levels
+sickness_disability_benefits_claiming	Child Disability Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Carer
+uc_reason_claiming	Not working because of being a lone parent for a child under 5
+previously_served_armed_forces	Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2000
+LNGLST	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+HH_refday	Gerard IP59 HH11 Way;Mikey BP4 HH11 Way;Frank BP8 HH11 Iero;Ray BP5 HH11 Toro
+HH_refday1	Yes
+HH_refday2	6
+HH_refday_AddHold	Lindsey;Mary;Way;2;8;1979;Female
+HH_refday_AddHold	Tina;;;;;;;No
+HH_refday_AddHoldCheck	Yes
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

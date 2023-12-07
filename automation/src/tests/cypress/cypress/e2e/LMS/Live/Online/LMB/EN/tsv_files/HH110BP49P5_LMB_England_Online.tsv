@@ -1,0 +1,254 @@
+AboutYou	John BP0;;HH10 Smith
+DOB	1;1;1940
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP37;;HH10 Person
+DOB	;;;
+Age	45
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three BP45;;HH10 Person
+DOB	;;;
+Age	34
+SEX	Female
+Rel to P1	Legally registered civil partner
+HholdChk	Yes
+Person	4
+AddPpl	Four BP47;;HH10 Person
+DOB	;;;
+Age	38
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	5
+AddPpl	Five BP49;;HH10 Person
+DOB	;;;
+Age	68
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	6
+AddPpl	Six IP50;;HH10 Person
+DOB	;;;
+Age	28
+SEX	Female
+Rel to P1	Stepmother or stepfather
+HholdChk	Yes
+Person	7
+AddPpl	Seven IP51;;HH10 Person
+DOB	;;;
+Age	55
+SEX	Female
+Rel to P1	Mother-in-law or father-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight IP52;;HH10 Person
+DOB	;;;
+age	20
+SEX	Female
+Rel to P1	Daughter or son
+HholdChk	Yes
+Person	9
+AddPpl	Nine IP54;;HH10 Person
+DOB	;;;
+Age	67
+SEX	Female
+Rel to P1	Stepdaughter or stepson
+HholdChk	Yes
+Person	10
+AddPpl	Ten IP104;;HH10 Person
+DOB	;;;
+age	22
+SEX	Female
+Rel to P1	Daughter-in-law or son-in-law
+LastPerMessage	;
+StudentChk	Someone else not listed above
+RelExPage	;
+Relationships	2;3;Wife or husband
+Relationships	2;4;Legally registered civil partner
+Relationships	2;5;Partner
+Relationships	2;6;Mother or father
+Relationships	2;7;Stepmother or stepfather
+Relationships	2;8;Mother-in-law or father-in-law
+Relationships	2;9;Daughter or son
+Relationships	2;10;Stepdaughter or stepson
+Relationships	3;4;Daughter-in-law or son-in-law
+Relationships	3;5;Daughter or son
+Relationships	3;6;Daughter or son
+Relationships	3;7;Daughter or son
+Relationships	3;8;Daughter or son
+Relationships	3;9;Daughter or son
+Relationships	3;10;Daughter or son
+Relationships	4;5;Sister or brother
+Relationships	4;6;Sister or brother
+Relationships	4;7;Sister or brother
+Relationships	4;8;Sister or brother
+Relationships	4;9;Sister or brother
+Relationships	4;10;Sister or brother
+Relationships	5;6;Sister or brother
+Relationships	5;7;Sister or brother
+Relationships	5;8;Sister or brother
+Relationships	5;9;Sister or brother
+Relationships	5;10;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Sister or brother
+Relationships	6;9;Sister or brother
+Relationships	6;10;Sister or brother
+Relationships	7;8;Sister or brother
+Relationships	7;9;Sister or brother
+Relationships	7;10;Sister or brother
+Relationships	8;9;Sister or brother
+Relationships	8;10;Sister or brother
+Relationships	9;10;Sister or brother
+ShareCooking	Yes
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Squatting
+Person	5
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Japanese
+CRY12	Other
+CRY12_Other	Japan
+Comment	CAMEYR > 2 years
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	British
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_Oth	Jamaican
+RELIGION	Other religion
+RELIGION_OTH	Vegetarian
+Current_passports	Ireland
+Expired_passports	Ireland
+PAIDJOB	Yes
+SECJOB	No
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Five BP49 HH10 Person's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Good pay
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+supervisory_duties_1job	No
+managerial_duties_1job	No, they have no managerial duties
+number_employees_workplace_1job	250-499
+HOME	From home
+main_job_work_pattern_type	Condensed or compressed hours;Staggered hours
+usual_work_pattern_time_periods_main_job	11pm to 6am
+night_work_frequency_main_job	No time worked in these hours in past four weeks
+evening_work_ever_main_job	No
+day_work_ever_main_job	Yes
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	Yes
+EVEROT	Five BP49 HH10 Person does not work overtime
+USHR	35;13
+ACTHR	0;0
+Comment	TOTAC1 should be 0 hrs 0 mins
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Engineer
+SOC2020PT2	Gas desulphurisation
+sic2007_employed_main_job	Gas desulphurisation
+SECTOR	A private firm, business or limited company
+Comment	CONMPY/CONMON1 < 4 months
+CONMON1	-3m
+CONMPY	-3m
+OWNBUS18	No
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Current job or business may come to an end;Current job or business is to fill time before finding another job or business;Pay unsatisfactory in current job or business
+looking_for_new_main_job_preferred_hours	Don't know
+WKPL99	Manchester
+REDPAID	Yes
+REDYL18	Left for some other reason
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Gas desulphurisation
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Monday
+statutory_sick_pay_receiving	No
+ILL1PD	One
+IL1BEF	Before the first day worked in the week
+ILNE20	Manic depression, schizophrenia or any other serious mental health problems 
+ILLST17	Twelve months or longer
+DIFPER	2
+sickness_continuous_absence_length_under_2_months	More than two months
+sickness_continuous_absence_length_over_2_months	Longer than 12 months
+ILNE20M	Other
+ILNE12SE	Employment
+HWRET12E	Returned to work for a different employer
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Kitchen fitter
+apprenticeship_sic_2007_industry	Kitchens
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales;Scotland
+EWNISCOT_School	Intermediate 1 or 2
+EWNISCOT_College	None of these
+EWNISCOT_Additional	None of these
+EWNISCOT_HE	None of these
+Safety_Net_Q	None of these
+Qual_Check_EWNISCOT	Intermediate 1 or 2;I need to add another qualification gained in the UK
+Add_Qual_EWNISCOT	Higher education qualification
+Add_Uni_EWNISCOT	Diploma in Higher Education
+Intermediates_Lev	Intermediate 1
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+state_pension_receiving	Yes
+previously_served_armed_forces	No
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies;Skin conditions;Other physical health condition
+current_mental_health_condition	No
+main_health_condition	Allergies, for example, hayever
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+NUMILL	1
+work_illness_type_one	A different illness
+AWARE	Within the last 12 months 
+work_illness_time_off_length	Less than one week
+work_illness_time_off_length_days	4
+ILCURR	No
+WCHJB3	Some other job
+CIGEVER	No
+HH_refday	John BP0 HH10 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

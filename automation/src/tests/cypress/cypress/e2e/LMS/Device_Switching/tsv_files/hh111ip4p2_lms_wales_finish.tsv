@@ -1,0 +1,54 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+COURSE	A part-time course done through Open College or Open University
+ATTEND	Stopped attending
+future_work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Scotland
+EWNISCOT_School	Intermediate 1 or 2
+EWNISCOT_College	BTEC, BEC, TEC, Edexcel or LQL
+EWNISCOT_Additional	Basic Skills Qualification
+EWNISCOT_HE	Foundation degree
+Safety_Net_Q	Formal Award Qualification;Formal Certificate Qualification;Formal Diploma Qualification;Other Formal Qualification
+Safety_Net_Level_Awards	Level 1
+Safety_Net_Level_Certs	Level 5
+Safety_Net_Level_Dips	Level 5
+Safety_Net_Level_Other	Entry level
+Qual_Check_EWNISCOT	Intermediate 1 or 2;BTEC, BEC, TEC, Edexcel or LQL
+Intermediates_Lev	Intermediate 1
+BTEC_Type	BTEC
+BTEC_Number	1
+BTEC_Lev	Equivalent to GCSEs or lower
+BTEC_lev1_2	Entry level
+BTEC_EL_Type	Award qualification
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Other
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Diabetes
+current_neurodivergent_conditions	None of these
+current_conditions_other	Stomach, liver, kidney or digestive conditions
+current_mental_health_condition	No
+main_health_condition	Diabetes
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	None of these
+past_physical_conditions	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions;Stomach, liver, kidney, or digestive conditions;Cancer;Symptomatic HIV;Allergies, for example, hayfever;Skin conditions;Severe disfigurements;Problems with hearing;Problems seeing even when wearing glasses or contact lenses;Speech impediment;Other physical conditions
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a little
+ACCDNT	No
+ILLWRK2	No
+HH_refday	Gerard BP59; Mikey IP4 Way
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

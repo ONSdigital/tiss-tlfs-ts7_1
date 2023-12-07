@@ -1,0 +1,64 @@
+Person	2
+reason_made_redundant	Some other reason
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Yes
+soc2020_job_description_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Yes
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Saturday;Sunday
+statutory_sick_pay_receiving	No
+DIFPER	1 Period
+APPCURR	Yes
+apprenticeship_main_job	No
+ENROL	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	Any grade GCSEs, O Levels or CSEs;AS Levels, A Levels or T Levels
+EWNI_College	NVQ
+EWNI_Additional	Key, Essential or Functional Skills Qualification;Entry Level Qualification
+EWNI_Prof	Early Years Teaching or Professional Status;Qualified Teacher Status
+EWNI_Uni	Undergraduate or Bachelor;Master
+Safety_Net_Q	Formal Award Qualification;Formal Diploma Qualification
+Safety_Net_Level_Awards	Level 1
+Safety_Net_Level_Dips	Level 1
+Qual_Check	Any grade GCSEs, O Levels or CSEs;AS Levels, A Levels or T Levels;NVQ;Key, Essential or Functional Skills Qualification;Entry Level Qualification;Early Years Teaching or Professional Status;Qualified Teacher Status;Undergraduate or Bachelor;Master;Other Formal Award, Level 1;Other Formal Diploma, Level 1;I need to add another qualification gained in England, Northern Ireland or Wales
+Add_Qual	College or training qualification
+Add_College	BTEC, BEC, TEC, Edexcel or LQL
+GCSE_Olevs	O Levels;CSEs grade 1
+Alev_Tlev	T Levels
+BTEC_Type	BEC;Edexcel Qualification
+BEC_Lev	General
+Edexcel_Lev	Level 1
+NVQ_Year	Both
+NVQ_pre2015	Level 2
+NVQ_af2015	Entry level
+Skills_Type	Key;Essential
+Key_Skills	Level 1
+EssSkills_Lev	Entry level
+Teaching_Qual	Other postgraduate teaching qualification
+Teach_Age	Foundation stage
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Prefer not to say
+current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	Cancer;Diabetes;Dementia, for example Alzheimer's disease;Symptomatic HIV;Multiple sclerosis;Muscular dystrophy;Other progressive or relapsing and remitting conditions
+current_neurodivergent_conditions	Austism including Asperger's syndrome;Epilepsy;Learning disabilities, for example prenatal and postnatal;Learning difficulties, for example dyslexia and dyspraxia;ADHD;Down's syndrome;Tourette's syndrome;Speech impediment;Other neurodivergent condition
+current_conditions_other	 Heart, blood pressure or blood circulation conditions;Chest or breathing conditions for example asthma or bronchitis; Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies for example hayfever;Skin conditons;Other physical health condition
+current_mental_health_condition	Yes
+main_health_condition	Austism, including Asperger's syndrome
+LIMACT	Yes, a little
+REDACT	12 months or more
+past_long_lasting_health_condition_intro
+past_long_lasting_health_condition	No
+HH_refday	John IP0 HH16 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO
+CheckText	We would now like to ask some questions of each individual.

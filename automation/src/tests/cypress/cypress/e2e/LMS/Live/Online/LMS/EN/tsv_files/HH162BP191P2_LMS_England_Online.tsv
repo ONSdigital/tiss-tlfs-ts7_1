@@ -1,0 +1,105 @@
+AboutYou	John BP185;;HH162 Smith
+DOB	1;1;1997
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP191;;HH162 Person
+DOB	
+Age	71
+SEX	Female
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	No
+ShareLiv	Yes
+HRP	John BP185 HH162 Smith;Two BP191 HH162 Person
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Don't know
+Nationality	British;Indian
+CRY12	Pakistan
+CAMEYR	They were born in the UK
+CRY12EUK	Scotland
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_Passports	United Kingdom
+Expired_Passports	United Kingdom
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	An employee;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_employee_20	Two BP191 HH162 Person's employment agency or umbrella company
+NITAX20	Two BP191 HH162 Person's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Permanent
+CONTRACTMAINJOB20	Yes
+ZHC20	Yes
+supervisory_duties_1job	No
+managerial_duties_1job	No, they have no managerial duties
+number_employees_workplace_1job	20-24
+HOME	In the same grounds or building as their home
+HOMEEV	No
+main_job_work_pattern_type	Flexible working hours;Term-time working
+usual_work_pattern_time_periods_main_job	6am to 6pm;6pm to 11pm;11pm to 6am
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_frequency_main_job	Less than half of the total time worked in these hours
+WHCDAYS18	Did not work that week
+EVEROT	Two BP191 HH162 Person does not work overtime
+USHR	37;53
+check_total_usual_work_1job	Yes
+YLESS.EMP	Parental leave
+FIFSAL18	Yes
+SOC2020PT1	Manufacturer flags
+SOC2020PT2	Manufacturer flags
+sic2007_employed_main_job	Manufactures  flags
+SECTOR	Some other kind of organisation
+SECTOR03	A university or other grant funded establishment (including opted-out schools)
+Comment	CONSEY/CONMON2 < 4 months
+CONMON1	-2m
+CONMPY	-2m
+OWNBUS18	No
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Other reasons
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	21;21
+longer_hours_offered_start_in_2weeks_main_job	No
+WKPL99	Winchester
+REDPAID	No
+REDANY	No
+ACTWKDY	They were not scheduled to work
+EMPSICK4	No
+AppCurr	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Teacher Training
+apprenticeship_sic_2007_industry	Primary education
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	National Insurance Credits
+state_pension_receiving	No
+previously_served_armed_forces	No
+QHEALTH1	Very bad
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	No
+HH_refday	John BP185 HH162 Smith;Two BP191 HH162 Person
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

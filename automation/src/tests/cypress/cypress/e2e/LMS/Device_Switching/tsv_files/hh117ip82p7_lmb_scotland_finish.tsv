@@ -1,0 +1,77 @@
+Person	7
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	9
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1']]
+apprenticeship_sic_2007_industry	Painting
+ENROL	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	Scottish or International Baccalaureate
+Scot_leavers	SVQ;GSVQ
+Scot_Other	City and Guilds Qualification;Apprenticeships
+Scot_HigherEd	14-19 Diploma;Early Years Teaching;Foundation Degree
+Safety_Net_Q	Formal Award Qualification
+Safety_Net_Level_Awards	Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;My qualification is not formal and does not have a level
+Qual_Check_Scot	Scottish or International Baccalaureate;SVQ;GSVQ;City and Guilds Qualification;Apprenticeships;14-19 Diploma;Early Years Teaching;Foundation Degree;Other Formal Award, Level 2;Other Formal Award, Level 3;Other Formal Award, Level 4;Other Formal Award, Level 5;Other Formal Award, Level 6;Other Formal Award, Level 7;Other Formal Award, Level 8;Award Qualification, no level;I need to add a qualification gained in England, Northern Ireland or Wales;I need to add another qualification gained in Scotland
+Add_Qual_EWNISCOT	School qualification;School leavers, college or training qualification;Higher education qualification
+Add_School_EWNISCOT	Access 1 to 3;O Grades;National 1 to 5;GCSEs, O Levels or CSEs
+Add_College_EWNISCOT	SCOTVEC;OND or SND;HNC or SHNC;HND or SHND
+Add_Uni_EWNISCOT	Diploma in Higher Education;Nursing Qualification;Qualified Teacher Status;Chartered qualification
+Nationals_Lev	National 3
+GCSE_Olevs	CSEs grade 1;CSEs grade 2 or below
+Bacc_WSI	Welsh Baccalaureate
+EWNISCOT_Wbacc	Foundation
+SCOTVEC_Type	First, General or National Diploma
+SVQ_Lev	Level 4
+SCQF_Lev	No
+CG_Type	Award;Certificate;Diploma
+CG_Size	Level 5
+DIP_14_19	Foundation;Advanced or Progression
+GSVQ_GNVQ_Lev	Foundation
+App_Location_EWNISCOT	England, Northern Ireland or Wales
+App_Lev	Intermediate or BTEC Apprenticeship
+Nursing_Qual	Postgraduate
+Teaching_Qual	PGCE or PGDE
+Teach_Age	Foundation stage
+Chart_type	I have a chartered qualification
+sickness_disability_benefits_claiming	Employment Support Allowance
+oth_benefits_claiming	Universal Credit;Job Seekers Allowance
+uc_reason_claiming	Other reason
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2010
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+SATIS	6
+WORTH	6
+HAPPY	6
+ANXIOUS	6
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	Down's syndrome
+current_conditions_other	None of these
+current_mental_health_condition	No
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+NUMILL	4
+TYPILL	A breathing or lung problem
+AWARE	More than 12 months ago
+work_illness_time_off_length	No time off work
+WCHJB3	Second job
+CIGEVER	No
+HH_refday	John IP0 HH117 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

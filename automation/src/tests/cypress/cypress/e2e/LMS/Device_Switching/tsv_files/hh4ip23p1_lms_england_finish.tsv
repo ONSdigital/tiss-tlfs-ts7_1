@@ -1,0 +1,29 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	3
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	1
+UPDATE_PEOPLE	[['1', '1']]
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Muscular dystrophy 
+current_neurodivergent_conditions	Learning difficulties, for example dyslexia and dyspraxia
+current_conditions_other	Allergies for example hayfever 
+current_mental_health_condition	No
+main_health_condition	Muscular dystrophy 
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	None of these
+past_physical_conditions	Symptomatic HIV
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a lot
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	Yes
+OUTRO1	abc@gmail.com;abc@gmail.com
+OUTRO2	Yes
+OUTRO3b	123456789
+Feedback	Very difficult
+CheckText	Thank you, this part of the Shape Tomorrow study is now complete. You may close your browse

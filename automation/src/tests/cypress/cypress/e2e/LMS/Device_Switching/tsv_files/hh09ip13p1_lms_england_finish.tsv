@@ -1,0 +1,56 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	2
+UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
+ILLDAYS	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+DIFPER	1
+APPCURR	No
+ENROL	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Scotland;Outside of the UK
+EWNISCOT_School	Standard Grades
+EWNISCOT_College	ONC or SNC
+EWNISCOT_Additional	Key, Core, Essential or Functional Skills Qualification
+EWNISCOT_HE	Nursing Qualification
+Safety_Net_EWNIScotNonUK	Formal Award Qualification
+Safety_Net_Level_Awards	Level 7
+NonUK_School	Qualifications like AS or A Levels
+NonUK_Deg	Undergraduate Degree
+Qual_Check_EWNISCOT	Standard Grades;ONC or SNC;Key, Core, Essential or Functional Skills Qualification;Nursing Qualification;Other Formal Award, Level 7
+Qual_check_NonUK	Qualifications like AS or A Levels;Undergraduate Degree
+Standards_Lev	General
+EWNISCOT_Skills	Key
+EWNISCOT_KeySkills	Level 1
+Nursing_Qual	Nursing Associate qualification
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit
+uc_reason_claiming	Joint household claim with your partner
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Back or neck
+past_physical_conditions	Heart, blood pressure or blood circulation conditions
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a little
+ACCDNT	Yes
+ILLWRK1	Yes
+work_illness_most_serious_time_off_length	No time off work
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	No
+Comment	AddrHist_date <less than 1 year  ago of ref date
+AddrHist_Date	-11m
+AddrHist_manual	33;;univers;;MU1 1NV; button moon
+Comment	AddrHist_date <less than 2 years ago of ref date
+AddrHist_Date	-23m
+AddrHist_manual	10;;univers;;MU1 1NV; button moon
+Comment	AddrHist_date <less than 3 years ago of ref date
+AddrHist_Date	-35m
+AddrHist_manual	12;;univers;;MU1 1NV; button moon
+Individual_OUTRO	 
+CheckText	We would now like to ask some questions about each person

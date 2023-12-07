@@ -1,0 +1,256 @@
+AboutYou	Jane IP0;;HH10 Smith
+DOB	1;1;1950
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP37;;HH10 Person
+DOB	;
+Age	28
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three IP45;;HH10 Person
+DOB	;
+Age	55
+SEX	Female
+Rel to P1	Legally registered civil partner
+HholdChk	Yes
+Person	4
+AddPpl	Four IP47;;HH10 Person
+DOB	;
+Age	33
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	5
+AddPpl	Five IP49;;HH10 Person
+DOB	;
+Age	68
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	6
+AddPpl	Six BP50;;HH10 Person
+DOB	;
+Age	30
+SEX	Female
+Rel to P1	Stepmother or stepfather
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP51;;HH10 Person
+DOB	;
+Age	20
+SEX	Female
+Rel to P1	Mother-in-law or father-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP52;;HH10 Person
+DOB	;
+Age	41
+SEX	Female
+Rel to P1	Daughter or son
+HholdChk	Yes
+Person	9
+AddPpl	Nine BP54;;HH10 Person
+DOB	;
+Age	67
+SEX	Female
+Rel to P1	Stepdaughter or stepson
+HholdChk	Yes
+Person	10
+AddPpl	Ten BP104;;HH10 Person
+DOB	;
+Age	25
+SEX	Female
+Rel to P1	Daughter-in-law or son-in-law
+LastPerMessage	Save and continue
+StudentChk	Someone else not listed above
+RelExPage	Save and continue
+Relationships	2;3;Wife or husband
+Relationships	2;4;Legally registered civil partner
+Relationships	2;5;Partner
+Relationships	2;6;Mother or father
+Relationships	2;7;Stepmother or stepfather
+Relationships	2;8;Mother-in-law or father-in-law
+Relationships	2;9;Daughter or son
+Relationships	2;10;Stepdaughter or stepson
+Relationships	3;4;Daughter-in-law or son-in-law
+Relationships	3;5;Daughter or son
+Relationships	3;6;Daughter or son
+Relationships	3;7;Daughter or son
+Relationships	3;8;Daughter or son
+Relationships	3;9;Daughter or son
+Relationships	3;10;Daughter or son
+Relationships	4;5;Sister or brother
+Relationships	4;6;Sister or brother
+Relationships	4;7;Sister or brother
+Relationships	4;8;Sister or brother
+Relationships	4;9;Sister or brother
+Relationships	4;10;Sister or brother
+Relationships	5;6;Sister or brother
+Relationships	5;7;Sister or brother
+Relationships	5;8;Sister or brother
+Relationships	5;9;Sister or brother
+Relationships	5;10;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Sister or brother
+Relationships	6;9;Sister or brother
+Relationships	6;10;Sister or brother
+Relationships	7;8;Sister or brother
+Relationships	7;9;Sister or brother
+Relationships	7;10;Sister or brother
+Relationships	8;9;Sister or brother
+Relationships	8;10;Sister or brother
+Relationships	9;10;Sister or brother
+ShareCooking	Yes
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Squatting
+Person	6
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	A second home
+TimeAway	No
+XMARSTA	Married
+Nationality	Indian
+CRY12	India
+Comment	CAMEYR > 2 years
+CAMEYR	-40m
+CONTUK	Yes
+WHYUK10	For employment
+NATID	English;Scottish
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	African
+RELIGION	Muslim
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+PAIDJOB	Yes
+SECJOB	No
+STAT	An employee;Full-time
+Paid_wage_employee_20	Six BP50 HH10 Person's employment agency or umbrella company
+NITAX20	Six BP50 HH10 Person's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Casual
+WhyCas18_Emp	Could not find a permanent job
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	Yes
+supervisory_duties_1job	Yes
+managerial_duties_1job	Yes, they are a manager
+number_employees_workplace_1job	500 or more
+HOME	From home
+main_job_work_pattern_type	None of these
+usual_work_pattern_time_periods_main_job	6pm to 11pm;11pm to 6am
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_frequency_main_job	Less than half of the total time worked in these hours
+day_work_ever_main_job	No
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	Yes
+EVEROT	Six BP50 HH10 Person does not work overtime
+USHR	35;3
+ACTHR	0;0
+Comment	Total should be 35 Hours 3 minutes
+check_total_usual_work_1job	Yes
+Comment	TOTAL should be 0 Hours
+TOTAC1	Yes
+YLESS.EMP	Illness or disability expected to last for 4 weeks or longer
+SOC2020PT1	Plumber
+SOC2020PT2	Fix Pipelines
+sic2007_employed_main_job	Repairing
+SECTOR	A private firm, business or limited company
+Comment	CONMPY/CONMON1 < 4 months
+CONMON1	-1m
+CONMPY	-1m
+OWNBUS18	No
+self_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Journey to work unsatisfactory in current job or business
+looking_for_new_main_job_preferred_hours	Shorter
+shorter_hours_less_pay	Don't know
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	For education or training
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Chef
+soc2020_job_description_redundant_job	Cooking
+sic2007_industry_employed_redundant_job	Hotel
+ACTWKDY	Tuesday;Wednesday;Thursday
+ILLWK	No
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	Yes
+work_related_education_4weeks	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	AS Levels, A Levels or T Levels;BTEC, BEC, TEC, Edexcel or LQL
+EWNI_College	ONC;City and Guilds Qualification
+EWNI_Additional	Youth Training Scheme Certificate
+EWNI_Prof	Chartered Qualification
+EWNI_Uni	Doctorate
+Safety_Net_EWNINonUK	None of these
+NonUK_School	Qualifications like GCSEs or O Levels
+NonUK_Deg	None of these
+Qual_Check	AS Levels, A Levels or T Levels;BTEC, BEC, TEC, Edexcel or LQL;ONC;City and Guilds Qualification;Youth Training Scheme Certificate;Chartered Qualification;Doctorate
+Qual_Check_NonUK	Qualifications like GCSEs or O Levels;I need to add a qualification gained in Scotland
+Add_Qual_Scot	Higher education qualification
+Add_HE	Diploma in Higher Education
+Alev_Tlev	AS Levels
+BTEC_Type	Edexcel Qualification
+Edexcel_Lev	Level 2
+CG_Type	I don't know
+CG_Size	Level 3
+Chart_type	They are a member of a professional body
+sickness_disability_benefits_claiming	Industrial Injuries Disablement Benefit
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	Skin conditions;Other physical health condition
+current_mental_health_condition	Yes
+main_health_condition	Skin conditons
+LIMACT	Yes, a lot
+REDACT	Less than 6 months
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Main job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	14
+TYPINJ	Dislocation of a joint  
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Slipped, tripped or fell on the same level
+ILLWRK1	Yes
+NUMILL	1
+work_illness_type_one	A breathing or lung problem
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	4
+ILCURR	Yes
+WCHJB3	Main job
+CIGEVER	No
+HH_refday	Jane IP0 HH10 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

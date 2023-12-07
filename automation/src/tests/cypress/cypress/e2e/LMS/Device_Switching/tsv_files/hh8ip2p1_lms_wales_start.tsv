@@ -1,0 +1,92 @@
+AboutYou	Daniel IP2;;HH8 Howell
+Sex	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HHoldChk	Yes
+Person	2
+AddPpl	John IP0;;HH8 Smith;Female
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Phil BP3;;HH8 Lester;Male
+Sex	Male
+StuRel	Husband
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;Father or mother
+ShareCooking	Yes
+ShareLiv	No
+HRP	Daniel IP2 HH8 Howell;Someone else not listed above
+TEN1	Own it outright
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Daniel IP2 HH8 Howell
+AltAdd	Yes
+AltAddType	A student halls of residence
+DOB	11;6;1992
+XMARSTA	Married
+Nationality	British
+CRY12	Isle of Man or Channel Islands
+Comment	CAMEYR <= 2 years
+CAMEYR	-24m
+CONTUK	Yes
+Comment	CAMEMT > 12 months
+CAMEMT	-24m
+WHYUK10	For study
+NATID	Welsh
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	White and Black African
+RELIGION	Other
+RELIGION_Oth	Killjoy
+Welsh Language	Understand spoken Welsh;Read Welsh
+Current_passports	United Kingdom;Other
+Multi_current_passport	Portugal
+Current_passport_check	Yes
+Multi_current_passport	Italy
+Current_passport_check	Yes
+Multi_current_passport	India
+Last_passport_message	Save and continue
+Expired_passports	None
+Sexual_Orientation	Gay or Lesbian
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+Look4_18	No
+NOLOWM18	Illness or injury expected to last fewer than 4 weeks
+like_paid_job	Yes
+MargAtch	Yes
+think_work_in_future	Definitely
+when_think_work_in_future	Within the next year
+LEFTYR18	I have never had a paid job
+work_unpaid	Yes, for a voluntary cause or charity
+APPCURR	Yes
+apprenticeship_main_job	No
+ENROL	Yes
+COURSE	A full-time course at university or college
+ATTEND	Waiting for term to start or restart
+future_work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Outside of the UK
+NonUK_School	High school diploma
+Dip_Age	14 to 16 years old
+NonUK_Deg	Other formal university qualification
+Other_Uni_Lev	Level 4
+Qual_Check_NonUK	High school diploma
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Child Benefit
+uc_reason_claiming	Other reason
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	No

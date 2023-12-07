@@ -1,0 +1,5 @@
+automation/src/tests/cypress/node_modules/
+**/.DS_Store
+automation/src/tests/cypress/cypress/e2e/LMS/framework/inProgress/
+automation/src/tests/cypress/node_modules/
+automation/src/tests/cypress/cypress/integration/

@@ -1,0 +1,140 @@
+AboutYou	Tinky Winky BP171;;HH146 Teletubbie
+DOB	1;1;2000
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dipsy BP169;;HH146 Teletubbie
+DOB	1;1;2000
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Lala IP148;;HH146 Teletubbie
+DOB	;;;
+Age	66
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	4
+AddPpl	Po IP141;;HH146 Teletubbie
+DOB	;;;
+Age	68
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4;
+Relationships	3;4;Daughter or son
+ShareCooking	Yes
+ShareLiv	No
+HRP	Po IP141 HH146 Teletubbie
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Separated but still legally married
+Nationality	British
+CRY12	Scotland
+NATID	Scottish
+Ethnicity	Asian or Asian British
+ASIAN	Chinese
+RELIGION	Buddhist
+Welsh Language	Speak Welsh
+CYMFREQ	Daily
+Current_passports	None
+Expired_passports	None
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	;
+like_paid_job	No
+MargAtch	Yes
+think_work_in_future	Definitely
+when_think_work_in_future	Within the next year
+LEFTYR18	Dipsy BP169 HH146 Teletubbie has never had a paid job
+OWNBUS18	Yes, for a family owned business
+usual_unpaid_family_worker_hours	80;45
+actual_unpaid_family_worker_hours	90;0
+soc2020_job_title_unpaid_family_worker	Lawyer
+soc2020_job_description_unpaid_family_worker	Law
+sic2007_unpaid_family_worker	Law
+number_employees_workplace_ufw	11-19
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Friday
+ILL1PD	One
+ILNE20	Back pain
+EMPSICK4	Yes
+WKSK4	2
+sickness_continuous_absence_length_under_2_months	At least six weeks but less than two months
+ILNE20M	Neck and upper limb problems
+ILNE12SE	Somewhere else
+HWRET12E	Still on long term sickness absence
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales;Scotland;Outside of the UK
+EWNISCOT_School	None of these
+EWNISCOT_College	None of these
+EWNISCOT_Additional	None of these
+EWNISCOT_HE	None of these
+Safety_Net_EWNIScotNonUK	None of these
+Other_qual	Forklift certified
+NonUK_School	None of these
+NonUK_Deg	None of these
+NonUK_Other_Qual	Forklift mastery
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit
+uc_reason_claiming	Not working because they were sick, injured or disabled
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2015
+SMOYArea	Bath
+SMOYCty	Somerset
+SMHCOMP	Other non-family members
+QHEALTH1	Good
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	Severe disfigurements;Skin conditions
+current_mental_health_condition	No
+main_health_condition	Severe disfigurements
+LIMACT	Yes, a lot
+REDACT	Prefer not to say
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Main job
+GOBCK9	Or they have not yet returned to paid work
+TYPINJ	Multiple injuries where no one injury was obviously more severe
+ACCURH	None of these
+ACCKIND	Another kind of accident
+ACCKIND_Other	Crushed
+ILLWRK1	Yes
+NUMILL	1
+work_illness_type_one	Stress, depression or anxiety
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	2
+WCHJB3	Some other job
+NOBACK9	No
+CIGEVER	No
+Hh_refday	Tinky Winky BP171 HH146 Teletubbie;Dipsy BP169 HH146 Teletubbie;Lala IP148 HH146 Teletubbie;Po IP141 HH146 Teletubbie
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

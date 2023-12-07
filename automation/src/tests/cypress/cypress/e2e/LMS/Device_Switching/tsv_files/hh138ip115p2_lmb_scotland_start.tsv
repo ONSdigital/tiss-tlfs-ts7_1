@@ -1,0 +1,36 @@
+AboutYou	John BP0;;Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dolly IP115;;Jones
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Sally BP121;;Smith
+Sex	Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Alex BP122;;Hamilton
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4
+Relationships	3;4;Other relative
+ShareCooking	Yes
+ShareLiv	No
+HRP	Dolly IP115 Jones;Alex BP122 Hamilton
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Comment	End of House Hold
+Comment	Start of Person 2 (IP115)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Dolly IP115 Jones
+AltAdd	No

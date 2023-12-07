@@ -1,0 +1,135 @@
+AboutYou	John IP0;;HH16 Smith
+SEX	Male
+AddressChk	No
+HholdChk	Yes
+Person	2
+AddPpl	Two IP34;;HH16 Person
+SEX	Male
+Rel to P1	Husband
+HholdChk	Yes
+Person	3
+AddPpl	Three IP65;;HH16 Person
+SEX	Male
+Rel to P1	Stepbrother or stepsister
+HholdChk	Yes
+Person	4
+AddPPl	Four IP68;;HH16 Person
+SEX	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	5
+AddPpl	Five BP73;;HH16 Person
+SEX	Male
+Rel to P1	Stepson or stepdaughter
+HholdChk	Yes
+Person	6
+AddPpl	Six BP78;;HH16 Person
+SEX	Male
+Rel to P1	Son or daughter
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP81;;HH16 Person
+SEX	Male
+Rel to P1	Son-in-law or daughter-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP85;;HH16 Person
+SEX	Male
+Rel to P1	Grandson or granddaughter
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4;
+Relationships	2;5;Son or daughter
+Relationships	2;6;Stepson or stepdaughter
+Relationships	2;7;Son-in-law or daughter-in-law
+Relationships	2;8;Grandson or granddaughter
+Relationships	3;4;Stepfather or stepmother
+Relationships	3;5;Other relative
+Relationships	3;6;Other relative
+Relationships	3;7;Other relative
+Relationships	3;8;Other relative
+Relationships	4;5;Grandfather or grandmother
+Relationships	4;6;Grandfather or grandmother
+Relationships	4;7;Other non-relative
+Relationships	4;8;Other relative
+Relationships	5;6;Stepbrother or stepsister
+Relationships	5;7;Other non-relative
+Relationships	5;8;Other relative
+Relationships	6;7;Husband
+Relationships	6;8;Father or mother
+Relationships	7;8;Father or mother
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP0 HH16 Smith
+TEN1	Don't know
+Person	2
+IndivIntroPage
+SETPROXY	No
+ProxyCheck	Two IP34 HH16 Person
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	12;12;1980
+XMARSTA	Separated but still legally married
+Nationality	Other
+Nationality_Oth	Spanish
+CRY12	Other
+CRY12_Other	Spain
+Comment	CAMEYR > 2 years
+CAMEYR	-67m
+CONTUK	Yes
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+NATID	English;Northern Irish;British
+Ethnicity	Other
+OTHER	Arab
+RELIGION	Christian
+Current_passports	Other
+Multi_current_passport	Malta
+Current_passport_check	No
+Expired_passports	Other
+Multi_expired_passport	Kiribati
+Expired_passport_check	No
+Sexual_Orientation	 Straight or Heterosexual
+PAIDJOB	No
+CasualJob20	Yes
+CASWRK18	Yes
+WhyCas18	Other
+WhyCas18_Oth	Travelling
+Paid_wage_employee_21	A company through an app or online platform, such as Deliveroo
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+CONTRACTMAINJOB20	No
+MINHRS	No
+HOME	In different places using home as a base
+HOMEEV	Yes
+BroadbandA	Yes
+BroadbandB	No
+WHCDAYS18	Did not work that week
+SOC2020PT1	Magician
+SOC2020PT2	Magic tricks
+SIC2020EMP	Entertainment
+SECTOR	A private firm, business or limited company
+Comment	CONMON1/CONMPY > 4 months
+CONMON1	-12m
+CONMPY	-12m
+work_unpaid	No
+JobQual_Intro	Yes
+career_progression_main_job	Neither disagree nor agree
+employees_decision_involvement_main_job	Neither good nor poor
+meaningful_main_job	Neither disagree nor agree
+satisfaction_main_job	Neither dissatisfied nor satisfied
+manager_support_main_job	Neither disagree nor agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	One to two times
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	No
+paid_same_as_usual	Yes
+WKPL99	Manchester
+REDANY	Yes

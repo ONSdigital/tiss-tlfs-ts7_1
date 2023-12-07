@@ -1,0 +1,17 @@
+AboutYou	John BP0;;HH150 Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Princess BP142;;HH150 Zelda
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Revali BP143;;HH150 Rito
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	4
+AddPpl	Daruk BP153;;HH150 Goron
+Sex	Male

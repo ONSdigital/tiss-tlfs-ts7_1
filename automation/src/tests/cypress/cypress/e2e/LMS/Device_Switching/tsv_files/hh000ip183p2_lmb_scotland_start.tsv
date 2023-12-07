@@ -1,0 +1,43 @@
+AboutYou	Gerard;;Way
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mikey IP183;;Way
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Ray;;Toro
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Frank;;Iero
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard Way;Frank Iero
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 2 (IP4)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Mikey IP183 Way
+AltAdd	No
+DOB	;;;
+Age	55
+XMARSTA	Married
+Nationality	British
+CRY12	Scotland
+NATID	Scottish

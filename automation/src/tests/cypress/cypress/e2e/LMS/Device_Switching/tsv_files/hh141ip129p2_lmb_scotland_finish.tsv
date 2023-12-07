@@ -1,0 +1,75 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	2
+UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
+Comment	More than 4 Months ago
+CONMON2	-5m
+CONSEY	-5m
+work_unpaid	No
+self_union_membership	Yes
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For an additional job or business
+number_of_extra_weekly_hours_preferred	18;18
+longer_hours_offered_start_in_2weeks_self_employed	Yes
+WKPL99	London
+TRVMTH	Car, van, minibus or works van
+TRVDRV	As a passenger
+Workplace_location_second_job	London
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Chef
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday
+statutory_sick_pay_receiving	Yes
+ILL1PD	One
+ILNE20	Other gastrointestinal problems
+EMPSICK4	Yes
+WKSK4	3
+sickness_continuous_absence_length_under_2_months	More than two months
+sickness_continuous_absence_length_over_2_months	11
+ILNE20M	Pregnancy problems
+ILNE12SE	Self-employment
+HWRET12S	Left your job and have stopped working for now
+AppCurr	No
+Enrol	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+state_pension_receiving	Yes
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Other family member
+SMOCCT	Dentist
+SMOCCD	Fix Oral Issues
+SMERESE	Self-employed
+QHEALTH1	Very good
+SATIS	2
+WORTH	2
+HAPPY	2
+ANXIOUS	2
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Main job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	5
+TYPINJ	Burn or scald
+ACCURH	None of these
+ACCKIND	Near drowning or near asphyxiated
+ILLWRK1	No
+CIGEVER	No
+HH_refday	John BP0 Smith;Dolly IP129 Jones
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

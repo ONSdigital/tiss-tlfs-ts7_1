@@ -1,0 +1,221 @@
+AboutYou	Jane IP0;;HH26 Smith
+DOB	1;1;1944
+Sex	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP40;;HH26 Smith
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Three IP41;;HH26 Smith
+DOB	9;1;1967
+Sex	Male
+Rel to P1	Stepbrother or stepsister
+HholdChk	Yes
+Person	4
+AddPpl	Four BP58;;HH26 Smith
+DOB	1;1;1991
+Sex	Male
+Rel to P1	Grandfather or grandmother
+HholdChk	Yes
+Person	5
+AddPPl	Five BP64;;HH26 Smith
+DOB	19;1;1995
+Sex	Male
+Rel to P1	Grandson or granddaughter
+HholdChk	Yes
+Person	6
+AddPpl	Six BP75;;HH26 Smith
+DOB	27;09;1989
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	7
+AddPpl	Seven IP94;;HH26 Smith
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Brother or sister
+Relationships	2;4;Stepbrother or stepsister
+Relationships	2;5;Grandfather or grandmother
+Relationships	2;6;Grandson or granddaughter
+Relationships	2;7;Other relative
+Relationships	3;4;Other non-relative
+Relationships	3;5;Other non-relative
+Relationships	3;6;Other relative
+Relationships	3;7;Other relative
+Relationships	4;5;Other relative
+Relationships	4;6;Other relative
+Relationships	4;7;Other relative
+Relationships	5;6;Other relative
+Relationships	5;7;Other relative
+Relationships	6;7;Other non-relative
+ShareCooking	Yes
+ShareLiv	No
+HRP	Jane IP0 HH26 Smith;Two IP40 HH26 Smith;Three IP41 HH26 Smith;Four BP58 HH26 Smith;Five BP64 HH26 Smith;Six BP75 HH26 Smith;Seven IP94 HH26 Smith
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Person	6
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Widowed
+Nationality	Indian
+CRY12	Other
+CRY12_Other	Thailand
+Comment	CAMEYR > 2 years
+CAMEYR	-50m
+CONTUK	No
+Comment	CAMEYR2/CAMEMT <= 12 months
+CAMEYR2	-10m
+CAMEMT	-10m
+QSTAY	12 months or more
+WHYUK10	Another reason
+ever_sought_asylum	No
+NATID	Northern Irish;Scottish;British
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom;Other
+Multi_current_passport	Spain
+Current_passport_check	No
+Expired_passports	Ireland
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Full-time
+STAT2	An employee;Full-time
+Paid_wage_self_employed_21	Six BP75 HH26 Smith's clients or customers
+NITAX21	Six BP75 HH26 Smith's tax or National Insurance is taken from their pay before they are paid
+TEMPJOB18	Temporary
+Jobtyp18	A job that included training
+WhyTemp18	On training or probation
+CONTRACTMAINJOB20	No
+MINHRS	No
+number_employees_self_employed_main_2job	1-10
+number_employees_self_employed_1_to_10_main_2job	;
+Paid_wage_employee_22	Six BP75 HH26 Smith's clients or customers
+NITAX22	Six BP75 HH26 Smith's tax or National Insurance is taken from their pay before they are paid
+supervisory_duties_second_2job	Yes
+managerial_duties_second_2job	No, they have no managerial duties
+number_employees_workplace_second_2job	1-10
+number_employees_workplace_1_to_10_second_2job	;
+HOME	In different places using home as a base
+work_location_second_job	In a different location from their home
+HOMEEV	Yes
+WHCDAYS18	Did not work that week
+EVEROT	Six BP75 HH26 Smith works both paid and unpaid overtime
+usual_unpaid_overtime_nwrw_main_2job_hours	0;0
+usual_unpaid_overtime_nwrw_second_2job_hours	1;19
+usual_paid_overtime_nwrw_main_2job_hours	0;0
+usual_paid_overtime_nwrw_second_2job_hours	5;33
+USHR1	40;48
+USHR2	10;0
+check_total_usual_work_main_2job	Yes
+check_total_usual_work_second_2job	Yes
+YLESS.SEMP	On leave
+SOC2020PT1	Blacksmith
+SOC2020PT2	Metal work
+sic2007_self_employed_main_job	Casting of iron
+SOC2020_2_PT1	Salesman
+SOC2020_2_PT2	Sellling
+sic2007_employed_second_job	Wholesale trade of motor parts
+Comment	CONSEY/CONMON2 > 4 months
+CONMON2	-9m
+CONSEY	-9m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	Yes
+number_of_extra_weekly_hours_preferred	20;10
+want_longer_hours_not_looking_reasons	Would like to work longer hours but in current job or business
+longer_hours_offered_start_in_2weeks_self_employed	Yes
+WKPL99	Bristol
+TRVMTH	Car, van, minibus or works van
+TRVDRV	As a driver
+workplace_location_second_job	Bristol
+REDANY	Yes
+reason_made_redundant	Some other reason
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Lawyer
+soc2020_job_description_redundant_job	Law
+sic2007_industry_employed_redundant_job	Law
+ACTWKDY	Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one
+ILLFST20	Manic depression, schizophrenia or any other serious mental health problems
+ILNXSM	A different medical reason
+ILLNXT20	Other respiratory conditions
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	At least six weeks but less than two months
+ILNE20M	Genito-urinary
+ILNE12SE	Self-employment
+HWRET12S	Still on long term sickness absence
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland;Outside of the UK
+Scot_School	National 1 to 5
+Scot_leavers	SCOTVEC, SCOTEC or SCOTBEC Qualification;ONC or SNC
+Scot_Other	Key or Core Skills;RSA or OCR Qualification
+Scot_HigherEd	Diploma in Higher Education;Nursing Qualification
+Safety_Net_ScotNonUK	Formal Certificate Qualification
+Safety_Net_Level_Certs	Entry level;Level 1;Level 2
+NonUK_School	Qualifications like GCSEs or O Levels;High school diploma
+Dip_Age	17 years old or above
+NonUK_Deg	Foundation Degree;Postgraduate Degree;Chartered qualification
+Qual_Check_Scot	National 1 to 5;SCOTVEC;Key or Core Skills;RSA or OCR Qualification;Nursing Qualification
+Qual_Check_NonUK	I need to add a qualification gained in England, Northern Ireland or Wales
+Add_Qual	School qualification;College or training qualification
+Add_School	EPQ;AS Levels, A Levels or T Levels
+Add_College	OND
+Nationals_Lev	National 1 or 2;National 5
+Alev_Tlev	T Levels
+SCOTVEC_Type	First or General Certificate
+RSA_OCR	Certificate;Diploma;OCR Nationals ICT Level 2
+RSA_Cert_Level	Level 3 or RSA III
+RSA_Dip_Level	RSA Diploma
+RSA_ICT_Lev	Nationals First Certificate
+EWNISCOT_Skills	Core
+EWNISCOT_CoreSkills	National 2
+Nursing_Qual	Scottish Foundation Apprenticeship
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	No
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	No
+CIGEVER	No
+HH_refday	Jane IP0 HH26 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

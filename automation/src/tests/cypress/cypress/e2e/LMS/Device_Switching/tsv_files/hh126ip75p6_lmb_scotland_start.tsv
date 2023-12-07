@@ -1,0 +1,89 @@
+AboutYou	John BP0;;HH126 Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Patrick BP40;;HH126 Stump
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	3
+AddPpl	Pete BP41;;HH126 Wentz
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	4
+AddPpl	Joe IP58;;HH126 Trohman
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	5
+AddPPl	Andy IP64;;HH126 Hurley
+Sex	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	6
+AddPpl	Elisa IP75;;HH126 Stump
+Sex	Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	7
+AddPpl	Tree BP94;;HH126 Stump
+Sex	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+Relationships	2;4;
+Relationships	2;5;Other relative
+Relationships	2;6;Husband, wife or legally registered civil partner
+Relationships	2;7;Son or daughter
+Relationships	3;4;Brother or sister
+Relationships	3;5;Stepbrother or stepsister
+Relationships	3;6;Other relative
+Relationships	3;7;Other relative
+Relationships	4;5;Other relative
+Relationships	4;6;Other relative
+Relationships	4;7;Other relative
+Relationships	5;6;Other relative
+Relationships	5;7;Other relative
+Relationships	6;7;Mother or father
+ShareCooking	Yes
+ShareLiv	No
+HRP	Patrick BP40 HH126 Stump;Elisa IP75 HH126 Stump;Tree BP94 HH126 Stump
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Person	6
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Elisa IP75 HH126 Stump
+AltAdd	No
+DOB	27;09;1989
+XMARSTA	Widowed
+Nationality	Indian
+CRY12	Other
+CRY12_Other	Thailand
+Comment	CAMEYR > 2 years
+CAMEYR	-50m
+CONTUK	No
+Comment	CAMEYR2/CAMEMT <= 12 months
+CAMEYR2	-10m
+CAMEMT	-10m
+QSTAY	12 months or more
+WHYUK10	Another reason
+ever_sought_asylum	No
+NATID	Northern Irish;Scottish;British
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom;Other
+Multi_current_passport	Spain
+Current_passport_check	No
+Expired_passports	Ireland
+Sexual_Orientation	Bisexual
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Full-time
+STAT2	An employee;Full-time
+Paid_wage_self_employed_21	My clients or customers

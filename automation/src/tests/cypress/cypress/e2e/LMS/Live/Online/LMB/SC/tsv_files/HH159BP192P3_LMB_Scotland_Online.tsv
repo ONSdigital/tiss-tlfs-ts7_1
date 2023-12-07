@@ -1,0 +1,127 @@
+AboutYou	John BP183;;HH159 Smith
+DOB	
+Age	65
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP188;;HH159 Person
+DOB	10;10;1956
+SEX	Male
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three BP192;;HH159 Person
+DOB	
+Age	70
+SEX	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+ShareCooking	Yes
+ShareLiv	No
+HRP	John BP183 HH159 Smith
+TEN1	Own it outright
+Person	3
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Prefer not to say
+Nationality	British
+CRY12	Scotland
+NATID	Scottish
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_Passports	None
+Expired_Passports	None
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	Self-employed;Full-time
+Paid_wage_self_employed_20	Three BP192 HH159 Person's own limited company through PAYE
+NITAX20	Three BP192 HH159 Person deals with their own tax or National Insurance
+INCORP20	No, Three BP192 HH159 Person does not have a limited company
+number_employees_self_employed_1job	25-49
+EMPLOYEES20	Yes
+HOME	In different places using home as a base
+HOMEEV	Yes
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+OUTWRK	Yes
+HOMEREF	Yes
+EVEROT	Three BP192 HH159 Person is self-employed and this does not apply to them
+USHR	40;8
+ACTHR	35;46
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Farmer
+SOC2020PT2	Grow other trees
+sic2007_self_employed_main_job	Growing of other trees
+Comment	CONSEY/CONMON2 > 4 months
+CONMON2	-8m
+CONSEY	-8m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+WKPL99	Winchester
+TRVMTH	Railway train
+REDANY	Yes
+reason_made_redundant	Some other reason
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Primary education
+ACTWKDY	Monday;Saturday
+ILLWK	Yes
+ILLDAYS	Monday;Saturday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Other respiratory conditions
+ILLST17	At least six months but less than nine months
+ILNXSM	A different medical reason
+ILLNXT20	Genito-urinary
+DIFPER	1
+AppCurr	No
+Course	A part-time course done through Open College or Open University
+Attend	Stopped attending
+current_study_for_qual	No
+work_related_education_3months	Yes
+work_related_education_4weeks	Yes
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+state_pension_receiving	Yes
+previously_served_armed_forces	No
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Joint main earners
+SMOCCT	Primary School Teacher
+SMOCCD	Teach Kids
+SMERESE	An employee
+QHEALTH1	Good
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+NUMILL	1
+work_illness_type_one	A breathing or lung problem
+AWARE	More than 12 months ago
+work_illness_time_off_length	Less than one week
+work_illness_time_off_length_days	2
+ILCURR	No
+WCHJB3	Some other job
+CIGEVER	No
+HH_refday	John BP183 HH159 Smith;Two BP188 HH159 Person;Three BP192 HH159 Person
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

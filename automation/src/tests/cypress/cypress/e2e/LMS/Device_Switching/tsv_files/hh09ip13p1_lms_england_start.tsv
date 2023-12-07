@@ -1,0 +1,132 @@
+AboutYou	Alex;; Hamilton
+SEX	Male
+AddressChk	Yes
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed
+Person	2
+AddStu	Jack;;Watson
+SEX	Male
+StuRel	Other relative
+AddStuChk	No
+ShareCooking	No
+ShareLiv	Yes
+HRP	Alex Hamilton;Jack Watson
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Comment	End Of HouseHold Section
+Comment	Start Of Person1(IP13)
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Alex Hamilton
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	10;09;1986
+XMARSTA	Married
+Nationality	Irish
+CRY12	Isle of Man or Channel Islands
+Comment	CAMEYR>2 years from Ref date
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Scottish;Northern Irish
+Ethnicity	Other
+OTHER	Any other background
+OTHER_Oth	Black French
+RELIGION	Other religion
+RELIGION_Oth	Atheist
+Current_Passports	United Kingdom;Ireland
+Expired_Passports	None
+Sexual_Orientation	Other
+Sexual_Orientation_Oth	Other Orientation
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	An employee;Full-time
+STAT2	An employee;Part-time
+Paid_wage_employee_21	A company through an app or online platform, such as Deliveroo
+NITAX21	I deal with my own tax or National Insurance
+ECAUTH21	Another person or organisation does
+DEPCONT21	Someone else finds my work, such as an agency
+OPAUTH21	No, I can usually take non-working days without permission
+supervisory_duties_main_2job	Yes
+managerial_duties_main_2job	Yes, I am a supervisor
+number_employees_workplace_main_2job	1-10
+number_employees_workplace_1_to_10_main_2job	8
+Paid_wage_employee_22	A company through an app or online platform, such as Deliveroo
+NITAX22	My accountant deals with my tax or National Insurance
+ECAUTH22	Another person or organisation does
+DEPCONT22	Someone else finds my work, such as an agency
+OPAUTH22	No, I can usually take non-working days without permission
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	No, I have no managerial duties
+number_employees_workplace_second_2job	1-10
+number_employees_workplace_1_to_10_second_2job	10
+HOME	From home
+Work_location_second_job	In different places using home as a base
+BROADBANDA	Yes
+BROADBANDB	Yes
+main_job_work_pattern_type	None of these
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	Yes
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_ever_main_job	No
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	No
+EVEROT	I work paid overtime
+usual_paid_overtime_main_2job_hours	10;0
+POT1	10;0
+usual_paid_overtime_second_2job_hours	0;0
+POT2	3;11
+USHR1	37;20
+ACTHR1	50;13
+USHR2	8;41
+ACTHR2	14;8
+Comment	TOTAL should be 77 Hours 37 Minutes
+check_total_usual_work_main_2job	Yes
+TOTAC2	Yes
+check_total_usual_work_second_2job	Yes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Paper boy
+SOC2020PT2	Deliver papers
+SIC2020EMP	Newsagents
+SECTOR	Some other kind of organisation
+SECTOR03	A nationalised industry or state corporation
+SOC2020_2_PT1	Carpenter
+SOC2020_2_PT2	Chip away at wood
+SIC2020_2_Emp	Make wood Chippings
+Comment	More than 4 months ago
+CONMON1	-5m
+CONMPY	-5m
+work_unpaid	No
+JobQual_Intro	
+career_progression_main_job	Disagree
+employees_decision_involvement_main_job	Poor
+meaningful_main_job	Disagree
+satisfaction_main_job	Dissatisfied
+manager_support_main_job	Disagree
+in_job_bullying_12months	No
+skills_match_main_job	My present skills correspond well with my duties
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Current job or business is to fill time before finding another job or business
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	37;0
+longer_hours_offered_start_in_2weeks_main_job	No
+PAYINTRO	
+Grs2	Annually
+GrsExp	20000
+SecGrs	Annually
+SecGrsExp	10000
+PTHRS2B	No, this is the pay I receive for my part-time job
+paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Absent from work through illness
+WKPL99	London
+Workplace_location_second_job	London
+REDANY	No
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes

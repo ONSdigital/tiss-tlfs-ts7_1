@@ -1,0 +1,81 @@
+AboutYou	Gerard BP59;;Way
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mikey IP4;;Way
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Ray IP5;;Toro
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Frank IP8;;Iero
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard BP59 Way;Frank IP8 Iero
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 2 (IP4)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Mikey IP4 Way
+AltAdd	Yes
+AltAddType	A student halls of residence
+DOB	25;06;1980
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	British
+CRY12	Republic of Ireland
+Comment	CAMEYR <= 2 years from ref date
+CAMEYR	-20m
+CONTUK	Yes
+Comment	CAMEMT > 12 months from ref date
+CAMEMT	-20m
+WHYUK10	Another reason
+NATID	Welsh
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	Any other mixed or multiple ethnic background
+MIXED_Oth	Icelandic
+RELIGION	Other religion
+RELIGION_Oth	Killjoy
+Welsh Language	Understand spoken Welsh
+Current_passports	Other
+Multi_current_passport	Germany
+Current_passport_check	No
+Expired_passports	None
+Sexual_Orientation	Bisexual
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Other
+NOLOWM18_OTH	Trying to start a band
+like_paid_job	Yes
+MargAtch	Yes
+think_work_in_future	Probably not
+LEFTYR18	-3m;-3m
+work_unpaid	Yes, for an internship
+REDYL18	Left for some other reason
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_redundant_job	Postman
+soc2020_job_description_redundant_job	Deliver parcels
+sic2007_industry_employed_redundant_job	Post
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+ENROL	Yes

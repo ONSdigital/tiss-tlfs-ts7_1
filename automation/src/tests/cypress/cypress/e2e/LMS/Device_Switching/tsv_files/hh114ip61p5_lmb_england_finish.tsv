@@ -1,0 +1,75 @@
+Person	5
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	6
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1']]
+LEFTYR18	I have never had a paid job
+work_unpaid	Yes, for a family owned business
+usual_unpaid_family_worker_hours	20;0
+actual_unpaid_family_worker_hours	25;30
+soc2020_job_title_unpaid_family_worker	Baker
+soc2020_job_description_unpaid_family_worker	Bake bread
+sic2007_unpaid_family_worker	Baking
+number_employees_workplace_ufw	250-499
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Carpenter
+apprenticeship_sic_2007_industry	Making wood things
+ENROL	No
+work_related_education_3months	Yes
+work_related_education_4weeks	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	Any grade GCSEs, O Levels or CSEs;BTEC, BEC, TEC, Edexcel or LQL;Welsh or International Baccalaureate
+EWNI_College	OND;RSA or OCR Qualification
+EWNI_Additional	Youth Training Scheme Certificate
+EWNI_Prof	Chartered Qualification
+EWNI_Uni	Doctorate
+Safety_Net_Q	Other Formal Qualification
+Safety_Net_Level_Other	Level 6
+Qual_Check	Any grade GCSEs, O Levels or CSEs;BTEC, BEC, TEC, Edexcel or LQL;Welsh or International Baccalaureate;OND;RSA or OCR Qualification;Youth Training Scheme Certificate;Chartered Qualification;Doctorate;Other Formal Qualification, Level 6;I need to add a qualification gained outside of the UK
+Add_Qual_NonUK	College or University qualifications
+Add_NonUK_Deg	Undergraduate Degree
+GCSE_Olevs	O Levels
+Bacc_Type	Welsh Baccalaureate
+Welsh_Bacc	Foundation
+BTEC_Type	BTEC
+BTEC_Number	3
+BTEC_Lev	Equivalent to first or second year at university or higher
+BTEC_4_Type	BTEC Higher National Certificate, HNC
+RSA_OCR	Cambridge Nationals or Technicals
+Cambridge_Qual	Cambridge Technicals
+Tech_Lev	Level 2
+CT_2_Type	Award
+Chart_Type	I am a member of a professional body
+sickness_disability_benefits_claiming	Attendance Allowance
+oth_benefits_claiming	Council Tax Reduction Benefit;Pension Credit
+state_pension_receiving	Yes
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Good
+SATIS	4
+WORTH	4
+HAPPY	4
+ANXIOUS	4
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+GOBCK9	On the fourth day after the accident
+TYPINJ	Fracture or broken bones
+SITEFR	Head, neck, spine or pelvis
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Contact with moving machinery or material being machined
+ILLWRK1	No
+CIGEVER	No
+HH_refday	John BP0 Smith;Harry BP107 Styles;Louis BP106 Thomlinson
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

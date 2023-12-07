@@ -1,0 +1,90 @@
+AddChk1	Yes
+Household_Intro	
+AboutYou	John IP170;;HH145 Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Hannah BP161;;HH145 Montana
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Miley BP160;;HH145 Cyrus
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	4
+AddPpl	Billy-Ray BP147;;HH145 Cyrus
+Sex	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	5
+AddPpl	Jackson BP145;;HH145 Cyrus
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	6
+AddPpl	Lily BP144;;HH145 Truscot
+Sex	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	
+Relationships	2;3;Other non-relative
+Relationships	2;4;
+Relationships	2;5;Other non-relative
+Relationships	2;6;Other non-relative
+Relationships	3;4;Other non-relative
+Relationships	3;5;Other non-relative
+Relationships	3;6;Other non-relative
+Relationships	4;5;Other non-relative
+Relationships	4;6;Other non-relative
+Relationships	5;6;Other non-relative
+ShareCooking	Yes
+ShareLiv	No
+HRP	Billy-Ray BP147 HH145 Cyrus;Jackson BP145 HH145 Cyrus
+TEN1	Own it outright
+AltAddressChk	None of these people
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	John IP170 HH145 Smith
+DOB	;;;
+Age	80
+XMARSTA	Never married and never legally registered in a civil partnership
+Nationality	British, including English, Welsh, Scottish or Northern Irish
+CRY12	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	Straight or Heterosexual
+Employment_Intro	
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+Look4_18	No
+NOLOWM18	Did not need employment
+like_paid_job	No
+MargAtch	No
+think_work_in_future	Don't know
+LEFTYR18	I have never had a paid job
+work_unpaid_Int1	Yes
+work_unpaid_Int2	a voluntary cause or charity
+sickness_disability_benefits_claiming	Attendance Allowance
+oth_benefits_claiming	Council Tax Reduction Benefit
+state_pension_receiving	Yes
+previously_served_armed_forces	Or, no
+LNGLST	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+HH_refday	John IP170 HH145 Smith;Hannah BP161 HH145 Montana;Miley BP160 HH145 Cyrus;Billy-Ray BP147 HH145 Cyrus;Jackson BP145 HH145 Cyrus;Lily BP144 HH145 Truscot
+HH_refday1	No
+AddrHist_Intro	
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	I would now like to ask some questions about each person

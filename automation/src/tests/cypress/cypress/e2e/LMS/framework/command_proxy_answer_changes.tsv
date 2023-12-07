@@ -1,0 +1,75 @@
+SMOYArea	I was living outside of the UK	They were living outside of the UK
+Paid_wage_employee_20	My employer through	* employer through PAYE
+Paid_wage_employee_20	My own limited	* own limited company through PAYE
+Paid_wage_employee_20	My clients or customers	* clients or customers
+Paid_wage_employee_21	My employer through	* employer through PAYE
+Paid_wage_employee_21	My own limited	* own limited company through PAYE
+Paid_wage_employee_21	My clients or customers	* clients or customers
+Paid_wage_employee_22	My employer through	* employer through PAYE
+Paid_wage_employee_22	My own limited	* limited company through PAYE
+Paid_wage_employee_22	My clients or customers	* clients or customers
+Paid_wage_self_employed_21	My clients or customers	* clients or customers
+Paid_wage_self_employed_21	My employer through	* employer through PAYE
+Paid_wage_self_employed_21	My own limited	* own limited company through PAYE
+Paid_wage_self_employed_22	My clients or customers	* clients or customers
+Paid_wage_self_employed_22	My employer through	 * employer through PAYE
+Paid_wage_self_employed_22	My own limited	* own limited company through PAYE
+Paid_wage_self_employed_20	My clients or customers	* clients or customers
+Paid_wage_self_employed_20	My employer through	* employer through PAYE
+Paid_wage_self_employed_20	My own limited	* own limited company through PAYE
+NITAX20	taken from my pay before I am paid	* tax or National Insurance is taken from their pay before they are paid
+NITAX20	deal with my own tax	** deals with their own tax or National Insurance
+NITAX20	My accountant deals	* accountant deals with their tax or National Insurance
+NITAX20	taken from my pay before I am paid	* tax or National Insurance is taken from their pay before they are paid
+NITAX20	deal with my own tax	** deals with their own tax or National Insurance
+NITAX20	My accountant deals	* accountant deals with their tax or National Insurance
+NITAX21	taken from my pay before I am paid	* tax or National Insurance is taken from their pay before they are paid
+NITAX21	deal with my own tax	** deals with their own tax or National Insurance
+NITAX21	My accountant deals	* accountant deals with their tax or National Insurance
+NITAX21	taken from my pay before I am paid	tax or National Insurance is taken from their pay before they are paid
+NITAX21	deal with my own tax	** deals with their own tax or National Insurance
+NITAX21	My accountant deals	* accountant deals with their tax or National Insurance
+NITAX22	taken from my pay before I am paid	* tax or National Insurance is taken from their pay before they are paid
+NITAX22	deal with my own tax	** deals with their own tax or National Insurance
+NITAX22	My accountant deals	* accountant deals with their tax or National Insurance
+NITAX22	deal with my own tax	** deals with their own tax or National Insurance
+NITAX22	My accountant deals	* accountant deals with their tax or National Insurance
+WhyTemp18	To suit my circumstances	To suit their circumstances
+number_employees_self_employed_main_2job	None, I work on my own or with a partner	None, ** works on their own or with a partner
+number_employees_self_employed_second_2job	None, I work on my own or with a partner	None, ** works on their own or with a partner
+number_employees_self_employed_1job	None, I work on my own or with a partner	None, ** works on their own or with a partner
+work_location_second_job	In the same grounds or building as my home	In the same grounds or building as their home
+work_location_second_job	In a different location from my home	In a different location from their home
+EVEROT	I work paid overtime	** works paid overtime
+EVEROT	I am self-employed and this does not apply to me	** is self-employed and this does not apply to them
+EVEROT	I do not work overtime	** does not work overtime
+EVEROT	I work unpaid overtime	** works unpaid overtime
+EVEROT	I work both paid and unpaid overtime	** works both paid and unpaid overtime
+looking_for_paid_job_type	For a new job or business to replace your current main job or business	For a new job or business to replace their current main job or business
+HWRET12S	Left your job and have stopped working for now	Left their job and has stopped working for now
+HWRET12S	Left your job and have stopped working for now	Left their job and has stopped working for now
+uc_reason_claiming	Joint household claim with your partner	Joint household claim with their partner
+uc_reason_claiming	Not working because you were sick, injured or disabled	Not working because they were sick, injured or disabled
+uc_reason_claiming	Working but entitled to Universal Credit on top of your earnings	Working but entitled to Universal Credit on top of their earnings
+past_physical_conditions	Chest or breathing conditions for example asthma or bronchitis	Chest or breathing conditions, for example, asthma or bronchitis
+DEPCONT20	Someone else finds my work, such as an agency	Someone else finds * work, such as an agency
+GOBCK9	I have not yet returned to paid work	Or they have not yet returned to paid work
+Chart_Type	I have a chartered qualification	They have a chartered qualification
+Chart_type	I am a member of a professional body	They are a member of a professional body
+managerial_duties_1job	No, I have no managerial duties	No, they have no managerial duties
+managerial_duties_second_2job	No, I have no managerial duties	No, they have no managerial duties
+managerial_duties_main_2job	No, I have no managerial duties	No, they have no managerial duties
+managerial_duties_1job	Yes, I am a supervisor	Yes, they are a supervisor
+managerial_duties_main_2job	Yes, I am a supervisor	Yes, they are a supervisor
+managerial_duties_second_2job	Yes, I am a supervisor	Yes, they are a supervisor
+managerial_duties_1job	Yes, I am a manager	Yes, they are a manager
+managerial_duties_main_2job	Yes, I am a manager	Yes, they are a manager
+managerial_duties_second_2job	Yes, I am a manager	Yes, they are a manager
+ECAUTH20	I set the prices based on the market rate	** sets the prices based on the market rate
+ECAUTH21	I set the prices based on the market rate	** sets the prices based on the market rate
+ECAUTH22	I set the prices based on the market rate	** sets the prices based on the market rate
+ECAUTH20	I do	** does
+ECAUTH21	I do	** does
+ECAUTH22	I do	** does
+AltAddType	My holiday home	A holiday home
+ALTADDTYPE	My second home	A second home

@@ -1,0 +1,85 @@
+AboutYou	John IP0;;HH19 Smith
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP36;;HH19 Person
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three IP43;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	4
+AddPpl	Four IP44;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	5
+AddPpl	Five BP48;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	6
+AddPpl	Six BP66;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP69;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP70;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	9
+AddPpl	Nine BP71;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	10
+AddPpl	Ten BP74;;HH19 Person
+SEX	Female
+Rel to P1	Sister or brother
+LastPerMessage	
+StudentChk	Someone else not listed above
+RelExPage	Save and continue
+Relationships	2;3;Sister or brother
+Relationships	2;4;
+Relationships	2;5;Sister or brother
+Relationships	2;6;Sister or brother
+Relationships	2;7;Sister or brother
+Relationships	2;8;Sister or brother
+Relationships	2;9;Sister or brother
+Relationships	2;10;Sister or brother
+Relationships	3;4;Sister or brother
+Relationships	3;5;Sister or brother
+Relationships	3;6;Sister or brother
+Relationships	3;7;Sister or brother
+Relationships	3;8;Sister or brother
+Relationships	3;9;Sister or brother
+Relationships	3;10;Sister or brother
+Relationships	4;5;Sister or brother
+Relationships	4;6;Sister or brother
+Relationships	4;7;Sister or brother
+Relationships	4;8;Sister or brother
+Relationships	4;9;Sister or brother
+Relationships	4;10;Sister or brother
+Relationships	5;6;Sister or brother
+Relationships	5;7;Sister or brother
+Relationships	5;8;Sister or brother
+Relationships	5;9;Sister or brother
+Relationships	5;10;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Sister or brother
+Relationships	6;9;Sister or brother
+Relationships	6;10;Sister or brother
+Relationships	7;8;Sister or brother
+Relationships	7;9;Sister or brother
+Relationships	7;10;Sister or brother
+Relationships	8;9;Sister or brother

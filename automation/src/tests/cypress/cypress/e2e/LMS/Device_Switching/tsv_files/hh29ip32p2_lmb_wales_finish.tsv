@@ -1,0 +1,69 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+soc2020_job_description_unpaid_family_worker	Washes dishes in the kitchen of the restaurant
+sic2007_unpaid_family_worker	Restaurant
+number_employees_workplace_ufw	Don't know
+number_employees_workplace_dont_know_bands_ufw	Under 25
+ACTWKDY	Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday
+ILL1PD	One
+IL1BEF	On your first working day of the week
+ILNE20	Other respiratory conditions
+EMPSICK4	Yes
+WKSK4	4
+sickness_continuous_absence_length_under_2_months	At least six weeks but less than two months
+ILNE20M	Stress, depression, anxiety
+ILNE12SE	Somewhere else
+HWRET12E	Left your job and have stopped working for now
+AppCurr	Yes
+apprenticeship_main_job	No
+Enrol	Yes
+Course	A full-time course done through Open College or Open University
+Attend	Waiting for term to start or restart
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Scotland
+EWNISCOT_School	Welsh, Scottish or International Baccalaureate
+EWNISCOT_College	HNC or SHNC;HND or SHND
+EWNISCOT_Additional	Scottish Wider Access Programme Qualification
+EWNISCOT_HE	Chartered qualification
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Entry level;Level 1
+Qual_Check_EWNISCOT	Welsh, Scottish or International Baccalaureate;HNC or SHNC;HND or SHND;Scottish Wider Access Programme Qualification;Other Formal Diploma, Level 1
+Bacc_WSI	Welsh Baccalaureate; Scottish Baccalaureate
+EWNISCOT_Wbacc	Foundation
+EWNISCOT_SBacc	Yes
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP;Industrial Injuries Disablement Benefit
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
+uc_reason_claiming	Unemployed and looking for work
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2015
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Joint main earners
+SMOCCT	Teacher
+SMOCCD	Teach Kids
+SMERESE	An employee
+QHEALTH1	Good
+SATIS	8
+WORTH	6
+HAPPY	7
+ANXIOUS	5
+LNGLST	Yes
+health_condition_illness_12months	Prefer not to say
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	No
+CIGEVER	Yes
+CIGNOW	Yes
+HH_refday	John IP0 Smith;Dolly IP32 Jones;Sally BP92 Smith;Alex BP93 Hamilton
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

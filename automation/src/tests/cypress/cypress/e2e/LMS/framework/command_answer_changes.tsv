@@ -1,0 +1,277 @@
+XMARSTA	Married	married
+XMARSTA	Widowed	widowed,
+XMARSTA	In a legally registered	in a legally registered civil partnership,
+XMARSTA	but still legally married	separated but still legally married,
+XMARSTA	but still legally in a civil	separated but still legally in a civil partnership,
+XMARSTA	Divorced	divorced,
+XMARSTA	Formerly in a civil	formerly in a civil partnership which is now legally dissolved,
+XMARSTA	A surviving member	a surviving member of a legally registered civil partnership?
+TEN1	mortgage	Currently pay off a mortgage or loan used to buy the property
+SMHCOMP	both parents	Living with one or both parents
+SMHCOMP	Other family	Living with other family members
+SMHCOMP	non-family	Living with other non-family members
+COUNTRY_QUAL	England	Any from England, Northern Ireland or Wales?
+COUNTRY_QUAL	Scotland	Any from Scotland?
+COUNTRY_QUAL	Outside of the UK	Any from outside of the UK, including Republic of Ireland?
+COUNTRY_QUAL	do not have qualifications	No qualifications have been gained in the past?
+Safety_Net_ScotNonUK	Other formal qualification	Other Formal Qualification
+TPBN20	receiving any benefits	not currently receiving any benefits
+TPBN20	Other	any other benefits?
+CHECKTEXT	We would now like to ask some questions of each individual	I would now like to ask you some questions of each individual
+JOBTYP18	employment agency	A job that included training, such as apprenticeships,
+JOBTYP18	included training	Work through an employment agency,
+JOBTYP18	Other	Or temporary in some other way?
+NATID	Other	Other?
+WCHJB	Main job	main job
+WCHJB3	Some other job	Or was it some other job?
+WCHJB	Some other job	Or was it some other job?
+WCHJB3	Main job	main job
+SMOYArea	I was living outside of the UK	You were living outside of the UK
+Paid_wage_employee_20	My employer through	Your employer through PAYE,
+Paid_wage_employee_20	My own limited	Your own limited company through PAYE,
+Paid_wage_employee_20	My clients or customers	Your clients or customers, or,
+Paid_wage_employee_21	My employer through	Your employer through PAYE,
+Paid_wage_employee_21	My own limited	Your own limited company through PAYE,
+Paid_wage_employee_21	My clients or customers	Your clients or customers, or,
+Paid_wage_employee_22	My employer through	Your employer through PAYE,
+Paid_wage_employee_22	My own limited	Your own limited company through PAYE,
+Paid_wage_employee_22	My clients or customers	Your clients or customers, or,
+Paid_wage_self_employed_21	My clients or customers	Your clients or customers,
+Paid_wage_self_employed_21	My employer through	Your employer through PAYE?
+Paid_wage_self_employed_21	My own limited	Your own limited company through PAYE
+Paid_wage_self_employed_22	My clients or customers	Your clients or customers,
+Paid_wage_self_employed_22	My employer through	Your employer through PAYE?
+Paid_wage_self_employed_22	My own limited	Your own limited company through PAYE,
+Paid_wage_self_employed_20	My clients or customers	Your clients or customers,
+Paid_wage_self_employed_20	My employer through	Your employer through PAYE?
+Paid_wage_self_employed_20	My own limited	Your own limited company through PAYE
+NITAX20	taken from my pay before I am paid	Your tax or National Insurance is taken from your pay before you are paid
+NITAX20	deal with my own tax	You deal with your own tax or National Insurance
+NITAX20	My accountant deals	An accountant deals with your tax or National Insurance
+NITAX20	taken from their pay before they are paid	tax or National Insurance is taken from their pay before they are paid
+NITAX20	deals with their own tax	deals with their own tax or National Insurance
+NITAX20	Their accountant deals	An accountant deals with their tax or National Insurance
+NITAX21	taken from my pay before I am paid	Your tax or National Insurance is taken from your pay before you are paid
+NITAX21	deal with my own tax	You deal with your own tax or National Insurance
+NITAX21	My accountant deals	An accountant deals with your tax or National Insurance
+NITAX21	taken from their pay before they are paid	tax or National Insurance is taken from their pay before they are paid
+NITAX21	deals with their own tax	deals with their own tax or National Insurance
+NITAX21	Their accountant deals	accountant deals with their tax or National Insurance
+NITAX22	taken from my pay before I am paid	Your tax or National Insurance is taken from your pay before you are paid
+NITAX22	deal with my own tax	You deal with your own tax or National Insurance
+NITAX22	My accountant deals	An accountant deals with your tax or National Insurance
+NITAX22	taken from their pay before they are paid	tax or National Insurance is taken from their pay before they are paid
+NITAX22	deal with my own tax	You deal with your own tax or National Insurance
+NITAX22	My accountant deals	An accountant deals with your tax or National Insurance
+ACTWKDY	I was not scheduled to work	You were not scheduled to work
+Qual_Check_Scot	I need to add another qualification gained in Scotland	Add a qualification gained in Scotland
+Qual_Check_Scot	Youth Training	Youth Training Scheme Certificate, YTS, YTP or YT
+Qual_Check_Scot	I need to add a qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check_Scot	I need to add another qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check_Scot	add a qualification gained outside of the UK	Add a qualification gained outside of the UK
+Qual_Check_EWNISCOT	I need to add another qualification gained in Scotland	Add a qualification gained in Scotland
+Qual_Check_EWNISCOT	Youth Training	Youth Training Scheme Certificate, YTS, YTP or YT
+Qual_Check_EWNISCOT	I need to add a qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check_EWNISCOT	I need to add another qualification gained in the UK	Add a qualification gained in the UK
+Qual_Check_EWNISCOT	add a qualification gained outside of the UK	Add a qualification gained outside of the UK
+Add_Qual_NonUK	does not fit into any of these	It does not fit into these categories?
+Add_Qual	does not fit into any of these	It does not fit into these categories?
+Qual_Check	I need to add a qualification gained outside	Add a qualification gained outside of the UK
+Qual_Check	I need to add a qualification gained in Scotland	Add a qualification gained in Scotland
+Qual_Check	I need to add a qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check	I need to add another qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check_NonUK	I need to add a qualification gained outside	Add a qualification gained outside of the UK
+Qual_Check_NonUK	I need to add a qualification gained in Scotland	Add a qualification gained in Scotland
+Qual_Check_NonUK	I need to add a qualification gained in England	Add a qualification gained in England, Northern Ireland or Wales
+Qual_Check_NonUK	I need to add a qualification gained in the UK	Add a qualification gained in the UK
+Home	different location from my home	In a different location from your home
+Home	same grounds or building as my home	In the same grounds or building as your home
+CheckText	study is now complete	Thank respondent
+WhyTemp18	suit my	To suit your circumstances,
+WhyTemp18	Other	Or some other reason?
+work_location_second_job	same grounds or building as my home	In the same grounds or building as your home
+work_location_second_job	same grounds or building as their home	In the same grounds or building as their home
+work_location_second_job	different location from my	In a different location from your home
+work_location_second_job	different location from their	In a different location from their home
+HEALPB	Autism	Autism?
+HEALPB	your arms or hands	Problems or disabilities (including arthritis or rheumatism) connected with your arms or hands?
+HEALPB	their arms or hands	Problems or disabilities (including arthritis or rheumatism) connected with their arms or hands?
+HEALPB	connected with your legs	Problems or disabilities connected with your legs or feet?
+HEALPB	connected with your back	Problems or disabilities connected with your back or neck?
+HEALPB	connected with their legs	Problems or disabilities connected with their legs or feet?
+HEALPB	connected with their back	Problems or disabilities connected with their back or neck?
+HEALPB	spectacles	Difficulty in seeing whilst wearing spectacles or contact lenses?
+HEALPB	hearing	Difficulty in hearing?
+HEALPB	speech	A speech impediment?
+HEALPB	disfigurements	Severe disfigurements, skin conditions, allergies?
+HEALPB	breathing problems	Chest or breathing problems, asthma, bronchitis?
+HEALPB	blood pressure	Heart, blood pressure or blood circulation problems?
+HEALPB	liver	Stomach, liver, kidney or digestive problems?
+HEALPB	Diabetes	Diabetes?
+HEALPB	anxiety	Depression or anxiety?
+HEALPB	Epilepsy	Epilepsy?
+HEALPB	specific learning	Severe or specific learning difficulties?
+HEALPB	Mental illness	Mental illness, or suffer from phobias, panics or other nervous disorders?
+HEALPB	not included	Progressive illness not included elsewhere?
+HEALPB	Other health problems	Other health problems or disabilities?
+HEAL20	Autism	Autism?
+HEAL20	your arms or hands	Problems or disabilities (including arthritis or rheumatism) connected with your arms or hands?
+HEAL20	their arms or hands	Problems or disabilities connected with their arms or hands
+HEAL20	connected with your legs	Problems or disabilities connected with your legs or feet?
+HEAL20	connected with your back	Problems or disabilities connected with your back or neck?
+HEAL20	connected with their legs	Problems or disabilities connected with their legs or feet
+HEAL20	connected with their back	Problems or disabilities connected with their back or neck
+HEAL20	spectacles	Difficulty in seeing whilst wearing spectacles or contact lenses?
+HEAL20	hearing	Difficulty in hearing?
+HEAL20	speech	A speech impediment?
+HEAL20	disfigurements	Severe disfigurements, skin conditions, allergies?
+HEAL20	breathing problems	Chest or breathing problems, asthma, bronchitis?
+HEAL20	blood pressure	Heart, blood pressure or blood circulation problems?
+HEAL20	liver	Stomach, liver, kidney or digestive problems?
+HEAL20	Diabetes	Diabetes?
+HEAL20	anxiety	Depression or anxiety?
+HEAL20	Epilepsy	Epilepsy?
+HEAL20	specific learning	Severe or specific learning difficulties?
+HEAL20	Mental illness	Mental illness, or suffer from phobias, panics or other nervous disorders?
+HEAL20	not included	Progressive illness not included elsewhere?
+HEAL20	Other health problems	Other health problems or disabilities?
+IL2BEF	Before the first day	Or before the first day worked in the week
+EWNISCOT_Additional	Skills for Work	Skills for Work Qualifications done through a school or college?
+EWNISCOT_Additional	full-time course done through Open	A full-time course from an Open College or Open University?
+Course	full-time course done through Open	A full-time course from an Open College or Open University?
+Course	part-time course done through Open	A part-time course from an Open College or Open University?
+BLACK	Any other Black, African	any other Black, African or Caribbean background?
+ALTADDTYPE	My holiday home	A holiday home
+ALTADDTYPE	My second home	A second home
+NOLOWM18	Waiting to start a job I have accepted	Waiting to start a job you have accepted
+TempJob18	Casual	Or casual, such as a zero-hour contract?
+Paid_wage_self_employed_20	My employer through	Your employer through PAYE?
+GCSE_Olevs	O Levels	O Levels?
+WhyCas18_Emp	Other	Or some other reason?
+WhyCas18	Other	Or some other reason?
+WhyCas18	To suit my circumstances	To suit your circumstances,
+HWRET12E	Something else	do something else?
+GOBCK9	I have not yet returned	You have not yet returned to paid work
+ACCURH	Needed resuscitation	Need resuscitation?
+ACCURH	Lost consciousness	Lose consciousness, even if just briefly?
+ACCURH	Suffered from hypothermia	Suffer from hypothermia or a heat induced illness?
+ACCURH	Stayed in hospital	Stay in hospital for more than 24 hours?
+GCSE_OLev_Check	Yes, I did both GCSEs	Both GCSEs and O Levels
+BEC_Lev	t know	I don’t know?
+REASOFF93	For some other	Or for some other reason?
+ECAUTH20	I set the prices based on the market rate	You set the prices based on the market rate,
+ECAUTH20	I set the prices myself	You set the prices yourself, or,
+ECAUTH20	They set the prices based on the market rate	They set the prices based on the market rate,
+ECAUTH20	I set the prices myself	You set the prices yourself, or,
+ECAUTH20	* does	sets the prices themselves, or,
+ECAUTH20	I do	You set the prices yourself, or,
+ECAUTH20	* sets the price based on the market rate	sets the prices based on the market rate
+ECAUTH20	Another person or organisation sets the prices for my	Another person or organisation sets the prices for your goods or services?
+ECAUTH20	Another person or organisation does	Another person or organisation sets the price
+ECAUTH21	I set the prices based on the market rate	You set the prices based on the market rate,
+ECAUTH21	I set the prices myself	You set the prices yourself, or,
+ECAUTH21	They set the prices based on the market rate	They set the prices based on the market rate,
+ECAUTH21	I set the prices myself	You set the prices yourself, or,
+ECAUTH21	* does	sets the prices themselves, or,
+ECAUTH21	I do	You set the prices yourself, or,
+ECAUTH21	Another person or organisation sets the prices for my	Another person or organisation sets the price for your goods or services?
+ECAUTH21	Another person or organisation does	Another person or organisation sets the price
+ECAUTH22	I set the prices based on the market rate	You set the prices based on the market rate,
+ECAUTH22	I set the prices myself	You set the prices yourself, or,
+ECAUTH22	They set the prices based on the market rate	They set the prices based on the market rate,
+ECAUTH22	I set the prices myself	You set the prices yourself, or,
+ECAUTH22	* does	sets the prices themselves, or,
+ECAUTH22	I do	You set the prices yourself, or,
+ECAUTH22	Another person or organisation sets the prices for my	Another person or organisation sets the price for your goods or services?
+ECAUTH22	Another person or organisation does	Another person or organisation sets the price
+DEPCONT20	Someone else finds my work	Someone else finds your work, such as an agency?
+DEPCONT21	Someone else finds my work	Someone else finds your work, such as an agency?
+DEPCONT22	Someone else finds my work	Someone else finds your work, such as an agency?
+DEPCONT20	I find my work myself	Find work yourself,
+DEPCONT21	I find my work myself	Find work yourself,
+DEPCONT22	I find my work myself	Find work yourself,
+DEPCONT20	finds their work themselves	find their work themselves
+DEPCONT21	finds their work themselves	find their work themselves
+DEPCONT22	finds their work themselves	find their work themselves
+DEPCONT20	I get my work through an app	Find work through an app, such as Uber, or,
+DEPCONT21	I get my work through an app	Find work through an app, such as Uber, or,
+DEPCONT22	I get my work through an app	Find work through an app, such as Uber, or,
+DEPCONT20	gets their work through an app	get their work through an app, such as Uber, or
+DEPCONT21	gets their work through an app	get their work through an app, such as Uber, or
+DEPCONT22	gets their work through an app	get their work through an app, such as Uber, or
+InCorp20	Yes, I have	Yes, you have a limited company,
+InCorp20	No, I do not have	No, you do not have a limited company?
+InCorp21	Yes, I have	Yes, you have a limited company,
+InCorp21	No, I do not have	No, you do not have a limited company?
+InCorp22	Yes, I have	Yes, you have a limited company,
+InCorp22	No, I do not have	No, you do not have a limited company?
+Partner20	No, I'm the sole director	No, you are the sole director
+Partner20	Yes, I have	Yes, you have a business partner or partners
+Partner21	No, I'm the sole director	No, you are the sole director
+Partner21	Yes, I have	Yes, you have a business partner or partners
+Partner22	No, I'm the sole director	No, you are the sole director
+Partner22	Yes, I have	Yes, you have a business partner or partners
+IL1BEF	Before the first	Or before the first day worked in the week
+IL2BEF	Before the first	Or before the first day worked in the week
+Ethnicity	Other	Other?
+UCREDIT20	Other reason	Or, any other reason?
+CG_Type	t know	I don’t know?
+TEN1SomeoneElse	t know	Don't know
+YPTJob18	Other	Or some other reason?
+PTHRS	Yes, this is the full-time pay for my job	Yes, this is the full-time pay for your job
+PTHRS	No, this is the pay I receive for my part-time job	No, this is the pay you receive for your part-time job
+PTHRS2B	Yes, this is the full-time pay for my job	Yes, this is the full-time pay for your job
+PTHRS2B	No, this is the pay I receive for my part-time job	No, this is the pay you receive for your part-time job
+TPBN20	any other benefits?	Any other benefits?
+GCSE_OLev_Check	No, I did GCSEs only	GCSE's only, or
+Nationality	British	British, including English, Welsh, Scottish or Northern Irish
+EWNISCOT_HE	Undergraduate or Bachelor’s Degree	Undergraduate or Bachelor's Degree gained anywhere in the UK, or MA gained in Scotland?
+OPAUTH20	No, I can usually take non-working days without permission	No, you can usually take non-working days without permission
+OPAUTH21	No, I can usually take non-working days without permission	No, you can usually take non-working days without permission
+OPAUTH22	No, I can usually take non-working days without permission	No, you can usually take non-working days without permission
+TYPILL	A bone, joint or muscle problem which mainly affects their hips, legs or feet	A bone, joint or muscle problem which mainly affects the hips, legs or feet
+TYPILL	A bone, joint or muscle problem which mainly affects your hips, legs or feet	A bone, joint or muscle problem which mainly affects the hips, legs or feet
+Alev_Tlev	A Levels	A Levels?
+Alev_Tlev	T Levels	T Levels?
+Add_leavers	Skills for Work Qualifications at level 3 or higher	Skills for Work Qualifications done through a school or college?
+JSATYP	A combination of Contributory JSA	A combination of these?
+YStart18	Waiting to start a job I have accepted	Waiting to start a job you have accepted
+Nursing_Qual	Other	Other?
+CAMEYR	They were born in the UK	Respondent was born in the UK
+CAMEYR	I was born in the UK	Respondent was born in the UK
+Add_Qual_Scot	My qualification does not fit	It does not fit into these categories?
+Add_Qual_Scot	Their qualification does not fit	It does not fit into these categories?
+ASIAN	Any other Asian background	any other Asian background?
+ASIAN	Chinese	Pakistani,
+Add_School_EWNISCOT	O Grades (Ordinary	O Grades, also known as Ordinary Grades?
+reason_made_redundant	Employer was closing down	Closing down
+reason_made_redundant	Employer was cutting back on staff	Cutting back on staff, or
+reason_made_redundant	Some other reason	Another reason?
+previously_served_armed_forces	No	Or, no
+current_neurodivergent_conditions	None of these	None of these?
+current_neurodivergent_conditions	Learning disabilities, for example prenatal and postnatal	Learning disabilities for example prenatal and postnatal?
+current_neurodivergent_conditions	Learning difficulties, for example dyslexia and dyspraxia	Learning difficulties for example dyslexia and dyspraxia?
+current_joint_bone_muscle_conditions	None of these	None of these?
+current_conditions_other	None of these	None of these?
+past_joint_bone_muscle_conditions	None of these	None of these?
+managerial_duties_1job	No, they have no managerial duties	None
+managerial_duties_1job	No, I have no managerial duties	None
+Sexual_Orientation	Other	Other?
+Sexual_Orientation	Straight or Heterosexual	Straight or Heterosexual?
+Sexual_Orientation	Gay or Lesbian	Gay or Lesbian?
+Sexual_Orientation	Bisexual	Bisexual?
+Sexual_Orientation	prefer not to say	Or, prefer not to say?
+managerial_duties_main_2job	Yes, I am a supervisor	Supervisor/Foreman
+managerial_duties_main_2job	Yes, I am a manager	Manager
+managerial_duties_second_2job	Yes, I am a supervisor	Supervisor/Foreman
+managerial_duties_second_2job	No, I have no managerial duties	None
+skills_match_main_job	My present skills correspond well with my duties	Your present skills correspond well with your duties, or
+skills_match_main_job	I have the skills to cope with more demanding duties	You have the skills to cope with more demanding duties?
+skills_match_main_job	I lack some skills required in my current duties	Lack some skills required in your current duties,
+sickness_disability_benefits_claiming	None of these	Or, none of these?
+oth_benefits_claiming	None of these	Or, none of these?
+th_benefits_claiming	Job Seekers Allowance, JSA	Job Seekers Allowance, also known as JSA?
+uc_reason_claiming	Other reason	Or, any other reason?
+CheckText	We would now like to ask some questions about each person	I would now like to ask some questions about each person
+current_mental_health_conditions	No	Or, no?
+CAMEYR	I was born in the UK	They were born in the UK

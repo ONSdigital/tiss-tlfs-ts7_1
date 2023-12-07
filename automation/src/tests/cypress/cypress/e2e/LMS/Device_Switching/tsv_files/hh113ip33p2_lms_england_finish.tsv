@@ -1,0 +1,104 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	3
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+ACTHR2	10;34
+Comment	Total should be 41 Hours 26 Minutes
+check_total_usual_work_main_2job	Yes
+TOTAC2	Yes
+check_total_usual_work_second_2job	Yes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Teacher
+SOC2020PT2	Teaching Kids
+SIC2020EMP	Primary School Education
+SECTOR	A private firm, business or limited company
+SOC2020_2_PT1	Dentist
+SOC2020_2_PT2	Fix Oral Problems
+SIC2020_2_Emp	Dental Treatment
+Comment	More than 4 Months ago
+CONMON1	-5m
+CONMPY	-5m
+work_unpaid	No
+JobQual_Intro	
+career_progression_main_job	Strongly agree
+employees_decision_involvement_main_job	Very good
+meaningful_main_job	Strongly agree
+satisfaction_main_job	Very satisfied
+manager_support_main_job	Strongly agree
+in_job_bullying_12months	No
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	Yes
+number_of_less_hours_preferred_main_job	5;30
+PAYINTRO	Save and continue
+Grs2	
+GrsSkp	
+Band2	Annually
+ANBANDS2	Less than £5,600 a year?
+SecGrs	Monthly
+SecGrsExp	1700
+PTHRS2B	Yes, this is the full-time pay for my job
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Worked less overtime than usual
+WKPL99	London
+Workplace_location_second_job	London
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Barista
+soc2020_job_description_redundant_job	Made coffee for lawyers
+sic2007_industry_employed_redundant_job	Coffee house in the City
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+DIFPER	2
+sickness_continuous_absence_length_under_2_months	More than two months
+sickness_continuous_absence_length_over_2_months	11
+ILNE12SE	Employment
+AppCurr	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Trainee Architect
+apprenticeship_sic_2007_industry	Building and Construction
+Enrol	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	Any grade GCSEs, O Levels or CSEs
+EWNI_College	ONC
+EWNI_Additional	Basic Skills Qualification
+EWNI_Prof	Qualified Teacher Status
+EWNI_Uni	Foundation Degree
+Safety_Net_EWNINonUK	Formal Diploma Qualification
+Safety_Net_Level_Dips	Entry level
+NonUK_School	Qualifications like GCSEs or O Levels
+NonUK_Deg	Postgraduate Degree
+Qual_Check	Any grade GCSEs, O Levels or CSEs;ONC;Basic Skills Qualification;Qualified Teacher Status;Foundation Degree
+Qual_Check_NonUK	Qualifications like GCSEs or O Levels;Postgraduate Degree
+GCSE_Olevs	GCSEs grades A* to G or 9 to 1;O Levels
+GCSE_OLev_Check	No, I did GCSEs only
+GCSE_Grades	One or more GCSE at grades A* to C or 9 to 4
+Teaching_Qual	PGCE or PGDE
+Teach_Age	Primary education
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+LNGLST	Yes
+health_condition_illness_12months	Prefer not to say
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	Yes
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	5
+HH_refday	P1 Ineligible HH13;Dolly IP33 Jones;Sally BP35 Smith;Alex BP38 Hamilton
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

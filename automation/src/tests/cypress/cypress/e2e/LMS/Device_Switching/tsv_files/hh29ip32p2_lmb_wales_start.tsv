@@ -1,0 +1,72 @@
+AboutYou	John IP0;;Smith
+SEX	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HholdChk	Yes
+Person	2
+AddPpl	Dolly IP32;;Jones
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Sally BP92;;Smith
+SEX	Female
+StuRel	Other relative
+AddStuChk	Yes
+Person	4
+AddStu	Alex BP93;;Hamilton
+SEX	Male
+StuRel	Brother or sister
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Other relative
+ShareCooking	No
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Live here rent-free
+TIED	No
+Comment	End of House Hold
+Comment	Start of Person 2 (BP32)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Dolly IP32 Jones
+AltAdd	Yes
+AltAddType	A student halls of residence
+DOB	10;01;1970
+XMARSTA	Separated but still legally married
+Nationality	Indian
+CRY12	Other
+CRY12_Other	Australian
+Comment	YYYY <= 2 years from Ref Date
+CAMEYR	-18m
+CONTUK	Yes
+CAMEMT	-15m
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+NATID	British;Other
+NATID Other	German
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	White and Asian
+RELIGION	Buddhist
+Welsh Language	None of these apply
+Current_Passports	Ireland
+Expired_passports	United Kingdom
+Sexual_Orientation	prefer not to say
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Studying
+like_paid_job	No
+MargAtch	Yes
+think_work_in_future	Probably
+when_think_work_in_future	More than five years
+LEFTYR18	I have never had a paid job
+work_unpaid	Yes, for a family owned business
+usual_unpaid_family_worker_hours	7;30
+actual_unpaid_family_worker_hours	15;10
+soc2020_job_title_unpaid_family_worker	Dishwasher

@@ -1,0 +1,219 @@
+AboutYou	Sarah P1Ineligible;;Jones
+SEX	Female
+AddressChk	No
+IneligibleType	My second home
+HholdChkAlt	Yes
+Person	2
+AddPpl	Dolly BP0;;Jones
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Alex BP12;;Hamilton
+SEX	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Alice BP11;;Smith
+SEX	Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	5
+AddPpl	John IP22;;Carey
+SEX	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+Comment	StudentChk to be skipped.
+StudentChk	
+RelExPage	Save and continue
+Comment	All Relationships to be skipped.
+Relationships	2;3
+Relationships	2;4
+Relationships	2;5
+Relationships	3;4
+Relationships	3;5
+Relationships	4;5
+ShareCooking	Yes
+ShareLiv	Yes
+HRP	John IP22 Carey;Alice BP11 Smith;Someone else not listed above
+TEN1	Pay rent to the council, housing association, or charitable trust
+TIED	No
+Comment	End of House Hold
+Comment	Start BP12
+Person	3
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+DOB	;;
+Age	25
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	French
+CRY12	Other
+CRY12_Other	France
+Comment	CAMEYR >2 years from ref date
+CAMEYR	-46m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Northern Irish
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_OTH	Black Japanese
+RELIGION	Other religion
+RELIGION_Oth	Jainism
+Current_Passports	Other
+Multi_current_passport	Bahamas
+Current_passport_check	No
+Expired_Passports	United Kingdom
+PAIDJOB	Yes
+SECJOB	No
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Alex BP12 Hamilton's accountant deals with their tax or National Insurance
+ECAUTH20	Alex BP12 Hamilton sets the price based on the market rate
+DEPCONT20	Someone else finds Alex BP12 Hamilton's work, such as an agency
+OPAUTH20	Yes, someone has to approve it
+INCORP20	Yes, Alex BP12 Hamilton has a limited company
+PARTNER20	No, Alex BP12 Hamilton is the sole director
+supervisory_duties_1job	No
+managerial_duties_1job	No
+number_employees_workplace_1job	1-10
+number_employees_workplace_1_to_10_1job	6
+EMPLOYEES20	No
+HOME	In a different location from their home
+HOMEEV	Yes
+BROADBANDA	Yes
+BROADBANDB	Yes
+main_job_work_pattern_type	 Flexible working hours
+usual_work_pattern_time_periods_main_job	6pm to 11pm;11pm to 6am
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_frequency_main_job	Half or more of the total time worked in these hours
+day_work_ever_main_job	Yes
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday
+OUTWRK	Yes
+HOMEREF	Yes
+EVEROT	Alex BP12 Hamilton works paid overtime
+usual_paid_overtime_1job_hours	10;48
+POT	10;48
+USHR	35;29
+ACTHR	30;17
+Comment	TOTAL should be 41 Hours 05 Minutes
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Hours vary
+SOC2020PT1	Teacher
+SOC2020PT2	Teach Kids
+SIC2020EMP	Primary School Education
+SECTOR	A private firm, business or limited company
+Comment	Less than 4 Months
+CONMON1	-3m
+CONMPY	-3m
+work_unpaid	No
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Current job or business may come to an end
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	11;13
+longer_hours_offered_start_in_2weeks_main_job	Yes
+WKPL99	London
+TRVTME	30
+TRVMTH	Car, van, minibus or works van
+TRVDRV	Sometimes as a passenger and sometimes as a driver
+REDPAID	Yes
+REDYL18	Dismissed
+HTHDIS	Yes
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Primary School Education
+ACTWKDY	Monday;Tuesday;Wednesday
+ILLWK	Yes
+ILLDAYS	Monday
+statutory_sick_pay_receiving	Yes
+ILL1PD	One
+IL1BEF	Before the first day worked in the week
+ILNE20	Other
+ILLST17	At least two weeks but less than four weeks
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	Twelve months or longer
+ILNE20M	Other
+ILNE12SE	Employment
+HWRET12E	Something else
+AppCurr	Yes
+apprenticeship_main_job	No
+Enrol	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland;Outside of the UK
+Scot_School	Standard Grades
+Scot_leavers	ONC or SNC
+Scot_Other	Key or Core Skills Qualification
+Scot_HigherEd	14-19 Diploma
+Safety_Net_ScotNonUK	Formal Award Qualification
+Safety_Net_Level_Awards	Their qualification is not formal and does not have a level
+NonUK_School	None of these
+NonUK_Deg	Undergraduate Degree
+Qual_Check_Scot	Standard Grades;ONC or SNC;Key or Core Skills Qualifications;14-19 Diploma
+Qual_Check_NonUK	Undergraduate Degree
+Standards_Lev	Foundation
+Dip_14_19	Foundation
+Scot_Skills	Key
+Key_Skills_Scot	Level 1
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit
+uc_reason_claiming	Not working because they were sick, injured or disabled
+previously_served_armed_forces	No
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Mother
+SMOCCT	Teacher
+SMOCCD	Teach Kids
+SMERESE	Self-employed
+LNGLST	Yes
+Health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	Yes
+main_health_condition	Mental Health Condition
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	None of these
+past_physical_conditions	None of these
+past_mental_health_conditions	Yes
+past_illnesses_reduced_activity	Yes, a lot
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	4
+TYPINJ	Fracture or broken bones
+SITEFR	Wrist or ankle
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Contact with moving machinery or material being machined
+ILLWRK1	Yes
+NUMILL	5
+TYPILL	A different illness
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	4
+WCHJB3	Some other job
+CIGEVER	Yes
+CIGNOW	No
+HH_refday	Sarah P1Ineligible Jones;Dolly BP0 Jones;Alex BP12 Hamilton;Alice BP11 Smith;John IP22 Carey
+HH_refday1	No
+AddrHist_Check	No

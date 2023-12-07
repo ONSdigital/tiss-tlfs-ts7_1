@@ -1,0 +1,173 @@
+AboutYou	John IP0;;HH117 Smith
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Snow IP103;;HH117 White
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Happy IP100;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Bashful IP95;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	5
+AddPpl	Grumpy IP87;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	6
+AddPpl	Dopey IP83;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	7
+AddPpl	Sleepy IP82;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	8
+AddPpl	Sneezy IP42;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	9
+AddPpl	Doc IP20;;HH117 White
+Sex	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	Save and continue
+Relationships	2;3;Other non-relative
+Relationships	2;4;
+Relationships	2;5;Other relative
+Relationships	2;6;Other relative
+Relationships	2;7;Other relative
+Relationships	2;8;Other relative
+Relationships	2;9;Other relative
+Relationships	3;4;Brother or sister
+Relationships	3;5;Brother or sister
+Relationships	3;6;Brother or sister
+Relationships	3;7;Brother or sister
+Relationships	3;8;Brother or sister
+Relationships	3;9;Brother or sister
+Relationships	4;5;Brother or sister
+Relationships	4;6;Brother or sister
+Relationships	4;7;Brother or sister
+Relationships	4;8;Brother or sister
+Relationships	4;9;Brother or sister
+Relationships	5;6;Brother or sister
+Relationships	5;7;Brother or sister
+Relationships	5;8;Brother or sister
+Relationships	5;9;Brother or sister
+Relationships	6;7;Brother or sister
+Relationships	6;8;Brother or sister
+Relationships	6;9;Brother or sister
+Relationships	7;8;Brother or sister
+Relationships	7;9;Brother or sister
+Relationships	8;9;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	Snow IP103 HH117 White
+TEN1	Own it outright
+Person	7
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Sleepy IP82 HH117 White
+AltAdd	No
+DOB	2;8;1982
+XMARSTA	Married
+Nationality	Polish
+CRY12	Poland
+Comment	CAMEYR > 2 years
+CAMEYR	-40m
+CONTUK	No
+Comment	CAMEYR2/CAMEMT <= 12 months
+CAMEYR2	-5m
+CAMEMT	-5m
+QSTAY	Less than 6 months
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+ever_sought_asylum	Yes
+NATID	Scottish
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	Straight or Heterosexual
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Part-time
+STAT2	An employee;Part-time
+Yptjob18	Illness or disability
+Paid_wage_self_employed_21	An employment agency or umbrella company
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Temporary
+Jobtyp18	Other
+Jobtyp18_Oth	They just wanted to
+WhyTemp18	Other
+WhyTemp18_Oth	Freedom
+CONTRACTMAINJOB20	No
+MINHRS	Yes
+number_employees_self_employed_main_2job	11-19
+Paid_wage_employee_22	My employer through PAYE
+NITAX22	My tax or National Insurance is taken from my pay before I am paid
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	No, I have no managerial duties
+number_employees_workplace_second_2job	Don't know
+number_employees_workplace_second_2job_dont_know_bands	More than 500
+HOME	In the same grounds or building as my home
+work_location_second_job	From home
+BroadbandA	No
+BroadbandB	No
+WHCDAYS18	Did not work that week
+EVEROT	I do not work overtime
+USHR1	40;53
+USHR2	10;41
+check_total_usual_work_main_2job	Yes
+check_total_usual_work_second_2job	Yes
+YLESS.SEMP	Other
+YLESS.SEMP_Oth	Something else
+SOC2020PT1	Jewellery Maker
+SOC2020PT2	Creating earrings from the diamonds
+SIC2020SEMP	Accessories
+SOC2020_2_PT1	Miner
+SOC2020_2_PT2	Mining diamonds
+SIC2020_2_EMP	Mining
+Comment	CONSEY/CONMON2 > 4 months
+CONMON2	-8m
+CONSEY	-8m
+work_unpaid	No
+self_union_membership	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	Don't know
+PAYINTRO	Save and continue
+Grs1B	Weekly
+GrsExp	;
+GrsSkpA	500
+PTHRS	No, this is the pay I receive for my part-time job
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Absent from work through illness
+WKPL99	Liverpool
+workplace_location_second_job	Chester
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	At least six months but less than nine months
+ILNE20M	Stress, depression, anxiety
+ILNE12SE	Self-employment
+HWRET12S	Took early retirement
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Painter

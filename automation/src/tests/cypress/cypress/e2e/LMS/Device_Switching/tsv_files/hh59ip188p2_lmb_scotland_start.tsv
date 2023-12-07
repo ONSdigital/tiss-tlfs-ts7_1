@@ -1,0 +1,51 @@
+AboutYou	John IP183;;HH59 Smith
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP188;;HH59 Person
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three IP192;;HH59 Person
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP183 HH59 Smith
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Two IP188 HH59 Person
+AltAdd	No
+DOB	
+Age	69
+XMARSTA	Formerly in a civil partnership which is now legally dissolved
+Nationality	British;Other
+Nationality_Oth	French
+CRY12	Isle of Man or Channel Islands
+CAMEYR	I was born in the UK
+CRY12SUK	Wales
+NATID	English
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_Passports	None
+Expired_Passports	None
+Sexual_Orientation	Straight or Heterosexual
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Enrolled on a part-time course
+CONTRACTMAINJOB20	Yes
