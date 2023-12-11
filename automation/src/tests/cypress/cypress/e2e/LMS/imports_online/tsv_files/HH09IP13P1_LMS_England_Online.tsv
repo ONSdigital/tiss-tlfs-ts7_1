@@ -1,0 +1,191 @@
+AboutYou	Alex;;Hamilton
+DOB	1;1;1997
+SEX	Male
+AddressChk	Yes
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	2
+AddStu	Jack;;Watson
+DOB	Don't know
+Age	36
+SEX	Male
+StuRel	Father or mother
+AddStuChk	No
+ShareCooking	No
+ShareLiv	No
+HRP	Jack Watson
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Comment	End Of HouseHold Section
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Alex Hamilton
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	Married
+Nationality	Irish
+CRY12	Isle of Man or Channel Islands
+Comment	CAMEYR>2 years from Ref date
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Scottish;Northern Irish
+Ethnicity	Other
+OTHER	Any other background
+OTHER_Oth	Black French
+RELIGION	Other religion
+RELIGION_Oth	Atheist
+Current_Passports	United Kingdom;Ireland
+Expired_Passports	None
+Sexual_Orientation	Other
+Sexual_Orientation_Oth	Asexual
+SATIS	4
+WORTH	4
+HAPPY	4
+ANXIOUS	4
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	An employee;Full-time
+STAT2	An employee;Part-time
+Paid_wage_employee_21	A company through an app or online platform, such as Deliveroo
+NITAX21	I deal with my own tax or National Insurance
+ECAUTH21	Another person or organisation does
+DEPCONT21	Someone else finds my work, such as an agency
+OPAUTH21	No, I can usually take non-working days without permission
+supervisory_duties_main_2job	Yes
+managerial_duties_main_2job	Yes, I am a supervisor
+number_employees_workplace_main_2job	1-10
+number_employees_workplace_1_to_10_main_2job	8
+Paid_wage_employee_22	A company through an app or online platform, such as Deliveroo
+NITAX22	My accountant deals with my tax or National Insurance
+ECAUTH22	Another person or organisation does
+DEPCONT22	Someone else finds my work, such as an agency
+OPAUTH22	No, I can usually take non-working days without permission
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	No, I have no managerial duties
+number_employees_workplace_second_2job	1-10
+number_employees_workplace_1_to_10_second_2job	10
+HOME	From home
+Work_location_second_job	In different places using home as a base
+main_job_work_pattern_type	None of these
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	Yes
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_ever_main_job	No
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	No
+EVEROT	I work paid overtime
+usual_paid_overtime_main_2job_hours	10;0
+POT1	10;0
+usual_paid_overtime_second_2job_hours	0;0
+POT2	3;11
+USHR1	37;20
+ACTHR1	50;13
+USHR2	8;41
+ACTHR2	14;8
+Comment	TOTAL should be 47 Hours 20 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	TOTAL should be 60 hours 13 Minutes
+TOTAC2	Yes
+Comment	TOTAL should be 8 hours 41 minutes
+check_total_usual_work_second_2job	Yes
+Comment	TOTAL should be 17 hours 19 minutes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Farm Manager
+SOC2020PT2	Manage crops and livestock
+sic2007_employed_main_job	Mixed farming
+SECTOR	Some other kind of organisation
+SECTOR03	A nationalised industry or state corporation
+SOC2020_2_PT1	Jewellery Polisher
+SOC2020_2_PT2	Polish platinum, gold and silver jewellery
+sic2007_employed_second_job	Manufacture of jewellery
+Comment	More than 4 months ago
+CONMON1	-5m
+CONMPY	-5m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Disagree
+employees_decision_involvement_main_job	Poor
+meaningful_main_job	Disagree
+satisfaction_main_job	Dissatisfied
+manager_support_main_job	Disagree
+in_job_bullying_12months	No
+skills_match_main_job	My present skills correspond well with my duties
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Current job or business is to fill time before finding another job or business
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	37;0
+longer_hours_offered_start_in_2weeks_main_job	No
+PAYINTRO	Save and continue
+Grs2	Annually
+GrsExp	20000
+SecGrs	Annually
+SecGrsExp	10000
+PTHRS2B	No, this is the pay I receive for my part-time job
+paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Absent from work through illness
+WKPL99	London
+Workplace_location_second_job	London
+REDANY	No
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+DIFPER	1
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Scotland;Outside of the UK
+EWNISCOT_School	Standard Grades
+EWNISCOT_College	ONC or SNC
+EWNISCOT_Additional	Key, Core, Essential or Functional Skills Qualification
+EWNISCOT_HE	Nursing Qualification
+Safety_Net_EWNIScotNonUK	Formal Award Qualification
+Safety_Net_Level_Awards	Level 7
+NonUK_School	Qualifications like AS or A Levels
+NonUK_Deg	Undergraduate Degree
+Qual_Check_EWNISCOT	Standard Grades;ONC or SNC;Key, Core, Essential or Functional Skills Qualification;Nursing Qualification;Other Formal Award, Level 7
+Qual_check_NonUK	Qualifications like AS or A Levels;Undergraduate Degree
+Standards_Lev	General
+EWNISCOT_Skills	Key
+EWNISCOT_KeySkills	Level 1
+Nursing_Qual	Nursing Associate qualification
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit
+uc_reason_claiming	Joint household claim with your partner
+previously_served_armed_forces	No
+QHEALTH1	Fair
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Back or neck
+past_physical_conditions	Heart, blood pressure or blood circulation conditions
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a little
+ACCDNT	Yes
+ILLWRK1	Yes
+work_illness_most_serious_time_off_length	No time off work
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	No
+Comment	AddrHist_date less than < 1 year from ref date
+AddrHist_Date	-11m
+AddrHist_manual	33;;univers;;MU1 1NV;button moon
+Comment	AddrHist_date less than or equal to =< 2 years from ref date
+AddrHist_Date	-23m
+AddrHist_manual	10;;univers;;MU1 1NV;button moon
+Comment	AddrHist_date less than or equal to =< 3 years from ref date
+AddrHist_Date	-35m
+AddrHist_manual	12;;univers;;MU1 1NV;button moon
+Individual_OUTRO	 
+CheckText	We would now like to ask some questions about each person
