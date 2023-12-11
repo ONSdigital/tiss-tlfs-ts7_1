@@ -505,7 +505,7 @@ cy.readFile("cypress/e2e/LMS/framework/LMS_Lookup.tsv").then((page_list) => {
                     case "PAYINTRO": case "RELEXPAGE": case "INELIGIBLEOUTRO": case "ALTINDIVSTART": case "HOUSEHOLD_INTRO":
                     case "EMPLOYMENT_INTRO": case "HHKICKOUT": case "ADDRHIST_INTRO": case "ALTINDIVSTART": case "MAX_PEOPLE":
                     case 'PAST_LONG_LASTING_HEALTH_CONDITION_INTRO': case 'COUNTRY_QUAL_INTRO': case 'LAST_PASSPORT_MESSAGE':
-                    case 'LASTPERMESSAGE':
+                    case 'LASTPERMESSAGE': case 'LAST_EXPIRED_PASSPORT_MESSAGE':
                         page = func.verify_page(page_list, ele[0], person, max_people, mobile);
                         func.save_cont(2000);
                         break;
