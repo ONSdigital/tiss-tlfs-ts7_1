@@ -324,6 +324,7 @@ function randomiser(listy, check_text) {
     cy.contains('.text-container', 'No reply').click();
     save_cont();
   }
+
 // Little functions to set the viewport size to test mobiles and other screen sizes and orientation...
   function mob_sizer(){
     var sizes = ['ipad-mini', 'iphone-3', 'iphone-6', 'iphone-6+', 'iphone-7', 'iphone-x', 'iphone-xr', 'samsung-note9', 'samsung-s10']
