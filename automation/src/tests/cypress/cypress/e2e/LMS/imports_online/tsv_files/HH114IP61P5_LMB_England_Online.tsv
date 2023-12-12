@@ -1,0 +1,164 @@
+AboutYou	Jane BP0;;HH114 Smith
+DOB	1;1;1944
+Sex	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Harry BP107;Edward;HH114 Styles
+DOB	;;;
+Age	35
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	3
+AddPpl	Louis BP106;William;HH114 Thomlinson
+DOB	;;;
+Age	43
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Niall IP53;James;HH114 Horan
+DOB	;;;
+Age	55
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	5
+AddPpl	Liam IP61;James;HH114 Payne
+DOB	;;;
+Age	67
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	6
+AddPpl	Zayn IP63;Javadd;HH114 Malik
+DOB	;;;
+Age	27
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	
+Relationships	2;3;Partner
+Relationships	2;4;
+Relationships	2;5;Other non-relative
+Relationships	2;6;Other non-relative
+Relationships	3;4;Other non-relative
+Relationships	3;5;Other non-relative
+Relationships	3;6;Other non-relative
+Relationships	4;5;Other non-relative
+Relationships	4;6;Other non-relative
+Relationships	5;6;Other non-relative
+ShareCooking	No
+ShareLiv	No
+HRP	Liam IP61 James HH114 Payne
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 5 (IP61)
+Person	5
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Liam IP61 James HH114 Payne
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	In a legally registered civil partnership
+Nationality	Pakistani
+CRY12	Pakistan
+CAMEYR	;
+CAMEYR	Don't know
+CONTUK	Yes
+WHYUK10	To get married or form a civil partnership in the UK with a non-UK citizen
+NATID	English;Northern Irish
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	African
+RELIGION	Christian
+Current_passports	Other
+Multi_current_passport	Pakistan
+Current_passport_check	No
+Expired_passports	United Kingdom
+Sexual_orientation	Gay or Lesbian
+SATIS	4
+WORTH	4
+HAPPY	4
+ANXIOUS	4
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Not yet started looking
+like_paid_job	Yes
+MargAtch	Yes
+think_work_in_future	Probably
+when_think_work_in_future	More than one year but less than five
+LEFTYR18	I have never had a paid job
+OWNBUS18	Yes, for a family owned business
+usual_unpaid_family_worker_hours	20;0
+actual_unpaid_family_worker_hours	25;30
+soc2020_job_title_unpaid_family_worker	Baker
+soc2020_job_description_unpaid_family_worker	Bake bread
+sic2007_unpaid_family_worker	Baking
+number_employees_workplace_ufw	250-499
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Carpenter
+apprenticeship_sic_2007_industry	Making wood things
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	Yes
+work_related_education_4weeks	No
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	Any grade GCSEs, O Levels or CSEs;BTEC, BEC, TEC, Edexcel or LQL;Welsh or International Baccalaureate
+EWNI_College	OND;RSA or OCR Qualification
+EWNI_Additional	Youth Training Scheme Certificate
+EWNI_Prof	Chartered Qualification
+EWNI_Uni	Doctorate
+Safety_Net_Q	Other Formal Qualification
+Safety_Net_Level_Other	Level 6
+Qual_Check	Any grade GCSEs, O Levels or CSEs;BTEC, BEC, TEC, Edexcel or LQL;Welsh or International Baccalaureate;OND;RSA or OCR Qualification;Youth Training Scheme Certificate;Chartered Qualification;Doctorate;Other Formal Qualification, Level 6;I need to add a qualification gained outside of the UK
+Add_Qual_NonUK	College or University qualifications
+Add_NonUK_Deg	Undergraduate Degree
+GCSE_Olevs	O Levels
+Bacc_Type	Welsh Baccalaureate
+Welsh_Bacc	Foundation
+BTEC_Type	BTEC
+BTEC_Number	3
+BTEC_Lev	Equivalent to first or second year at university or higher
+BTEC_4_Type	BTEC Higher National Certificate, HNC
+RSA_OCR	Cambridge Nationals or Technicals
+Cambridge_Qual	Cambridge Technicals
+Tech_Lev	Level 2
+CT_2_Type	Award
+Chart_Type	I am a member of a professional body
+sickness_disability_benefits_claiming	Attendance Allowance
+oth_benefits_claiming	Council Tax Reduction Benefit;Pension Credit
+state_pension_receiving	Yes
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Good
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fourth day after the accident
+TYPINJ	Fracture or broken bones
+SITEFR	Head, neck, spine or pelvis
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Contact with moving machinery or material being machined
+ILLWRK1	No
+CIGEVER	No
+HH_refday	Jane BP0 HH114 Smith;Harry BP107 Edward HH114 Styles;Louis BP106 William HH114 Thomlinson
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
