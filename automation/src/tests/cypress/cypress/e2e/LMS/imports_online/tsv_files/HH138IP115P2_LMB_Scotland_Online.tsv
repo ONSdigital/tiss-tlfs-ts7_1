@@ -1,0 +1,146 @@
+AboutYou	Jane BP0;;HH138 Smith
+DOB	;
+Age	73
+Sex	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP115;;HH138 Jones
+DOB	30;4;1981
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Sally BP121;;HH138 Smith
+DOB	1;1;1997
+Sex	Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Alex BP122;;HH138 Hamilton
+DOB	1;1;1956
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4
+Relationships	3;4;Other relative
+ShareCooking	Yes
+ShareLiv	No
+HRP	Jane BP0 HH138 Smith;Sally BP121 HH138 Smith
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Comment	End of House Hold
+Comment	Start of Person 2 (IP115)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Two IP115 HH138 Jones
+AltAdd	No
+XMARSTA	Widowed
+Nationality	Indian
+CRY12	Northern Ireland
+NatID	Scottish;British
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom;Ireland;Other
+Multi_current_passport	Indonesia
+Current_passport_check	No
+Expired_passports	None
+Sexual_Orientation	Or, prefer not to say
+SATIS	4
+WORTH	5
+HAPPY	6
+ANXIOUS	9
+PAIDJOB	No
+Own_run_business_check	No
+CasualJob20	Yes
+CASWRK18	Yes
+WhyCas18	Could not find a permanent job
+Paid_wage_employee_21	My clients or customers
+NITAX21	My tax or National Insurance is taken from my pay before I am paid
+CONTRACTMAINJOB20	Yes
+ZHC20	Yes
+HOME	From home
+WHCDAYS18	;
+CASAC	165;50
+SOC2020PT1	Warehouse packer
+SOC2020PT2	Pack nuts into boxes
+sic2007_employed_main_job	manufacture of Nuts
+SECTOR	A private firm, business or limited company
+Comment	More than 4 months ago
+CONMON1	-5m
+CONMPY	-5m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Agree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Strongly agree
+satisfaction_main_job	Neither dissatisfied nor satisfied
+manager_support_main_job	Neither disagree nor agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	6 to 10 times
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	No
+Paid_same_as_usual	Yes
+WKPL99	Bristol
+REDANY	Yes
+reason_made_redundant	Some other reason
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Make guitars
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+AppCurr	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Songwriting
+apprenticeship_sic_2007_industry	Music
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	Access 1 to 3
+Scot_leavers	SCOTVEC, SCOTEC or SCOTBEC Qualification
+Scot_Other	Basic Skills Qualification, these were discontinued in 2014
+Scot_HigherEd	Diploma in Higher Education
+Safety_Net_Q	Formal Award Qualification
+Safety_Net_Level_Awards	Entry level
+Qual_Check_Scot	Access 1 to 3
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2015
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	Cancer;Diabetes;Dementia, for example Alzheimer's disease;Symptomatic HIV;Multiple sclerosis;Muscular dystrophy;Other progressive or relapsing and remitting conditions
+current_neurodivergent_conditions	Autism including Asperger's syndrome;Epilepsy;Learning disabilities, for example prenatal and postnatal;Learning difficulties, for example dyslexia and dyspraxia;ADHD;Down's syndrome;Tourette's syndrome;Speech impediment;Other neurodivergent condition
+current_conditions_other	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies, for example hayfever;Skin conditions;Other physical health condition
+current_mental_health_condition	Yes
+main_health_condition	Learning difficulties, for example dyslexia and dyspraxia
+LIMACT	Yes, a lot
+REDACT	Less than 6 months
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	No
+CIGEVER	No
+HH_refday	Jane BP0 HH138 Smith;Two IP115 HH138 Jones;Sally BP121 HH138 Smith;Alex BP122 HH138 Hamilton
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
