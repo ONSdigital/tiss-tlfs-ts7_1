@@ -251,9 +251,9 @@ current_joint_bone_muscle_conditions	None of these
 current_sensory_problems	None of these
 current_progressive_relapsing_remitting_conditions	None of these
 current_neurodivergent_conditions	None of these
-current_conditions_other	Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies;Skin conditions;Other physical health condition
+current_conditions_other	Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies, for example hayfever;Skin conditions;Other physical health condition
 current_mental_health_condition	No
-main_health_condition	Allergies, for example, hayever
+main_health_condition	Allergies, for example hayfever
 LIMACT	Not at all
 past_long_lasting_health_condition_intro	;
 past_long_lasting_health_condition	No
