@@ -1,0 +1,51 @@
+AddChk1	Yes
+Household_Intro	
+AboutYou	John Ineligible;;Smith;Male
+AddressChk	No
+IneligibleType	Other
+IneligibleOther	Something else
+HholdChkAlt	Yes
+Person	2
+AddPpl	Dolly IP0;;Jones;Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Sally IP12;;Smith;Female
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Alex IP11;;Hamilton;Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	No
+Person	5
+AddPpl	Phil BP22;;Clark;Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	
+RelExPage	Save and continue
+Comment	Skip all relationships
+Relationships	2;3
+Relationships	2;4
+Relationships	2;5
+Relationships	3;4
+Relationships	3;5
+Relationships	4;5
+ShareCooking	Yes
+ShareLiv	Yes
+HRP	Dolly IP0 Jones;Alex IP11 Hamilton;Someone else not listed above
+TEN1	Pay rent to the council, housing association, or charitable trust
+TIED	No
+AltAddressChk	Sally IP12 Smith
+Person	3
+OTHADDTYPE	Another type of address
+TIMEAWAY_TO	Yes
+Comment	End Of HouseHold Section
+Comment	Start IP12 (Person 3)
+Person	3
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Sally IP12 Smith
+Individual_OUTRO	
+CheckText	I would now like to ask you some questions of each individua
