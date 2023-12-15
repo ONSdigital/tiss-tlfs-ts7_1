@@ -109,7 +109,7 @@ ShareLiv	No
 HRP	Someone else not listed above
 TEN1SomeoneElse	Squatting
 Person	4
-IndivIntroPage
+IndivIntroPage	
 SETPROXY	No
 ProxyCheck	Four IP47 HH10 Person
 AltAdd	Yes
@@ -237,5 +237,5 @@ CIGEVER	No
 HH_refday	John IP0 HH10 Smith
 HH_refday1	No
 AddrHist_Check	Yes
-Individual_OUTRO
+Individual_OUTRO	
 CheckText	We would now like to ask some questions about each person
