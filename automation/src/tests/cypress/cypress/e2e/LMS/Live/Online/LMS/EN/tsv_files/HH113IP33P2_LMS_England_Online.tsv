@@ -51,7 +51,7 @@ Nationality_Oth	Maltese
 CRY12	Other
 CRY12_Other	Kenya
 Comment	CAMEYR > 2 years from ref date
-CAMEYR	2019
+CAMEYR	-36m
 CONTUK	Yes
 WHYUK10	Another reason
 NATID	English;Other
@@ -66,7 +66,7 @@ Multi_expired_passport	Grenada
 Expired_passport_check	Yes
 Multi_expired_passport	Sweden
 Expired_passport_check	No
-Sexual_Orientation	
+Sexual_Orientation	;
 SATIS	6
 WORTH	6
 HAPPY	6
