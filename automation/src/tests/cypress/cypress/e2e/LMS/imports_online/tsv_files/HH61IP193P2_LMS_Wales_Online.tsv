@@ -1,0 +1,100 @@
+AboutYou	Phil IP184;;HH61 Lester
+DOB	;;;
+Age	38
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Daniel IP193;;HH61 Howell
+DOB	1;1;1950
+Sex	Male
+Rel to P1	Husband or wife
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	Yes
+ShareLiv	No
+HRP	Phil IP184 HH61 Lester
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Daniel IP193 HH61 Howell
+AltAdd	No
+XMARSTA	Never married and never legally registered in a civil partnership
+Nationality	British
+CRY12	Wales
+NATID	Welsh
+Ethnicity	White
+WHITE	Welsh, English, Scottish, Northern Irish or British
+RELIGION	No religion
+Welsh Language	Speak Welsh
+CymFreq	Daily
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	prefer not to say
+SATIS	10
+WORTH	10
+HAPPY	10
+ANXIOUS	10
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	Self-employed;Part-time
+YptJob18	Caring responsibilities for adults
+Paid_wage_self_employed_20	My own limited company through PAYE
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+INCORP20	Yes, I have a limited company
+PARTNER20	Yes, I have a business partner or partners
+number_employees_self_employed_1job	50-249
+EMPLOYEES20	Yes
+HOME	In a different location from my home
+HOMEEV	Yes
+WHCDAYS18	;
+EVEROT	I work unpaid overtime
+usual_unpaid_overtime_1job_hours	20;0
+UPOT	0;0
+USHR	40;22
+ACTHR	26;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020pt1	Farmer
+SoC2020pt2	Farming
+SIC2007_self_employed_main_job	Growing of spices and aromatic drugs
+Comment	CONSEY/CONMON2 < 4 months
+CONMON2	-3m
+CONSEY	-3m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Change of job sector
+looking_for_new_main_job_preferred_hours	The same
+WKPL99	Reading
+REDPAID	Yes
+REDYL18	Resigned
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Carer
+state_pension_receiving	No
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2008
+QHEALTH1	Very good
+LNGLST	No
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	No
+HH_refday	Phil IP184 HH61 Lester;Daniel IP193 HH61 Howell
+HH_refday1	No
+AddrHist_check	Prefer not to say
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
