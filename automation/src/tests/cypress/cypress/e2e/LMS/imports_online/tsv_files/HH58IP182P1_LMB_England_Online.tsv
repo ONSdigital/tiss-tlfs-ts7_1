@@ -1,0 +1,167 @@
+AboutYou	John IP182;;HH58 Smith
+DOB	11;9;1986
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP186;;HH58 Person
+DOB	;
+Age	67
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three IP190;;HH58 Person
+DOB	5;9;1943
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP182 HH58 Smith;Two IP186 HH58 Person;Three IP190 HH58 Person
+TEN1	Currently pay off a mortgage or loan used to purchase the property
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	John IP182 HH58 Smith
+AltAdd	No
+XMARSTA	Never married and never legally registered in a civil partnership
+Nationality	British
+CRY12	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_Passports	None
+Expired_Passports	None
+Sexual_Orientation	Straight or Heterosexual
+SATIS	0
+WORTH	0
+HAPPY	0
+ANXIOUS	0
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	An employee;Full-time
+Paid_wage_employee_20	An employment agency or umbrella company
+NITAX20	My accountant deals with my tax or National Insurance
+ECAUTH20	Another person or organisation does
+DEPCONT20	Someone else finds my work, such as an agency
+OPAUTH20	Yes, someone has to approve it
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, I am a manager
+number_employees_workplace_1job	Don't know
+number_employees_workplace_1job_dont_know_bands	Between 25-49
+HOME	In a different location from my home
+HOMEEV	No
+main_job_work_pattern_type	Annualised hours;On-call working;Staggered hours
+usual_work_pattern_time_periods_main_job	6am to 6pm;6pm to 11pm;11pm to 6am
+night_work_frequency_main_job	Half or more of the total time worked in these hours
+evening_work_frequency_main_job	Less than half of the total time worked in these hours
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+OUTWRK	Yes
+HOMEREF	Yes
+EVEROT	I work paid overtime
+usual_paid_overtime_1job_hours	0;0
+POT	0;0
+USHR	0;0
+ACTHR	0;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Parental leave
+FIFSAL18	Yes
+SOC2020PT1	Clothes maker
+SOC2020PT2	Make clothes
+sic2007_employed_main_job	manufacture of felt fabrics
+Sector	A private firm, business or limited company
+Comment	CONMPY/CONMON1 > 4 months
+CONMON1	-8m
+CONMPY	-8m
+OWNBUS18	Yes, for a family owned business
+usual_unpaid_family_worker_hours	20;0
+actual_unpaid_family_worker_hours	25;37
+soc2020_job_title_unpaid_family_worker	Volunteer
+soc2020_job_description_unpaid_family_worker	Volunteering
+sic2007_unpaid_family_worker	Charity work
+number_employees_workplace_ufw	25-49
+JobQual_Intro	;
+career_progression_main_job	Disagree
+employees_decision_involvement_main_job	Neither good nor poor
+meaningful_main_job	Agree
+satisfaction_main_job	Neither dissatisfied nor satisfied
+manager_support_main_job	Neither disagree nor agree
+in_job_bullying_12months	No
+skills_match_main_job	My present skills correspond well with my duties
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+PAYINTRO	;
+Grs1A	Annually
+GrsExp	35000
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Maternity pay
+WKPL99	Manchester
+TRVTME	25
+TRVMTH	Undeground train, light railway or tram
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Finance
+ACTWKDY	Monday;Sunday
+ILLWK	Yes
+ILLDAYS	Monday;Sunday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Other respiratory conditions
+ILLST17	One day
+ILNXSM	A different medical reason
+ILLNXT20	Neck and upper limb problems
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Fork lift operator
+apprenticeship_sic_2007_industry	Construction
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	No qualification have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	1999
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Fair
+LNGLST	;
+LNGLST	Prefer not to say
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Arms or hands;Other joints, bones or muscles
+past_physical_conditions	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions for example asthma or bronchitis
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Not at all
+ACCDNT	No
+ILLWRK2	Yes
+NUMILL	3
+TYPILL	Stress, depression or anxiety
+AWARE	Within the last 12 months 
+work_illness_time_off_length	At least one month 
+work_illness_time_off_length_months	2
+ILCURR	Yes
+WCHJB3	Some other job 
+CIGEVER	No
+HH_refday	John IP182 HH58 Smith;Two IP186 HH58 Person;Three IP190 HH58 Person
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
