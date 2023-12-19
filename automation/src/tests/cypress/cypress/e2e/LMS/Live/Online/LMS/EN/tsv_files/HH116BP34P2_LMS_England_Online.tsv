@@ -181,7 +181,7 @@ current_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Oth
 current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
 current_progressive_relapsing_remitting_conditions	Cancer;Diabetes;Dementia, for example Alzheimer's disease;Symptomatic HIV;Multiple sclerosis;Muscular dystrophy;Other progressive or relapsing and remitting conditions
 current_neurodivergent_conditions	Autism including Asperger's syndrome;Epilepsy;Learning disabilities, for example prenatal and postnatal;Learning difficulties, for example dyslexia and dyspraxia;ADHD;Down's syndrome;Tourette's syndrome;Speech impediment;Other neurodivergent condition
-current_conditions_other	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies for example hayfever;Skin conditions;Other physical health condition
+current_conditions_other	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions;Severe disfigurements;Allergies, for example hayfever;Skin conditions;Other physical health condition
 current_mental_health_condition	Yes
 main_health_condition	Autism including Asperger's syndrome
 LIMACT	Yes, a little

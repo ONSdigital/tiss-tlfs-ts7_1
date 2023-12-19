@@ -163,7 +163,7 @@ NonUK_Deg	Postgraduate Degree
 Qual_Check	Any grade GCSEs, O Levels or CSEs;ONC;Basic Skills Qualification;Qualified Teacher Status;Foundation Degree
 Qual_Check_NonUK	Qualifications like GCSEs or O Levels;Postgraduate Degree
 GCSE_Olevs	GCSEs grades A* to G or 9 to 1;O Levels
-GCSE_OLev_Check	No, I did GCSEs only
+GCSE_OLev_Check	No, they did GCSEs only
 GCSE_Grades	One or more GCSE at grades A* to C or 9 to 4
 Teaching_Qual	PGCE or PGDE
 Teach_Age	Primary education
