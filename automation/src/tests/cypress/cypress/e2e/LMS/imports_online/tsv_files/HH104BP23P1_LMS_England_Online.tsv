@@ -1,0 +1,100 @@
+AboutYou	Alexandra BP23;;Hamilton
+DOB	;
+age	64
+Sex	Female
+AddressChk	Yes
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+HRP	Someone else not listed above
+TEN1SomeoneElse	Don't know
+Comment	End Of HouseHold Section
+Comment	Start BP23
+Person	1
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Cypriot
+CRY12	Other
+CRY12_Other	Cyprus
+Comment	Year > 2 years from Ref Date
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Other
+NATID Other	Cypriot
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_OTH	Black Cypriot
+RELIGION	Other religion
+RELIGION_Oth	7 day Adventist
+Current_Passports	United Kingdom
+Expired_Passports	Ireland;Other
+Multi_expired_passport	Cyprus
+Expired_passport_check	Yes
+Multi_expired_passport	Cuba
+Expired_passport_check	No
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Waiting to start a job they have accepted
+START182	Yes
+LKTIMB	;
+LEFTYR18	-18m;-18m
+OWNBUS18	Yes, for an internship
+REDYL18	Left for some other reason
+employment_status_previous	An employee
+soc2020_job_title_previous_job	Forklift driver
+soc2020_job_description_previous_job	Driving forklift
+sic2007_industry_employed_previous_job	Construction
+supervisory_duties_previous_job	No
+number_employees_workplace_previous_job	25-49
+AppCurr	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+future_work_related_education_3months	Yes
+Enrol_Check	No
+Country_Qual_Intro	;
+Country_Qual	Outside of the UK
+NonUK_School	International Baccalaureate
+NonUK_Deg	Postgraduate Degree
+Qual_Check_NonUK	International Baccalaureate;I need to add a qualification gained outside of the UK
+Other_Qual_NonUK	Bachelor of Arts
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Job Seekers Allowance
+previously_served_armed_forces	No
+QHEALTH1	Bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Muscular dystrophy 
+current_neurodivergent_conditions	Learning difficulties, for example dyslexia and dyspraxia
+current_conditions_other	Allergies, for example hayfever 
+current_mental_health_condition	No
+main_health_condition	Muscular dystrophy 
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	None of these
+past_physical_conditions	Symptomatic HIV
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a lot
+ILLWRK2	Yes
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	Yes
+OUTRO1	abc@gmail.com;abc@gmail.com
+OUTRO2	Yes
+OUTRO3b	123456789
+Feedback	Very difficult
+CheckText	Thank you, this part of the Shape Tomorrow study is now complete. You may close your browse
