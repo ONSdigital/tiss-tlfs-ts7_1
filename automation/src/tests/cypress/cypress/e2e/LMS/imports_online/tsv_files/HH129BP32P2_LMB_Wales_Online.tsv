@@ -1,0 +1,134 @@
+AboutYou	John BP0;;HH129 Smith
+DOB	1;1;1997
+SEX	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HholdChk	Yes
+Person	2
+AddPpl	Two BP32;;HH129 Smith
+DOB	10;01;1970
+SEX	Female
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Three IP92;;HH129 Smith
+DOB	1;1;1982
+SEX	Female
+StuRel	Sister or brother
+AddStuChk	Yes
+Person	4
+AddStu	Four IP93;Student;HH129 Smith
+DOB	8;9;1973
+SEX	Female
+StuRel	Stepsister or stepbrother
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;
+Relationships	2;4;
+Relationships	3;4;Other relative
+ShareCooking	No
+ShareLiv	Yes
+HRP	Someone else not listed above
+TEN1SomeoneElse	Live here rent-free
+TIED	No
+Comment	End of House Hold
+Comment	Start of Person 2 (BP32)
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Three IP92 HH129 Smith
+AltAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	Separated but still legally married
+Nationality	Indian
+CRY12	Other
+CRY12_Other	Australia
+Comment	YYYY <= 2 years from Ref Date
+CAMEYR	-18m
+CONTUK	Yes
+CAMEMT	-15m
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+NATID	British;Other
+NATID Other	German
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	White and Asian
+RELIGION	Buddhist
+Welsh Language	None of these apply
+Current_Passports	Ireland
+Expired_passports	United Kingdom
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Studying
+like_paid_job	No
+MargAtch	Yes
+think_work_in_future	Probably
+when_think_work_in_future	More than five years
+LEFTYR18	Two BP32 HH129 Smith has never had a paid job
+OWNBUS18	Yes, for a family owned business
+usual_unpaid_family_worker_hours	7;30
+actual_unpaid_family_worker_hours	15;10
+soc2020_job_title_unpaid_family_worker	Dishwasher
+soc2020_job_description_unpaid_family_worker	Washes dishes in the kitchen of the restaurant
+sic2007_unpaid_family_worker	Restaurant
+number_employees_workplace_ufw	Don't know
+number_employees_workplace_dont_know_bands_ufw	Under 25
+ACTWKDY	Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday
+ILL1PD	One
+IL1BEF	On their first working day of the week
+ILNE20	Other respiratory conditions
+EMPSICK4	Yes
+WKSK4	4
+sickness_continuous_absence_length_under_2_months	At least six weeks but less than two months
+ILNE20M	Stress, depression, anxiety
+ILNE12SE	Somewhere else
+HWRET12E	Left their job and has stopped working for now
+AppCurr	Yes
+apprenticeship_main_job	No
+Course	A full-time course done through Open College or Open University
+Attend	Waiting for term to start or restart
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales;Scotland
+EWNISCOT_School	Welsh, Scottish or International Baccalaureate
+EWNISCOT_College	HNC or SHNC;HND or SHND
+EWNISCOT_Additional	Scottish Wider Access Programme Qualification
+EWNISCOT_HE	Chartered qualification
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Entry level;Level 1
+Qual_Check_EWNISCOT	Welsh, Scottish or International Baccalaureate;HNC or SHNC;HND or SHND;Scottish Wider Access Programme Qualification;Other Formal Diploma, Level 1
+Bacc_WSI	Welsh Baccalaureate; Scottish Baccalaureate
+EWNISCOT_Wbacc	Foundation
+EWNISCOT_SBacc	Yes
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP;Industrial Injuries Disablement Benefit
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
+uc_reason_claiming	Unemployed and looking for work
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2015
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Joint main earners
+SMOCCT	Teacher
+SMOCCD	Teach Kids
+SMERESE	An employee
+QHEALTH1	Good
+LNGLST	Yes
+health_condition_illness_12months	;
+health_condition_illness_12months	Don't know
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	No
+CIGEVER	Yes
+CIGNOW	Yes
+HH_refday	John BP0 HH129 Smith;Two BP32 HH129 Smith;Three IP92 HH129 Smith;Four IP93 Student HH129 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	;
+CheckText	We would now like to ask some questions about each person
