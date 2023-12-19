@@ -1,4 +1,4 @@
-Aboutyou	John IP59;;HH111 Smith
+Aboutyou	John BP59;;HH111 Smith
 dob	5;4;1987
 Sex	Male
 addresschk	Yes
@@ -30,7 +30,7 @@ Relationships	2;4;
 Relationships	3;4;Brother or sister
 ShareCooking	Yes
 ShareLiv	No
-HRP	John IP59 HH111 Smith;Three IP5 Middle HH111 Smith
+HRP	John BP59 HH111 Smith;Three IP5 Middle HH111 Smith
 TEN1	Pay rent to a private landlord
 TIED	Yes
 Person	1
@@ -109,7 +109,8 @@ QHEALTH1	Very bad
 LNGLST	No
 past_long_lasting_health_condition_intro	;
 past_long_lasting_health_condition	No
-HH_refday	John IP59 HH111 Smith;Two IP4 Middle HH111 Smith;Three IP5 Middle HH111 Smith;Four IP8 Middle HH111 Smith
+ILLWRK2	No
+HH_refday	John BP59 HH111 Smith;Two IP4 Middle HH111 Smith;Three IP5 Middle HH111 Smith;Four IP8 Middle HH111 Smith
 HH_refday1	Yes
 HH_refday2	6
 HH_refday_AddHold	Martin;Steve;Smith;14;10;1999;Male
