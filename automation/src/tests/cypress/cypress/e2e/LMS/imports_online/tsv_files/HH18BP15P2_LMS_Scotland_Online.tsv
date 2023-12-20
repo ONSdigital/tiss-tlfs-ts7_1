@@ -1,0 +1,50 @@
+AboutYou	Jane IP0;;HH18 Smith
+DOB	1;1;1947
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Alex BP15;;HH18 Jones
+DOB	;;
+Age	15
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Dolly BP19;;HH18 Parton
+DOB	1;1;2010
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	
+Relationships	2;3;Other non-relative
+ShareCooking	Yes
+ShareLiv	No
+HRP	Jane IP0 HH18 Smith
+TEN1	Own it outright
+Comment	End of Household Section
+Comment	Start of Person 2 (BP15)
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+Nationality	Irish
+CRY12	Republic of Ireland
+Comment	CAMEYR > 2 years from ref date
+CAMEYR	-88m
+CONTUK	No
+Comment	CAMEYR2 & CAMEMT <= 12 months from ref date
+CAMEYR2	-4m
+CAMEMT	-4m
+QSTAY	Less than 6 months
+NATID	Northern Irish;British
+ETHNICITY	Asian, Asian Scottish or Asian British
+ASIAN_SC	Chinese, Chinese Scottish or Chinese British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom
+Expired_passports	None
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
