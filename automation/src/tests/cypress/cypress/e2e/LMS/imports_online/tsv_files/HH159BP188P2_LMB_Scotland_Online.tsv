@@ -1,0 +1,141 @@
+AboutYou	John BP183;;HH159 Smith
+DOB	;;;
+Age	65
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP188;;HH159 Person
+DOB	10;10;1956
+SEX	Male
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three BP192;;HH159 Person
+DOB	;;;
+Age	70
+SEX	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+ShareCooking	Yes
+ShareLiv	No
+HRP	John BP183 HH159 Smith
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Formerly in a civil partnership which is now legally dissolved
+Nationality	British;Other
+Nationality_Oth	French
+CRY12	Isle of Man or Channel Islands
+CAMEYR	They were born in the UK
+CRY12SUK	Wales
+NATID	English
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_Passports	None
+Expired_Passports	None
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Two BP188 HH159 Person's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Enrolled on a part-time course
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, they are a manager
+number_employees_workplace_1job	Don't know
+number_employees_workplace_1job_dont_know_bands	Between 50-499
+HOME	From home
+main_job_work_pattern_type	Working from home
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	No
+evening_work_ever_main_job	Yes
+evening_work_frequency_main_job	Half or more of the total time worked in these hours
+WHCDAYS18	
+EVEROT	Two BP188 HH159 Person does not work overtime
+USHR	35;13
+ACTHR	0;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Tents water proofer
+SOC2020PT2	Water proof tents
+sic2007_employed_main_job	Water proofing tents
+SECTOR	Some other kind of organisation
+SECTOR03	A public limited company
+Comment	CONSEY/CONMON2 < 4 months
+CONMON1	-2m
+CONMPY	-2m
+OWNBUS18	No
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	Family or personal reasons
+HTHOTH	Yes
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Primary School Teacher
+soc2020_job_description_redundant_job	Teach Kids
+sic2007_industry_employed_redundant_job	Primary education
+ACTWKDY	Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Heart, blood pressure & circulation problems
+ILLST17	At least two months but less than three months 
+ILNXSM	A different medical reason
+ILLNXT20	Other gastrointestinal problems
+DIFPER	1
+AppCurr	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP;Employment Support Allowance, ESA;Attendance Allowance; Industrial Injuries Disablement Benefit;Adult Disability Payment;Child Disability Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;National Insurance Credits;Child Benefit;Pension Credit;Carer's Allowance;Job Seekers Allowance, JSA;Other
+uc_reason_claiming	Joint household claim with their partner
+state_pension_receiving	Yes
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	1990
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+LNGLST	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	No
+WCHJB	Main job
+GOBCK9	The same day
+TYPINJ	Fracture or broken bones
+SITEFR	Fingers or thumbs;Other bones
+ACCURH	Lost consciousness, even if just briefly;Needed resuscitation
+ACCKIND	Physically assaulted by a person
+ILLWRK1	No
+CIGEVER	No
+HH_refday	John BP183 HH159 Smith;Two BP188 HH159 Person;Three BP192 HH159 Person
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person
