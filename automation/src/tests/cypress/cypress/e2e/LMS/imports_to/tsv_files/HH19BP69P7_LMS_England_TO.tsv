@@ -1,0 +1,238 @@
+AddChk1	Yes
+Household_Intro	
+aboutyou	John IP0;;HH19 Smith 
+DOB	1;1;1947
+sex	Male
+addresschk	Yes
+hholdchk	Yes
+Person	2
+addppl	Nan IP36;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Husband or wife
+hholdchk	Yes
+Person	3
+addppl	Nan IP43;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Legally registered civil partner
+hholdchk	Yes
+Person	4
+addppl	Grandad IP44;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Partner
+hholdchk	Yes
+Person	5
+addppl	Grandad BP48;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Father or mother
+hholdchk	Yes
+Person	6
+addppl	Parent BP66;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Stepfather or stepmother
+hholdchk	Yes
+Person	7
+addppl	Son BP69;;HH19 Smith
+DOB	11;10;1970
+Sex	Male
+rel to p1	Father-in-law or mother-in-law
+hholdchk	Yes
+Person	8
+addppl	Son BP70;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Son or daughter
+hholdchk	Yes
+Person	9
+addppl	Daughter BP71;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Stepson or stepdaughter
+hholdchk	Yes
+Person	10
+addppl	Daughter BP74;;HH19 Smith
+DOB	1;1;1997
+Sex	Male
+rel to p1	Son-in-law or daughter-in-law
+LastPerMessage	
+StudentChk	Someone else not listed above
+relexpage	
+relationships	2;3;Husband or wife
+relationships	2;4;Legally registered civil partner
+relationships	2;5;Partner
+relationships	2;6;Father or mother
+relationships	2;7;Stepfather or stepmother
+relationships	2;8;Father-in-law or mother-in-law
+relationships	2;9;Son or daughter
+relationships	2;10;Stepson or stepdaughter
+relationships	3;4;Son-in-law or daughter-in-law
+relationships	3;5;Other non-relative
+relationships	3;6;Father or mother
+relationships	3;7;Other non-relative
+relationships	3;8;Other non-relative
+relationships	3;9;Other non-relative
+relationships	3;10;Other non-relative
+relationships	4;5;Other non-relative
+relationships	4;6;Other non-relative
+relationships	4;7;Other non-relative
+relationships	4;8;Other non-relative
+relationships	4;9;Other non-relative
+relationships	4;10;Other non-relative
+relationships	5;6;Other non-relative
+relationships	5;7;Other non-relative
+relationships	5;8;Other non-relative
+relationships	5;9;Other non-relative
+relationships	5;10;Other non-relative
+relationships	6;7;Father or mother
+relationships	6;8;Father or mother
+relationships	6;9;Father or mother
+relationships	6;10;Father or mother
+relationships	7;8;Brother or sister
+relationships	7;9;Brother or sister
+relationships	7;10;Brother or sister
+relationships	8;9;Brother or sister
+relationships	8;10;Brother or sister
+relationships	9;10;Other non-relative
+ShareCooking	Yes
+ShareLiv	No
+hrp	Someone else not listed above
+TEN1SomeoneElse	Live here rent-free
+TIED	No
+AltAddressChk	Son BP69 HH19 Smith
+Person	7
+OTHADDTYPE	A holiday home
+TIMEAWAY_TO	No
+Person	7
+Indivintropage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+XMARSTA	widowed,
+Nationality	Indian
+CRY12_en	India
+cameyr	-100m
+CONTUK	Yes
+WHYUK10	For study
+NATID_en	British
+Ethnicity_en	Other
+other	Any other background
+OTHER_Oth	Chinese English
+religion	No religion
+Current_passports	None
+Expired_passports	None
+Employment_Intro	
+paidjob	Yes
+SECJOB	Yes
+Stat1	An employee;Part-time
+stat2	An employee;Full-time
+Yptjob18	Studying
+Paid_wage_employee_21	Son BP69 HH19 Smith's employment agency or umbrella company
+NITAX21	deals with their own tax or National Insurance
+ECAUTH21	sets the prices themselves, or,
+DEPCONT21	find their work themselves
+OPAUTH21	Yes, someone has to approve it
+INCORP21	No, Son BP69 HH19 Smith does not have a limited company
+supervisory_duties_main_2job	No
+managerial_duties_main_2job	Yes, they are a manager
+number_employees_workplace_main_2job	11-19
+EMPLOYEES21	Yes
+Paid_wage_employee_22	Son BP69 HH19 Smith's employer through PAYE
+NITAX22	tax or National Insurance is taken from their pay before they are paid
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	No, they have no managerial duties
+number_employees_workplace_second_2job	25-49
+HOME	In a different location from their home
+work_location_second_job	In a different location from their home
+HOMEEV	Yes
+main_job_work_pattern_type	Term-time working
+usual_work_pattern_time_periods_main_job	6pm to 11pm
+night_work_ever_main_job	No
+evening_work_frequency_main_job	Half or more of the total time worked in these hours
+day_work_ever_main_job	Yes
+WHCDAYS18	Tuesday;Thursday
+OUTWRK	Yes
+HOMEREF	Yes
+EVEROT_INT1	No
+USHR1	30;26
+ACTHR1	30;26
+USHR2	10;15
+ACTHR2	10;15
+check_total_usual_work_main_2job	Yes
+TOTAC2	Yes
+check_total_usual_work_second_2job	Yes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Log
+SOC2020PT2	Logging
+sic2007_employed_main_job	Logging
+SECTOR	A private firm, business or limited company
+SOC2020_2_PT1	Joinery installer
+SOC2020_2_PT2	Involved in Joinery installation
+sic2007_employed_second_job	Joinery installation
+CONMON1	-8m
+CONMPY	-8m
+OWNBUS18	No
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+WKPL99	Cardiff
+workplace_location_second_job	Newport
+REDANY	Yes
+reason_made_redundant	Another reason?
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Teacher
+soc2020_job_description_redundant_job	Teaching
+sic2007_industry_employed_redundant_job	Education
+ACTWKDY	Monday;Tuesday;Wednesday;Friday;Sunday
+ILLWK	No
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	Yes
+work_related_education_4weeks	Yes
+Country_Qual	Any from England, Northern Ireland or Wales?;Any from Scotland?
+EWNISCOT_School	Highers
+EWNISCOT_College	Diploma in Higher Education
+EWNISCOT_Additional	Basic Skills Qualification;Key, Core, Essential or Functional Skills Qualification
+EWNISCOT_HE	Undergraduate or Bachelor's Degree gained anywhere in the UK, or MA gained in Scotland?;Master’s Degree
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Level 3
+Qual_Check_EWNISCOT	Highers;Diploma in Higher Education;Basic Skills Qualification, these were discontinued in 2014;Key, Core, Essential or Functional Skills Qualification;Undergraduate or Bachelor’s Degree;Master’s Degree;Other Formal Diploma, Level 3;Add a qualification gained in the UK
+Add_Qual_EWNISCOT	School leavers, college or training qualification
+Add_College_EWNISCOT	HNC or SHNC
+EWNISCOT_Skills	Key
+EWNISCOT_KeySkills	Level 2
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Child Benefit
+previously_served_armed_forces	No
+QHEALTH1	Fair
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these?
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Diabetes
+current_neurodivergent_conditions	None of these?
+current_conditions_other	None of these?
+current_mental_health_condition	No
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+work_illness_time_off_length	At least one month
+work_illness_time_off_length_months	7
+HH_refday	Son BP69 HH19 Smith
+HH_refday1	No
+AddrHist_Intro	
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	I would now like to ask some questions about each perso
