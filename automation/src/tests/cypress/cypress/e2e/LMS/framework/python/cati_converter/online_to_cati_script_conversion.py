@@ -176,7 +176,7 @@ def convert_online_spreadsheets_to_cati(repo_name='ctf-lms-code-ts6', input_path
 
 
             #Find and convert OWNBUS18
-            ownbus_locations = func.find_command(sheet, "work_unpaid")
+            ownbus_locations = func.find_command(sheet, "OWNBUS18")
             # print("ownbus_locations {}".format(ownbus_locations))
             #start off with getting one person to work
             if ownbus_locations != "":
@@ -185,7 +185,7 @@ def convert_online_spreadsheets_to_cati(repo_name='ctf-lms-code-ts6', input_path
                 #change the value to the TO equivalent
                 for ownbus_position in ownbus_individual_location:
 
-                    func.change_command(sheet, ownbus_position, "work_unpaid", "work_unpaid_Int1")
+                    func.change_command(sheet, ownbus_position, "OWNBUS18", "OWNBUS18_Int1")
                     #get the answer
                     ownbus_answer = func.get_answer(sheet, ownbus_position)
                     if "YES" in ownbus_answer.upper():
@@ -193,7 +193,7 @@ def convert_online_spreadsheets_to_cati(repo_name='ctf-lms-code-ts6', input_path
                         func.set_answer(sheet, ownbus_position, "Yes")
                         #add a row after
                         int2_answer = ownbus_answer.replace("Yes, for ", "")
-                        sheet = func.add_row(sheet, int(ownbus_position) + 1, "work_unpaid_Int2", int2_answer )
+                        sheet = func.add_row(sheet, int(ownbus_position) + 1, "OWNBUS18_Int2", int2_answer )
 
                         book.save(output_path + '/' + output_file_name)
                 book.save(output_path + '/' + output_file_name)
