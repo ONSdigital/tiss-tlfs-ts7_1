@@ -247,7 +247,6 @@ Add_School_EWNISCOT	O Grades (Ordinary	O Grades, also known as Ordinary Grades?
 reason_made_redundant	Employer was closing down	Closing down
 reason_made_redundant	Employer was cutting back on staff	Cutting back on staff, or
 reason_made_redundant	Some other reason	Another reason?
-previously_served_armed_forces	No	Or, no
 current_neurodivergent_conditions	None of these	None of these?
 current_neurodivergent_conditions	Learning disabilities, for example prenatal and postnatal	Learning disabilities for example prenatal and postnatal?
 current_neurodivergent_conditions	Learning difficulties, for example dyslexia and dyspraxia	Learning difficulties for example dyslexia and dyspraxia?
@@ -268,10 +267,10 @@ managerial_duties_second_2job	No, I have no managerial duties	None
 skills_match_main_job	My present skills correspond well with my duties	Your present skills correspond well with your duties, or
 skills_match_main_job	I have the skills to cope with more demanding duties	You have the skills to cope with more demanding duties?
 skills_match_main_job	I lack some skills required in my current duties	Lack some skills required in your current duties,
-sickness_disability_benefits_claiming	None of these	Or, none of these?
 oth_benefits_claiming	None of these	Or, none of these?
 th_benefits_claiming	Job Seekers Allowance, JSA	Job Seekers Allowance, also known as JSA?
 uc_reason_claiming	Other reason	Or, any other reason?
 CheckText	We would now like to ask some questions about each person	I would now like to ask some questions about each person
 current_mental_health_conditions	No	Or, no?
+past_mental_health_conditions	No	Or, no?
 CAMEYR	I was born in the UK	They were born in the UK
