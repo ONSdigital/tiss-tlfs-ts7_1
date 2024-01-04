@@ -45,7 +45,7 @@ function daybatch(dbsurvey, dbcountry, environment){
     //Now change the specification to correct Country and Survey - Skip if already the same
         cy.get('.nav.active > :nth-child(10) > a').click();
         cy.get('.nav.active > :nth-child(10) > a').click();
-        cy.get('#InstrumentId').select('LMS2309_TS7');// Change this for different package names
+        cy.get('#InstrumentId').select('LMS2311_TS7');// Change this for different package names
         cy.get(':nth-child(7) > .panel-heading > .panel-title > .accordion-toggle').click();
         cy.get('#btnEditSelectFields').click();
         cy.get('.form-horizontal > :nth-child(11) > :nth-child(2) > :nth-child(2)').click();
@@ -78,7 +78,7 @@ function daybatch(dbsurvey, dbcountry, environment){
     //and onwards
     cy.get('.nav.active > :nth-child(2) > a').click();
     cy.get('[style="margin-top:20px;"] > .col-md-12 > #btnCreateDaybatch').click();
-    cy.get('#InstrumentId').select('LMS2309_TS7');//Change this for the daybatch setup on a different package
+    cy.get('#InstrumentId').select('LMS2311_TS7');//Change this for the daybatch setup on a different package
     cy.get('#DaybatchDay_SelectedSurveyDay').select(daybatch_date);
     cy.get('.modal-footer > .btn-primary').click();
     cy.get('.modal-footer > .btn-default').click();
@@ -157,7 +157,7 @@ function daybatch(dbsurvey, dbcountry, environment){
             const user = username[0].split(",");
             cy.log(username[0])
 
-    cy.visit('https://' + environment + '/lms2309_ts7/?layoutset=CATI-Interviewer_Large'); //Change here for a change in package
+    cy.visit('https://' + environment + '/lms2311_ts7/?layoutset=CATI-Interviewer_Large'); //Change here for a change in package
 
     cy.contains('.login-description', 'Login Required');
     cy.get('.login-username > .ng-untouched').clear();
@@ -172,7 +172,7 @@ function daybatch(dbsurvey, dbcountry, environment){
         if ($body.text().includes('No suitable case found')) {
           cy.log('There are no cases, going to re-run the daybatch if that fails then LOOP!');
           daybatch(dbsurvey, dbcountry);
-          cy.visit('https://' + environment + '/lms2309_ts7/?layoutset=CATI-Interviewer_Large');
+          cy.visit('https://' + environment + '/lms2311_ts7/?layoutset=CATI-Interviewer_Large');
 
           cy.contains('.login-description', 'Login Required');
           cy.get('.login-username > .ng-untouched').clear();

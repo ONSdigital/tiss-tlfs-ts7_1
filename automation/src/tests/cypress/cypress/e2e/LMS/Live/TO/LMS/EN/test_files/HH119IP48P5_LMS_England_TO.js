@@ -33,7 +33,7 @@ describe(parts[1] + ' Online Survey ' + parts[0] + ' - ' + parts[2] + ' - Framew
         country = "sco"
       }
 
-      daybatch.init_daybatch(dbsurvey, dbcountry, cypress.env('to_url'));
+      daybatch.init_daybatch(dbsurvey, dbcountry, Cypress.env('to_url'));
       //If there are records then we will carry on... else it will error... needs better error handling here
 
       framework("cypress/" + rel_path + "tsv_files/" + new_file, country, survey, false, "Yes");
