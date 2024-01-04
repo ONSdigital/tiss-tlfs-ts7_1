@@ -1,0 +1,20 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+Comment	CAMEYR > 2 years from ref date
+CAMEYR	2020
+CONTUK	No
+Comment	CAMEYR2 & CAMEMT <= 12 months from ref date
+CAMEYR2	-4m
+CAMEMT	-4m
+QSTAY	Less than 6 months
+NATID	Northern Irish;British
+ETHNICITY	Asian, Asian Scottish or Asian British
+ASIAN_SC	Chinese, Chinese Scottish or Chinese British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom
+Expired_passports	None
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

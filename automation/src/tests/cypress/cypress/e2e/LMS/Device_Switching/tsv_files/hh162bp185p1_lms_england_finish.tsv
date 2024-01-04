@@ -1,0 +1,31 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	2
+UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
+SETPROXY	Yes
+REDANY	No
+ACTWKDY	They were not scheduled to work
+EMPSICK4	No
+AppCurr	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Carer's Allowance;Job Seekers Allowance, JSA
+uc_reason_claiming	Not working because they were sick, injured or disabled
+previously_served_armed_forces	No
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	No
+HH_refday	John BP185 HH162 Smith;Two BP191 HH162 Person
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

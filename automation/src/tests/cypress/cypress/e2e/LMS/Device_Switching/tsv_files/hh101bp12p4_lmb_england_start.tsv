@@ -1,0 +1,85 @@
+AboutYou	John Ineligible;;HH101 Smith
+DOB	1;1;1997
+Sex	Male
+AddressChk	No
+IneligibleType	Other
+IneligibleOther	Something else
+HholdChkAlt	Yes
+Person	2
+AddPpl	Two BP11;;HH101 Smith
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Three BP0;;HH101 Smith
+DOB	5;7;1935
+Sex	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	4
+AddPpl	Four BP12;;HH101 Smith
+DOB	;;;
+Age	30
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	No
+Person	5
+AddPpl	Five IP22;;HH101 Smith
+DOB	;;;
+Age	45
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	;
+RelExPage	Save and continue
+Comment	Skip all relationships
+Relationships	2;3;
+Relationships	2;4;
+Relationships	2;5;
+Relationships	3;4;
+Relationships	3;5;
+Relationships	4;5;
+ShareCooking	Yes
+ShareLiv	Yes
+HRP	Five IP22 HH101 Smith;Three BP0 HH101 Smith;Two BP11 HH101 Smith;Someone else not listed above
+TEN1	Pay rent to the council, housing association, or charitable trust
+TIED	No
+Comment	End Of HouseHold Section
+Comment	Start BP12 (Person 3)
+Person	4
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Australian
+CRY12	Other
+CRY12_other	Australia
+Comment	CAMEYR > 2 years ago
+CAMEYR	-36m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Northern Irish
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_Oth	Black Australian
+RELIGION	Other religion
+RELIGION_Oth	Jedi
+Current_passports	Other
+Multi_current_passport	Bahamas
+Current_passport_check	No
+Expired_passports	United Kingdom
+PAIDJOB	Yes
+SECJOB	No
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Four BP12 HH101 Smith's accountant deals with their tax or National Insurance
+ECAUTH20	Four BP12 HH101 Smith sets the price based on the market rate
+DEPCONT20	Someone else finds Four BP12 HH101 Smith's work, such as an agency
+OPAUTH20	Yes, someone has to approve it

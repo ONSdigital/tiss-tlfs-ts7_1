@@ -1,66 +1,8 @@
-Person	2
+Person	1
 UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	2
 UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
-ShareCooking	No
-ShareLiv	Yes
-HRP	John IP185 HH62 Smith;Two IP191 HH62 Person
-TEN1	Own it outright
-Person	1
-IndivIntroPage	
-SETPROXY	No
-ProxyCheck	John IP185 HH62 Smith
-AltAdd	No
-DOB	10;10;1987
-XMARSTA	Separated but still legally married
-Nationality	British;Polish
-CRY12	Poland
-CAMEYR	I was born in the UK
-CRY12EUK	England
-NATID	English
-Ethnicity	White
-WHITE	English, Welsh, Scottish, Northern Irish or British
-RELIGION	No religion
-Current_Passports	United Kingdom
-Expired_Passports	United Kingdom
-Sexual_Orientation	Other
-Sexual_Orientation_Oth	Asexual
-PAIDJOB	No
-Own_Run_Business_Check	Yes
-STAT	Self-employed;Part-time
-Yptjob18	Caring responsibilities for adults
-Paid_wage_self_employed_20	My own limited company through PAYE
-NITAX20	My tax or National Insurance is taken from my pay before I am paid
-INCORP20	Yes, I have a limited company
-PARTNER20	Yes, I have a business partner or partners
-number_employees_self_employed_1job	50-249
-EMPLOYEES20	Yes
-HOME	In a different location from my home
-HOMEEV	Yes
-BROADBANDA	Yes
-BROADBANDB	Yes
-WHCDAYS18	
-EVEROT	I work unpaid overtime
-usual_unpaid_overtime_1job_hours	20;0
-UPOT	0;0
-USHR	40;22
-ACTHR	26;0
-check_total_usual_work_1job	Yes
-TOTAC1	Yes
-YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
-SOC2020PT1	Primary School Teacher
-SOC2020PT2	Teach Kids
-SIC2020SEMP	Primary education
-Comment	CONSEY/CONMON2 < 4 months
-CONMON2	-2m
-CONSEY	-2m
-work_unpaid	No
-self_union_membership	No
-looking_for_different_paid_job	Yes
-looking_for_paid_job_type	For a new job or business to replace your current main job or business
-looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Change of job sector
-looking_for_new_main_job_preferred_hours	The same
 WKPL99	Winchester
 REDPAID	Yes
 REDYL18	Resigned
@@ -68,7 +10,8 @@ REDANY	No
 ACTWKDY	I was not scheduled to work
 EMPSICK4	No
 AppCurr	No
-Enrol	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	No qualifications have been gained in the past
@@ -76,6 +19,7 @@ sickness_disability_benefits_claiming	None of these
 oth_benefits_claiming	Universal Credit;Carer's Allowance;Job Seekers Allowance, JSA
 uc_reason_claiming	Not working because you were sick, injured or disabled
 previously_served_armed_forces	No
+QHEALTH1	Very bad
 LNGLST	Yes
 health_condition_illness_12months	No
 past_long_lasting_health_condition_intro	

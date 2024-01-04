@@ -1,0 +1,16 @@
+AboutYou	Tinky Winky BP171;;HH146 Teletubbie
+DOB	1;1;2000
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dipsy BP169;;HH146 Teletubbie
+DOB	1;1;2000
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Lala IP148;;HH146 Teletubbie
+DOB	;;;
+Age	66
+Sex	Female

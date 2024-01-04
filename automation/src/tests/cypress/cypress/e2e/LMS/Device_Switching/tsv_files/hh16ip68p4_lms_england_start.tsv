@@ -1,0 +1,65 @@
+AboutYou	Jane IP0;;HH16 Smith
+DOB	1;1;1945
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP34;;HH16 Person
+DOB	12;12;1980
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three IP65;;HH16 Person
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Stepsister or stepbrother
+HholdChk	Yes
+Person	4
+AddPPl	Four IP68;;HH16 Person
+DOB	23;08;1958
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	5
+AddPpl	Five BP73;;HH16 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Stepson or stepdaughter
+HholdChk	Yes
+Person	6
+AddPpl	Six BP78;;HH16 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son or daughter
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP81;;HH16 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son-in-law or daughter-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP85;;HH16 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Grandson or granddaughter
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4;
+Relationships	2;5;Son or daughter
+Relationships	2;6;Stepson or stepdaughter
+Relationships	2;7;Son-in-law or daughter-in-law
+Relationships	2;8;Grandson or granddaughter
+Relationships	3;4;Stepmother or stepfather
+Relationships	3;5;Other relative
+Relationships	3;6;Other relative
+Relationships	3;7;Other relative
+Relationships	3;8;Other relative
+Relationships	4;5;Grandfather or grandmother
+Relationships	4;6;Grandfather or grandmother
+Relationships	4;7;Other non-relative
+Relationships	4;8;Other relative

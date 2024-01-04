@@ -1,0 +1,208 @@
+AboutYou	Jane BP0;;HH116 Smith
+DOB	1;1;1945
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP34;;HH116 Person
+DOB	12;12;1980
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three BP65;;HH116 Person
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Stepsister or stepbrother
+HholdChk	Yes
+Person	4
+AddPPl	Four BP68;;HH116 Person
+DOB	23;08;1958
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	5
+AddPpl	Five IP73;;HH116 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Stepson or stepdaughter
+HholdChk	Yes
+Person	6
+AddPpl	Six IP78;;HH116 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son or daughter
+HholdChk	Yes
+Person	7
+AddPpl	Seven IP81;;HH116 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Son-in-law or daughter-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight IP85;;HH116 Person
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Grandson or granddaughter
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other relative
+Relationships	2;4;
+Relationships	2;5;Son or daughter
+Relationships	2;6;Stepson or stepdaughter
+Relationships	2;7;Son-in-law or daughter-in-law
+Relationships	2;8;Grandson or granddaughter
+Relationships	3;4;Stepmother or stepfather
+Relationships	3;5;Other relative
+Relationships	3;6;Other relative
+Relationships	3;7;Other relative
+Relationships	3;8;Other relative
+Relationships	4;5;Grandfather or grandmother
+Relationships	4;6;Grandfather or grandmother
+Relationships	4;7;Other non-relative
+Relationships	4;8;Other relative
+Relationships	5;6;Stepbrother or stepsister
+Relationships	5;7;Other non-relative
+Relationships	5;8;Other relative
+Relationships	6;7;Husband or wife
+Relationships	6;8;Father or mother
+Relationships	7;8;Father or mother
+ShareCooking	Yes
+ShareLiv	No
+HRP	Jane BP0 HH116 Smith;Two BP34 HH116 Person;Three BP65 HH116 Person;Four BP68 HH116 Person
+TEN1	Don't know
+Person	4
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	Married
+Nationality	Other
+Nationality_Oth	German
+CRY12	Other
+CRY12_Other	Austria
+Comment	CAMEYR > 2 years
+CAMEYR	-48m
+CONTUK	Yes
+WHYUK10	To get married or form a civil partnership in the UK with a non-UK citizen
+NATID	Scottish;English
+Ethnicity	Other
+OTHER	Arab
+RELIGION	Christian
+Current_passports	United Kingdom
+Expired_passports	Other
+Multi_expired_passport	Germany
+Expired_passport_check	Yes
+Multi_expired_passport	France
+Expired_passport_check	Yes
+Multi_expired_passport	Central African Republic
+Last_expired_passport_message	
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	An employee;Part-time
+STAT2	An employee;Full-time
+Yptjob18	Childcare responsibilities
+Paid_wage_employee_21	A company through an app or online platform, such as Deliveroo
+NITAX21	Four BP68 HH116 Person deals with their own tax or National Insurance
+ECAUTH21	Another person or organisation does
+DEPCONT21	Four BP68 HH116 Person finds their work themselves
+OPAUTH21	Yes, someone has to approve it
+supervisory_duties_main_2job	No
+managerial_duties_main_2job	Yes, they are a supervisor
+number_employees_workplace_main_2job	Don't know
+number_employees_workplace_main_2job_dont_know_bands	More than 500
+Paid_wage_employee_22	A company through an app or online platform, such as Deliveroo
+NITAX22	Four BP68 HH116 Person deals with their own tax or National Insurance
+ECAUTH22	Another person or organisation does
+DEPCONT22	Four BP68 HH116 Person gets their work through an app, such as Uber
+OPAUTH22	No, Four BP68 HH116 Person can usually take non-working days without permission
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	Yes, they are a manager
+number_employees_workplace_second_2job	11-19
+HOME	From home
+work_location_second_job	From home
+main_job_work_pattern_type	Flexible working hours;Term-time working;Condensed or compressed hours
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	No
+evening_work_ever_main_job	No
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	No
+EVEROT	Four BP68 HH116 Person works paid overtime
+usual_paid_overtime_main_2job_hours	10;0
+POT1	10;11
+usual_paid_overtime_second_2job_hours	3;57
+POT2	3;57
+USHR1	37;6
+ACTHR1	50;56
+USHR2	8;12
+ACTHR2	14;35
+Comment	TOTAL should be 47 Hours 6 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	TOTAL should be 61 Hours 7 Minutes
+TOTAC2	Yes
+Comment	TOTAL should be 12 Hours 9 Minutes
+check_total_usual_work_second_2job	Yes
+Comment	TOTAL should be 18 Hours 32 Minutes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Mechanic
+SOC2020PT2	Fix tyres
+sic2007_employed_main_job	tyre retreading
+SECTOR	Some other kind of organisation
+SECTOR03	Central government or civil service
+SOC2020_2_PT1	Floor and wall covering manager
+SOC2020_2_PT2	Manage staff
+sic2007_employed_second_job	Floor and wall covering
+Comment	CONMON/CONMPY > 4 months
+CONMON1	-10m
+CONMPY	-10m
+OWNBUS18	No
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	No
+WKPL99	Brighton
+workplace_location_second_job	Brighton
+REDANY	No
+ACTWKDY	Tuesday;Thursday;Saturday;Sunday
+ILLWK	No
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	EPQ;Welsh or International Baccalaureate;Access to Higher Education Diploma
+EWNI_College	OND;NVQ
+EWNI_Additional	Youth Training Scheme Certificate
+EWNI_Prof	Chartered Qualification
+EWNI_Uni	Doctorate
+Safety_Net_Q	Formal Certificate Qualification
+Safety_Net_Level_Certs	Level 3
+Qual_Check	EPQ;Welsh or International Baccalaureate;Access to Higher Education Diploma;OND;NVQ;Youth Training Scheme Certificate;Chartered Qualification;Doctorate;Other Formal Certificate, Level 3;I need to add another qualification gained in England, Northern Ireland or Wales;I need to add a qualification gained outside of the UK
+Add_Qual	Their qualification does not fit into any of these
+Add_Other_Qual	Some other qual
+Add_Qual_NonUK	School qualifications
+Add_NonUK_School	High school diploma
+Add_Dip_Age	17 years old or above
+Bacc_Type	Welsh Baccalaureate
+Welsh_Bacc	Foundation, level 1
+NVQ_Year	Both
+NVQ_pre2015	Level 4
+NVQ_af2015	Level 2
+Chart_type	They have a chartered qualification
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
+uc_reason_claiming	Joint household claim with their partner
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	1999
+QHEALTH1	Good
+LNGLST	Yes

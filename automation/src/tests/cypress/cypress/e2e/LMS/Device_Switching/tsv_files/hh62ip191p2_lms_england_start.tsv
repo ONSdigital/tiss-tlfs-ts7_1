@@ -1,9 +1,12 @@
 AboutYou	John IP185;;HH62 Smith
+DOB	1;1;1997
 SEX	Male
 AddressChk	Yes
 HholdChk	Yes
 Person	2
 AddPpl	Two IP191;;HH62 Person
+DOB	
+Age	71
 SEX	Female
 Rel to P1	Partner
 HholdChk	No
@@ -18,8 +21,6 @@ IndivIntroPage
 SETPROXY	No
 ProxyCheck	Two IP191 HH62 Person
 AltAdd	No
-DOB	
-Age	72
 XMARSTA	Don't know
 Nationality	British;Indian
 CRY12	Pakistan
@@ -27,12 +28,16 @@ CAMEYR	I was born in the UK
 CRY12EUK	Scotland
 NATID	English
 Ethnicity	White
-WHITE	English, Welsh, Scottish, Northern Irish or British
+WHITE_en	English, Welsh, Scottish, Northern Irish or British
 RELIGION	No religion
 Current_Passports	United Kingdom
 Expired_Passports	United Kingdom
 Sexual_Orientation	Other
 Sexual_Orientation_Oth	Asexual
+SATIS	8
+WORTH	8
+HAPPY	8
+ANXIOUS	8
 PAIDJOB	No
 Own_Run_Business_Check	Yes
 STAT	An employee;Part-time
@@ -47,8 +52,6 @@ managerial_duties_1job	No, I have no managerial duties
 number_employees_workplace_1job	20-24
 HOME	In the same grounds or building as my home
 HOMEEV	No
-BROADBANDA	No
-BROADBANDB	No
 main_job_work_pattern_type	Flexible working hours;Term-time working
 usual_work_pattern_time_periods_main_job	6am to 6pm;6pm to 11pm;11pm to 6am
 night_work_frequency_main_job	Half or more of the total time worked in these hours
@@ -59,7 +62,53 @@ USHR	37;53
 check_total_usual_work_1job	Yes
 YLESS.EMP	Parental leave
 FIFSAL18	Yes
-SOC2020PT1	Primary School Teacher
-SOC2020PT2	Teach Kids
-SIC2020EMP	Primary education
+SOC2020PT1	Manufacturer flags
+SOC2020PT2	Manufacturer flags
+sic2007_employed_main_job	Manufactures  flags
 SECTOR	Some other kind of organisation
+SECTOR03	A university or other grant funded establishment (including opted-out schools)
+Comment	CONSEY/CONMON2 < 4 months
+CONMON1	-2m
+CONMPY	-2m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Disagree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Strongly disagree
+satisfaction_main_job	Satisfied
+manager_support_main_job	Agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	One to two times
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	No
+workplace_union_membership	Yes
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Other reasons
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	21;21
+longer_hours_offered_start_in_2weeks_main_job	No
+PAYINTRO	
+Grs1A	Weekly
+GrsExp	;
+GrsSkpA	500
+PTHRS	No, this is the pay I receive for my part-time job
+paid_same_as_usual	Yes
+WKPL99	Winchester
+REDPAID	No
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+AppCurr	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Teacher Training
+apprenticeship_sic_2007_industry	Primary education
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	National Insurance Credits
+state_pension_receiving	No

@@ -1,0 +1,107 @@
+Person	3
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+HholdChk	Yes
+Person	4
+AddPpl	Frank;;Iero
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard Way;Frank Iero
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 2 (IP4)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Mikey IP193 Way
+AltAdd	No
+XMARSTA	Never married and never legally registered in a civil partnership
+Nationality	British
+CRY12_wal	Wales
+NATID	Welsh
+Ethnicity	White
+WHITE	Welsh, English, Scottish, Northern Irish or British
+RELIGION	No religion
+Welsh Language	Speak Welsh
+CYMFREQ	Daily
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	prefer not to say
+SATIS	5
+WORTH	5
+HAPPY	5
+ANXIOUS	5
+PAIDJOB	No
+Own_run_business_check	Yes
+STAT	Self-employed;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_self_employed_20	My own limited company through PAYE
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+INCORP20	Yes, I have a limited company
+PARTNER20	Yes, I have a business partner or partners
+number_employees_self_employed_1job	50-249
+EMPLOYEES20	Yes
+HOME	In a different location from my home
+HOMEEV	Yes
+WHCDAYS18	;
+EVEROT	I work unpaid overtime
+usual_unpaid_overtime_1job_hours	20;0
+UPOT	0;0
+USHR	40;22
+ACTHR	26;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020pt1	job
+SoC2020pt2	job
+sic2007_self_employed_main_job	work
+Comment	<4m
+CONMON2	-3m
+CONSEY	-3m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Change of job sector
+looking_for_new_main_job_preferred_hours	The same
+WKPL99	Bath
+REDPAID	Yes
+REDYL18	Resigned
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Carer
+state_pension_receiving	No
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2000
+QHEALTH1	Good
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	No
+HH_refday	Gerard Way;Mikey IP193 Way;Ray Toro;Frank Iero
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

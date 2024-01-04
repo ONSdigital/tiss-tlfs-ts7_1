@@ -1,0 +1,116 @@
+Person	9
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	9
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1']]
+SETPROXY	Yes
+check_total_actual_work_second_2job	Yes
+YLESS.SEMP	On leave
+SOC2020PT1	Kitchen fitter
+SOC2020PT2	Install kitchens
+SIC2007_self_employed_main_job	Manufacture of kitchen furniture
+SOC2020_2_PT1	Piano teacher
+SOC2020_2_PT2	teach piano
+sic2007_self_employed_second_job	Manufacture of musical instruments
+Comment	CONMON2/CONSEY > 4 months
+CONMON2	-10m
+CONSEY	-10m
+ownbus18	No
+self_union_membership	Yes
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Pay unsatisfactory in current job or business
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	20;0
+longer_hours_offered_start_in_2weeks_self_employed	Yes
+WKPL99	Liverpool
+TRVMTH	Car, van, minibus or works van
+TRVDRV	As a passenger
+workplace_location_second_job	Liverpool
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Saxophone teacher
+soc2020_job_description_redundant_job	Teach the saxophone 
+sic2007_industry_employed_redundant_job	Manufacture of musical instruments
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday
+statutory_sick_pay_receiving	No
+ILL1PD	One
+ILNE20	Minor illnesses
+EMPSICK4	Yes
+WKSK4	13
+sickness_continuous_absence_length_under_2_months	More than two months
+sickness_continuous_absence_length_over_2_months	2
+ILNE20M	Minor illnesses
+ILNE12SE	Self-employment
+HWRET12S	Left their job and has stopped working for now
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	Intermediate 1 or 2;O Grades
+Scot_leavers	OND or SND;HNC or SHNC
+Scot_Other	Skills for Work Qualifications at level 3 or higher
+Scot_HigherEd	Nursing Qualification;Early Years Teaching or Professional Status
+Safety_Net_Q	Formal Award Qualification;Formal Certificate Qualification;Formal Diploma Qualification;Other Formal Qualification
+Safety_Net_Level_Awards	Level 2
+Safety_Net_Level_Certs	Level 6
+Safety_Net_Level_Dips	Level 7
+Safety_Net_Level_Other	Level 1
+Qual_Check_Scot	Intermediate 1 or 2;I need to add a qualification gained in England, Northern Ireland or Wales
+Add_Qual	School qualification
+Add_School	Any grade GCSEs, O Levels or CSEs
+Intermediates_Lev	Intermediate 2
+GCSE_Olevs	CSEs grade 1
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
+uc_reason_claiming	Joint household claim with their partner
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2006
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Other family member
+SMOCCT	Nurse
+SMOCCD	Nursing
+SMERESE	Self-employed
+QHEALTH1	Bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Arms or hands
+current_sensory_problems	None of these 
+current_progressive_relapsing_remitting_conditions	Dementia, for example Alzheimer's disease
+current_neurodivergent_conditions	Autism including Asperger's syndrome
+current_conditions_other	Chest or breathing conditions for example asthma or bronchitis 
+current_mental_health_condition	No
+main_health_condition	Dementia, for example Alzheimer's disease
+LIMACT	Yes, a little
+REDACT	Less than 6 months
+past_long_lasting_health_condition_intro	Save & Continue
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Arms or hands   
+past_physical_conditions	Chest or breathing conditions, for example, asthma or bronchitis
+past_mental_health_conditions	Yes
+past_illnesses_reduced_activity	Not at all
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	6
+TYPINJ	Burn or scald
+ACCURH	Suffered from hypothermia or a heat induced illness  
+ACCKIND	Physically assaulted by a person
+ILLWRK1	No
+CIGEVER	No
+HH_refday	John IP0 HH17 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

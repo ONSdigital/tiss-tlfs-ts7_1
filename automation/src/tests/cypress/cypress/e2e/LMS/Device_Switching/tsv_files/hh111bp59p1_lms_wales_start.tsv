@@ -1,0 +1,68 @@
+Aboutyou	John BP59;;HH111 Smith
+dob	5;4;1987
+Sex	Male
+addresschk	Yes
+Hholdchk	Yes
+Person	2
+addppl	Two IP4;Middle;HH111 Smith
+dob	3;12;2000
+sex	Male
+rel to p1	Son or daughter
+Hholdchk	Yes
+Person	3
+addppl	Three IP5;Middle;HH111 Smith
+dob	25;7;1999
+sex	Male
+rel to p1	Son or daughter
+Hholdchk	Yes
+Person	4
+addppl	Four IP8;Middle;HH111 Smith
+dob	;;;
+Age	14
+sex	Male
+rel to p1	Son or daughter
+Hholdchk	No
+hholdchk2	Yes
+StudentChk	Two IP4 Middle HH111 Smith;Three IP5 Middle HH111 Smith
+RelExPage	Save and continue
+Relationships	2;3;Brother or sister
+Relationships	2;4;
+Relationships	3;4;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	John BP59 HH111 Smith;Three IP5 Middle HH111 Smith
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Person	1
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	A surviving member of a legally registered civil partnership 
+Nationality	Other
+Nationality_Oth	German
+CRY12	Other
+cry12_other	Germany
+Comment	CAMEYR  <= 2 years from Ref Date
+CAMEYR	-18m
+CONTUK	Yes
+Comment	CAMEMT  >12 months from Ref Date
+CAMEMT	-15m
+WHYUK10	Another reason
+natid_wal	Welsh;Northern Irish
+Ethnicity_wal	Mixed or multiple ethnic groups
+MIXED	White and Black African
+Religion	Other
+religion_oth	Scientology
+Welsh Language	Understand spoken Welsh;Speak Welsh 
+CYMFREQ	Never
+Current_passports	Other 
+Multi_current_passport	Jordan
+Current_passport_check	No
+Expired_passports	Other 
+Multi_expired_passport	Jordan
+Expired_passport_check	No
+PAIDJOB	No
+own_run_business_check	No
+CasualJob20	No

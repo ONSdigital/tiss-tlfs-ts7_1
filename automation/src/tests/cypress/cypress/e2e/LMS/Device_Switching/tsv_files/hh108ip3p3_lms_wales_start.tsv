@@ -1,25 +1,41 @@
-AboutYou	Daniel BP2;;HH108 Howell
-Sex	Male
+AboutYou	John BP2;;HH108 Smith
+DOB	1;1;1997
+Sex	Female
 AddressChk	No
 IneligibleType	Student accommodation rented through a private landlord
 HHoldChk	Yes
 Person	2
-AddPpl	John BP0;;HH108 Smith
-Sex	Female
+AddPpl	Two BP0;;HH108 Smith
+DOB	Don't know
+age	77
+Sex	Male
 Rel to P1	Other non-relative
 HholdChk	No
 HholdChk2	Yes
 StudentChk	Someone else not listed above
 Person	3
-AddStu	Phil IP3;;HH108 Lester
+AddStu	Three IP3;;HH108 Smith
+DOB	30;1;1987
 Sex	Male
-StuRel	Husband
+StuRel	Partner
 AddStuChk	No
 RelExPage	Save and continue
-Relationships	2;3;Mother or father
+Relationships	2;3;Father or mother
 ShareCooking	Yes
 ShareLiv	No
-HRP	Daniel BP2 HH108 Howell;Someone else not listed above
+HRP	John BP2 HH108 Smith
 TEN1	Own it outright
 Person	3
 IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Three IP3 HH108 Smith
+AltAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	In a legally registered civil partnership
+Nationality	British;Irish;Other
+Nationality_Oth	Spanish
+CRY12	Republic of Ireland
+Comment	CAMEYR <= 2 years
+CAMEYR	-13m
+CONTUK	Yes
+COmment	CAMEMT > 12 months
