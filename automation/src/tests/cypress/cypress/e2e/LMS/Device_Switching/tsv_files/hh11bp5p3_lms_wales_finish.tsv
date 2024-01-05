@@ -1,0 +1,64 @@
+Person	3
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+SETPROXY	Yes
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Retired from paid work
+like_paid_job	Yes
+MargAtch	No
+think_work_in_future	Definitely not
+Comment	LEFTYR18 < 4 months before completetion
+LEFTYR18	-2m;-2m
+OWNBUS18	No
+REDYL18	Left for some other reason
+REDANY	No
+employment_status_previous	Self-employed
+soc2020_job_title_previous_job	Musician
+soc2020_job_description_previous_job	Musician
+sic2007_industry_self_employed_previous_job	Music
+number_employees_self_employed_previous_job	None, Ray BP5 Toro worked on their own or with a partner
+EMPSICK4	Yes
+WKSK4	1
+ILNE12SE	Employment
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+future_work_related_education_3months	No
+Enrol_Check	Yes
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	EPQ
+EWNI_College	OND
+EWNI_Additional	Key, Essential or Functional Skills Qualification
+EWNI_Prof	Early Years Teaching or Professional Status
+EWNI_Uni	Undergraduate or Bachelor’s Degree
+Safety_Net_EWNINonUK	Formal Award Qualification
+Safety_Net_Level_Awards	Entry level
+NonUK_School	Qualifications like GCSEs or O Levels
+NonUK_Deg	Foundation Degree
+Qual_Check	EPQ;OND
+Qual_Check_NonUK	Foundation Degree
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit
+uc_reason_claiming	Joint household claim with their partner
+previously_served_armed_forces	No
+QHEALTH1	Good
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+past_physical_conditions	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions, for example, asthma or bronchitis;Stomach, liver, kidney or digestive conditions;Cancer;Symptomatic HIV;Allergies, for example hayfever;Skin conditions;Severe disfigurements;Problems with hearing;Problems seeing even when wearing glasses or contact lenses;Speech impediment;Other physical conditions
+past_mental_health_conditions	Yes
+past_illnesses_reduced_activity	Yes, a lot
+ACCDNT	Yes
+ILLWRK1	No
+REASOFF92	Yes
+HH_refday	Gerard IP59 Way;Frank BP8 Iero
+HH_refday1	No
+AddrHist_check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

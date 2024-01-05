@@ -1,0 +1,30 @@
+AboutYou	John BP0;;HH129 Smith
+DOB	1;1;1997
+SEX	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HholdChk	Yes
+Person	2
+AddPpl	Two BP32;;HH129 Smith
+DOB	10;01;1970
+SEX	Female
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Three IP92;;HH129 Smith
+DOB	1;1;1982
+SEX	Female
+StuRel	Sister or brother
+AddStuChk	Yes
+Person	4
+AddStu	Four IP93;Student;HH129 Smith
+DOB	8;9;1973
+SEX	Female
+StuRel	Stepsister or stepbrother
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;
+Relationships	2;4;
+Relationships	3;4;Other relative

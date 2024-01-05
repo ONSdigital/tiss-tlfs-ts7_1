@@ -49,9 +49,9 @@ usual_unpaid_overtime_nwrw_1job_hours	5;0
 USHR	40;22
 check_total_usual_work_1job	Yes
 YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
-SOC2020PT1	Primary School Teacher
-SOC2020PT2	Teach Kids
-sic2007_self_employed_main_job	Primary education
+SOC2020PT1	Fruit picker
+SOC2020PT2	Pick lemons
+sic2007_self_employed_main_job	Growing of citrus fruits
 Comment	CONSEY/CONMON2 < 4 months
 CONMON2	-2m
 CONSEY	-2m

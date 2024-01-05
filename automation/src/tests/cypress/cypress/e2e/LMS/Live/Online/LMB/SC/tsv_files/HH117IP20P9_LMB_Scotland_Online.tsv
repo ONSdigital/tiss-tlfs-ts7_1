@@ -208,7 +208,7 @@ Add_School	Any grade GCSEs, O Levels or CSEs
 Intermediates_Lev	Intermediate 2
 GCSE_Olevs	CSEs grade 1
 sickness_disability_benefits_claiming	None of these
-oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Helps people on a low income or who claim benefits;Child Benefit
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
 uc_reason_claiming	Joint household claim with your partner
 previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
 uk_armed_forces_year_left	2006
@@ -230,7 +230,7 @@ current_progressive_relapsing_remitting_conditions	Dementia, for example Alzheim
 current_neurodivergent_conditions	Autism including Asperger's syndrome
 current_conditions_other	Chest or breathing conditions for example asthma or bronchitis 
 current_mental_health_condition	No
-main_health_condition	Dementia, for example, Alzheimer's disease
+main_health_condition	Dementia, for example Alzheimer's disease
 LIMACT	Yes, a little
 REDACT	Less than 6 months
 past_long_lasting_health_condition_intro	Save & Continue

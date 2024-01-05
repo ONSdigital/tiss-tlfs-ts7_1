@@ -1,0 +1,17 @@
+AboutYou	John IP182;;HH58 Smith
+DOB	11;9;1986
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP186;;HH58 Person
+DOB	;
+Age	67
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three IP190;;HH58 Person
+DOB	5;9;1943
+SEX	Female
+Rel to P1	Sister or brother

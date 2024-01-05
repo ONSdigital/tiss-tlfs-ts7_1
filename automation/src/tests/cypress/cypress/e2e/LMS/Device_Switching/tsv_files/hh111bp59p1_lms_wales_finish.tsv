@@ -1,0 +1,59 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	2
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	4
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+SETPROXY	Yes
+LOOK4_18	No
+NOLOWM18	Illness, injury or disability expecting to last for 4 weeks or longer
+like_paid_job	Yes
+MargAtch	No
+think_work_in_future	;
+think_work_in_future	Don't know
+LEFTYR18	-28m;-28m
+OWNBUS18	Yes, for an internship
+REDYL18	Left for some other reason 
+employment_status_previous	An employee
+soc2020_job_title_previous_job	Artist
+soc2020_job_description_previous_job	Painting
+sic2007_industry_employed_previous_job	Art
+supervisory_duties_previous_job	No
+number_employees_workplace_previous_job	500 or more
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+future_work_related_education_3months	Yes
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales
+EWNI_School	Any grade GCSEs, O Levels or CSEs;EPQ;AS Levels, A Levels or T Levels
+EWNI_College	OND;HNC
+EWNI_Additional	Key, Essential or Functional Skills Qualification
+EWNI_Prof	Early Years Teaching or Professional Status
+EWNI_Uni	Undergraduate or Bachelor’s Degree
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Level 3
+Qual_Check	Any grade GCSEs, O Levels or CSEs;AS Levels, A Levels or T Levels;HNC;I need to add a qualification gained in Scotland
+Add_Qual_Scot	Their qualification does not fit into any of these
+Add_Other_Qual	Certificate
+GCSE_Olevs	CSEs grade 2 or below
+Alev_Tlev	AS Levels;A Levels
+sickness_disability_benefits_claiming	Child Disability Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit;Carer's Allowance
+uc_reason_claiming	Not working because of being a lone parent for a child under 5
+previously_served_armed_forces	Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2000
+QHEALTH1	Very bad
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ILLWRK2	No
+HH_refday	John BP59 HH111 Smith;Two IP4 Middle HH111 Smith;Three IP5 Middle HH111 Smith;Four IP8 Middle HH111 Smith
+HH_refday1	Yes
+HH_refday2	6
+HH_refday_AddHold	Martin;Steve;Smith;14;10;1999;Male
+HH_refday_AddHold	Mike;;;;;;No
+HH_refday_AddHoldCheck	Yes
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

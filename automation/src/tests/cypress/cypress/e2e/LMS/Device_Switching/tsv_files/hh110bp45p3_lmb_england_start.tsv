@@ -1,0 +1,98 @@
+AboutYou	John BP0;;HH110 Smith
+DOB	1;1;1940
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP37;;HH110 Person
+DOB	;;;
+Age	45
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three BP45;;HH110 Person
+DOB	;;;
+Age	34
+SEX	Female
+Rel to P1	Legally registered civil partner
+HholdChk	Yes
+Person	4
+AddPpl	Four BP47;;HH110 Person
+DOB	;;;
+Age	38
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	5
+AddPpl	Five BP49;;HH110 Person
+DOB	;;;
+Age	68
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	6
+AddPpl	Six IP50;;HH110 Person
+DOB	;;;
+Age	28
+SEX	Female
+Rel to P1	Stepmother or stepfather
+HholdChk	Yes
+Person	7
+AddPpl	Seven IP51;;HH110 Person
+DOB	;;;
+Age	55
+SEX	Female
+Rel to P1	Mother-in-law or father-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight IP52;;HH110 Person
+DOB	;;;
+age	20
+SEX	Female
+Rel to P1	Daughter or son
+HholdChk	Yes
+Person	9
+AddPpl	Nine IP54;;HH110 Person
+DOB	;;;
+Age	67
+SEX	Female
+Rel to P1	Stepdaughter or stepson
+HholdChk	Yes
+Person	10
+AddPpl	Ten IP104;;HH110 Person
+DOB	;;;
+age	22
+SEX	Female
+Rel to P1	Daughter-in-law or son-in-law
+LastPerMessage	;
+StudentChk	Someone else not listed above
+RelExPage	;
+Relationships	2;3;Wife or husband
+Relationships	2;4;Legally registered civil partner
+Relationships	2;5;Partner
+Relationships	2;6;Mother or father
+Relationships	2;7;Stepmother or stepfather
+Relationships	2;8;Mother-in-law or father-in-law
+Relationships	2;9;Daughter or son
+Relationships	2;10;Stepdaughter or stepson
+Relationships	3;4;Daughter-in-law or son-in-law
+Relationships	3;5;Daughter or son
+Relationships	3;6;Daughter or son
+Relationships	3;7;Daughter or son
+Relationships	3;8;Daughter or son
+Relationships	3;9;Daughter or son
+Relationships	3;10;Daughter or son
+Relationships	4;5;Sister or brother
+Relationships	4;6;Sister or brother
+Relationships	4;7;Sister or brother
+Relationships	4;8;Sister or brother
+Relationships	4;9;Sister or brother
+Relationships	4;10;Sister or brother
+Relationships	5;6;Sister or brother
+Relationships	5;7;Sister or brother
+Relationships	5;8;Sister or brother
+Relationships	5;9;Sister or brother
+Relationships	5;10;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Sister or brother

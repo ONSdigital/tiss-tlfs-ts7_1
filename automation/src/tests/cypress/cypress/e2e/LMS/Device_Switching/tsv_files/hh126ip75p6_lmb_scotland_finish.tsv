@@ -3,67 +3,6 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	2
 UPDATE_MAX_PEOPLE	7
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1']]
-NITAX21	My tax or National Insurance is taken from my pay before I am paid
-TEMPJOB18	Temporary
-Jobtyp18	A job that included training
-WhyTemp18	On training or probation
-CONTRACTMAINJOB20	No
-MINHRS	No
-number_employees_self_employed_main_2job	1-10
-number_employees_self_employed_1_to_10_main_2job	;
-Paid_wage_employee_22	My clients or customers
-NITAX22	My tax or National Insurance is taken from my pay before I am paid
-supervisory_duties_second_2job	Yes
-managerial_duties_second_2job	No, I have no managerial duties
-number_employees_workplace_second_2job	1-10
-number_employees_workplace_1_to_10_second_2job	;
-HOME	In different places using home as a base
-work_location_second_job	In a different location from my home
-HOMEEV	Yes
-BroadbandA	Yes
-BroadbandB	No
-WHCDAYS18	Did not work that week
-EVEROT	I work both paid and unpaid overtime
-usual_unpaid_overtime_nwrw_main_2job_hours	0;0
-usual_unpaid_overtime_nwrw_second_2job_hours	1;19
-usual_paid_overtime_nwrw_main_2job_hours	0;0
-usual_paid_overtime_nwrw_second_2job_hours	5;33
-USHR1	40;48
-USHR2	10;0
-check_total_usual_work_main_2job	Yes
-check_total_usual_work_second_2job	Yes
-YLESS.SEMP	On leave
-SOC2020PT1	Childminder
-SOC2020PT2	Caring for children
-SIC2020SEMP	Childcare
-SOC2020_2_PT1	Firefighter
-SOC2020_2_PT2	Emergency rescue and putting out fires
-SIC2020_2_EMP	Emergency services
-Comment	CONSEY/CONMON2 > 4 months
-CONMON2	-9m
-CONSEY	-9m
-work_unpaid	No
-self_union_membership	No
-looking_for_different_paid_job	No
-longer_hours_at_current_pay_main_job	Yes
-number_of_extra_weekly_hours_preferred	20;10
-want_longer_hours_not_looking_reasons	Would like to work longer hours but in current job or business
-longer_hours_offered_start_in_2weeks_self_employed	Yes
-PAYINTRO	Save and continue
-Grs1B	Weekly
-GrsExp	500
-Paid_same_as_usual	No
-Paid_different_to_usual	More
-WKPL99	Bristol
-TRVMTH	Car, van, minibus or works van
-TRVDRV	As a driver
-workplace_location_second_job	Bristol
-REDANY	Yes
-reason_made_redundant	Some other reason
-soc2020_job_title_check_redundant_job	No
-soc2020_job_title_redundant_job	Lawyer
-soc2020_job_description_redundant_job	Law
-sic2007_industry_employed_redundant_job	Law
 ACTWKDY	Friday;Saturday;Sunday
 ILLWK	Yes
 ILLDAYS	Saturday;Sunday
@@ -80,7 +19,8 @@ ILNE12SE	Self-employment
 HWRET12S	Still on long term sickness absence
 APPCURR	Yes
 apprenticeship_main_job	No
-ENROL	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	Scotland;Outside of the UK
@@ -115,10 +55,6 @@ SMOYArea	I was living outside of the UK
 SMOYCty	It is outside of the UK
 SMHCOMP	Other non-family members
 QHEALTH1	Bad
-SATIS	4
-WORTH	5
-HAPPY	6
-ANXIOUS	9
 LNGLST	Yes
 health_condition_illness_12months	Yes
 LIMITK	No
@@ -135,7 +71,7 @@ past_long_lasting_health_condition	No
 ACCDNT	No
 ILLWRK2	No
 CIGEVER	No
-HH_refday	John BP0 HH126 Smith
+HH_refday	Jane BP0 HH126 Smith
 HH_refday1	No
 AddrHist_Check	Yes
 Individual_OUTRO	

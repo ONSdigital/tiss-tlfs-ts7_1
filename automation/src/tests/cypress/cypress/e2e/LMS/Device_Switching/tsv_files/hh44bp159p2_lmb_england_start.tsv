@@ -1,0 +1,46 @@
+AboutYou	Vanessa IP196;;HH44 Smith
+DOB	;;;
+Age	82
+Sex	Male
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HholdChk	Yes
+Person	2
+AddPpl	Phineas BP159;;HH44 Flynn
+DOB	1;1;2000
+Sex	Male
+Rel to P1	Son or daughter
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+Addstu	Ferb BP166;;HH44 Flynn
+DOB	1;1;1997
+Sex	Male
+StuRel	Stepson or stepdaughter
+AddStuChk	Yes
+Person	4
+Addstu	Candice IP167;;HH44 Flynn
+DOB	1;1;1997
+Sex	Male
+StuRel	Son-in-law or daughter-in-law
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;
+Relationships	2;4;
+Relationships	3;4;Other non-relative
+ShareCooking	No
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Live here rent-free
+TIED	No
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Separated but still legally married
+Nationality	British
+CRY12	Scotland
+NATID	English
+Ethnicity	White

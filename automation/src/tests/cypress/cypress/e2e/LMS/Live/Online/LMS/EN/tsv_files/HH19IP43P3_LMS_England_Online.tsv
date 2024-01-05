@@ -237,7 +237,7 @@ EWNI_School	EPQ;AS Levels, A Levels or T Levels
 EWNI_College	ONC;OND
 EWNI_Additional	Basic Skills Qualification;Key, Essential or Functional Skills Qualification;Entry Level Qualification;Youth Training Scheme Certificate
 EWNI_Prof	Nursing Qualification;Early Years Teaching or Professional Status;Qualified Teacher Status;Chartered Qualification
-EWNI_Uni	Foundation Degree;Undergraduate or Bachelor;Master;Doctorate
+EWNI_Uni	Foundation Degree;Undergraduate or Bachelor’s Degree;Master’s Degree;Doctorate
 Safety_Net_Q	Formal Certificate Qualification;Other Formal Qualification
 Safety_Net_Level_Certs	Level 1
 Safety_Net_Level_Other	Level 3
@@ -268,7 +268,7 @@ current_progressive_relapsing_remitting_conditions	None of these
 current_neurodivergent_conditions	Speech impediment
 current_conditions_other	None of these
 current_mental_health_condition	Yes
-main_health_condition	Mental Health Condition
+main_health_condition	Mental health condition
 LIMACT	Not at all
 past_long_lasting_health_condition_intro	
 past_long_lasting_health_condition	No

@@ -1,0 +1,62 @@
+AboutYou	Princess IP183;;HH59 Peach
+DOB	;;;
+Age	34
+Sex	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mario IP188;;HH59 Mario
+DOB	1;1;1956
+Sex	Male
+Rel to P1	Husband or wife
+HholdChk	Yes
+Person	3
+AddPpl	Luigi IP192;;HH59 Mario
+DOB	;;;
+Age	74
+Sex	Male
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	Princess IP183 HH59 Peach
+TEN1	Own it outright
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Princess IP183 HH59 Peach
+AltAdd	No
+XMARSTA	Married
+Nationality	British
+CRY12	Scotland
+NATID	Scottish
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+Sexual_Orientation	Gay or Lesbian
+SATIS	5
+WORTH	6
+HAPPY	7
+ANXIOUS	8
+PAIDJOB	No
+Own_run_business_check	Yes
+STAT	An employee;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_employee_20	My clients or customers
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Permanent
+CONTRACTMAINJOB20	Yes
+ZHC20	Yes
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, I am a manager
+number_employees_workplace_1job	Don't know
+number_employees_workplace_1job_dont_know_bands	Between 25-49
+HOME	In a different location from my home
+HOMEEV	Yes
+main_job_work_pattern_type	Flexible working hours;Condensed or compressed hours;Working from home

@@ -3,10 +3,31 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	2
 UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
-Comment	More than 4 Months ago
+WHCDAYS18	;
+EVEROT	I am self-employed and this does not apply to me
+USHR1	40;34
+ACTHR1	30;0
+USHR2	10;57
+ACTHR2	10;57
+Comment	Total should be 40 Hours 34 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	Total should be 30 Hours
+TOTAC2	Yes
+Comment	Total should be 10 Hours 57 Minutes
+check_total_usual_work_second_2job	Yes
+Comment	Total should be 10 Hours 57 Minutes
+check_total_actual_work_second_2job	Yes
+YLESS.SEMP	Illness or disability expected to last for 4 weeks or longer
+SOC2020PT1	Forest worker
+SOC2020PT2	Planning activities
+sic2007_self_employed_main_job	forestry activities
+SOC2020_2_PT1	Lodge owner
+SOC2020_2_PT2	Rent out lodges to customers
+sic2007_self_employed_second_job	Other accommodation
+Comment	More than 4 months ago
 CONMON2	-5m
 CONSEY	-5m
-work_unpaid	No
+OWNBUS18	No
 self_union_membership	Yes
 looking_for_different_paid_job	Yes
 looking_for_paid_job_type	For an additional job or business
@@ -27,14 +48,15 @@ statutory_sick_pay_receiving	Yes
 ILL1PD	One
 ILNE20	Other gastrointestinal problems
 EMPSICK4	Yes
-WKSK4	3
+WKSK4	6
 sickness_continuous_absence_length_under_2_months	More than two months
 sickness_continuous_absence_length_over_2_months	11
 ILNE20M	Pregnancy problems
 ILNE12SE	Self-employment
 HWRET12S	Left your job and have stopped working for now
 AppCurr	No
-Enrol	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	No qualifications have been gained in the past
@@ -50,13 +72,9 @@ SMOCCT	Dentist
 SMOCCD	Fix Oral Issues
 SMERESE	Self-employed
 QHEALTH1	Very good
-SATIS	2
-WORTH	2
-HAPPY	2
-ANXIOUS	2
 LNGLST	Yes
 health_condition_illness_12months	No
-past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition_intro	Save and continue
 past_long_lasting_health_condition	No
 ACCDNT	Yes
 ROAD	Yes
@@ -65,10 +83,10 @@ GOBCK9	On the fifth day or longer after the accident
 TIMEDAYS	5
 TYPINJ	Burn or scald
 ACCURH	None of these
-ACCKIND	Near drowning or near asphyxiated
+ACCKIND	Exposed to, or in contact with, a harmful substance
 ILLWRK1	No
 CIGEVER	No
-HH_refday	John BP0 Smith;Dolly IP129 Jones
+HH_refday	John BP0 HH141 Smith;Dolly IP129 HH141 Jones
 HH_refday1	No
 AddrHist_check	Yes
 Individual_OUTRO	

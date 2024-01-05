@@ -1,0 +1,72 @@
+Person	9
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	9
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1']]
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	Intermediate 1 or 2;O Grades
+Scot_leavers	OND or SND;HNC or SHNC
+Scot_Other	Skills for Work Qualifications at level 3 or higher
+Scot_HigherEd	Nursing Qualification;Early Years Teaching or Professional Status
+Safety_Net_Q	Formal Award Qualification;Formal Certificate Qualification;Formal Diploma Qualification;Other Formal Qualification
+Safety_Net_Level_Awards	Level 2
+Safety_Net_Level_Certs	Level 6
+Safety_Net_Level_Dips	Level 7
+Safety_Net_Level_Other	Level 1
+Qual_Check_Scot	Intermediate 1 or 2;I need to add a qualification gained in England, Northern Ireland or Wales
+Add_Qual	School qualification
+Add_School	Any grade GCSEs, O Levels or CSEs
+Intermediates_Lev	Intermediate 2
+GCSE_Olevs	CSEs grade 1
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit
+uc_reason_claiming	Joint household claim with your partner
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2006
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Other family member
+SMOCCT	Nurse
+SMOCCD	Nursing
+SMERESE	Self-employed
+QHEALTH1	Bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Arms or hands
+current_sensory_problems	None of these 
+current_progressive_relapsing_remitting_conditions	Dementia, for example Alzheimer's disease
+current_neurodivergent_conditions	Autism including Asperger's syndrome
+current_conditions_other	Chest or breathing conditions for example asthma or bronchitis 
+current_mental_health_condition	No
+main_health_condition	Dementia, for example Alzheimer's disease
+LIMACT	Yes, a little
+REDACT	Less than 6 months
+past_long_lasting_health_condition_intro	Save & Continue
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Arms or hands   
+past_physical_conditions	Chest or breathing conditions, for example, asthma or bronchitis
+past_mental_health_conditions	Yes
+past_illnesses_reduced_activity	Not at all
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	6
+TYPINJ	Burn or scald
+ACCURH	Suffered from hypothermia or a heat induced illness  
+ACCKIND	Physically assaulted by a person
+ILLWRK1	No
+CIGEVER	No
+HH_refday	John BP0 HH117 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

@@ -1,0 +1,39 @@
+AboutYou	John BP170;;HH45 Smith
+DOB	;;;
+Age	82
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Hannah IP161;;HH45 Montana
+DOB	1;1;2000
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Miley IP160;;HH45 Cyrus
+DOB	1;1;2000
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	4
+AddPpl	Billy-Ray IP147;;HH45 Cyrus
+DOB	1;1;1950
+Sex	Male
+Rel to P1	Father or mother
+HholdChk	Yes
+Person	5
+AddPpl	Jackson IP145;;HH45 Cyrus
+DOB	1;1;2000
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	6
+AddPpl	Lily IP144;;HH45 Truscot
+DOB	1;1;2000
+Sex	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	

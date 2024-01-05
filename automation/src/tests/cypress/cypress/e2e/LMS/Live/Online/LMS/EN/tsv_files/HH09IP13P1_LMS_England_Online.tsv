@@ -17,7 +17,6 @@ ShareLiv	No
 HRP	Jack Watson
 TEN1	Currently pay off a mortgage or loan used to purchase the property
 Comment	End Of HouseHold Section
-Comment	Start Of Person1(IP13)
 Person	1
 IndivIntroPage	
 SETPROXY	No

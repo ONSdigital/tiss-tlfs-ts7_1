@@ -1,0 +1,30 @@
+Person	3
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+SETPROXY	Yes
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Yes
+current_joint_bone_muscle_conditions	Legs or feet
+current_sensory_problems	Problems with hearing
+current_progressive_relapsing_remitting_conditions	Cancer
+current_neurodivergent_conditions	Autism including Asperger's syndrome
+current_conditions_other	Heart, blood pressure or blood circulation conditions
+current_mental_health_condition	Yes
+main_health_condition	Cancer
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
+past_physical_conditions	None of these
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a lot
+HH_refday	John IP2 HH8 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

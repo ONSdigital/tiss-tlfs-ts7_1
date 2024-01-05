@@ -3,9 +3,56 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	4
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_EMP	Other
+WhyCas18_Emp_Oth	Other reason
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+number_employees_self_employed_1job	None, I work on my own or with a partner
+HOME	From home
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	Yes
+EVEROT	I work both paid and unpaid overtime
+usual_unpaid_overtime_1job_hours	2;0
+UPOT	5;36
+usual_paid_overtime_1job_hours	10;0
+POT	10;14
+USHR	40;56
+ACTHR	40;56
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+SOC2020pt1	Beach
+SoC2020pt2	Beach
+sic2007_self_employed_main_job	Beach
+Comment	<4m
+CONMON2	-2m
+CONSEY	-2m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Current job or business may come to an end
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	15;10
+longer_hours_offered_start_in_2weeks_self_employed	No
+WKPL99	Bristol
+REDPAID	No
+REDANY	No
+ACTWKDY	I was not scheduled to work
+EMPSICK4	No
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
 oth_benefits_claiming	None of these
 previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
 uk_armed_forces_year_left	2005
+QHEALTH1	Good
 LNGLST	Yes
 health_condition_illness_12months	Yes
 LIMITK	Yes
