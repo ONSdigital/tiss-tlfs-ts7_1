@@ -179,6 +179,7 @@ ECAUTH21	Another person or organisation does	Another person or organisation sets
 ECAUTH22	I set the prices based on the market rate	You set the prices based on the market rate,
 ECAUTH22	I set the prices myself	You set the prices yourself, or,
 ECAUTH22	They set the prices based on the market rate	They set the prices based on the market rate,
+ECAUTH22	* sets the price based on the market rate	* sets the prices based on the market rate
 ECAUTH22	I set the prices myself	You set the prices yourself, or,
 ECAUTH22	* does	sets the prices themselves, or,
 ECAUTH22	I do	You set the prices yourself, or,
@@ -262,12 +263,17 @@ Sexual_Orientation	Bisexual	Bisexual?
 Sexual_Orientation	prefer not to say	Or, prefer not to say?
 managerial_duties_main_2job	Yes, I am a supervisor	Supervisor/Foreman
 managerial_duties_main_2job	Yes, I am a manager	Manager
+managerial_duties_main_2job	Yes, they are a supervisor	Supervisor/Foreman
+managerial_duties_main_2job	Yes, they are a manager	Manager
+managerial_duties_main_2job	No, I have no managerial duties	None
+managerial_duties_main_2job	No, they have no managerial duties	None
 managerial_duties_second_2job	Yes, I am a supervisor	Supervisor/Foreman
+managerial_duties_second_2job	Yes, I am a manager	Manager
 managerial_duties_second_2job	No, I have no managerial duties	None
+managerial_duties_second_2job	No, they have no managerial duties	None
 skills_match_main_job	My present skills correspond well with my duties	Your present skills correspond well with your duties, or
 skills_match_main_job	I have the skills to cope with more demanding duties	You have the skills to cope with more demanding duties?
 skills_match_main_job	I lack some skills required in my current duties	Lack some skills required in your current duties,
-oth_benefits_claiming	None of these	Or, none of these?
 th_benefits_claiming	Job Seekers Allowance, JSA	Job Seekers Allowance, also known as JSA?
 uc_reason_claiming	Other reason	Or, any other reason?
 CheckText	We would now like to ask some questions about each person	I would now like to ask some questions about each person
