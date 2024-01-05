@@ -12,7 +12,7 @@ colouriser = ['GRSSKP', 'GRSSKP1A', 'GRSSKP1B', 'GRSSKP2', 'GRSSKP2A', 'GRSSKP2B
 
 from openpyxl.styles import PatternFill
 
-def convert_online_spreadsheets_to_cati(repo_name='ctf-lms-code-ts6', input_path='/app/data/LMS_Spreadsheets',
+def convert_online_spreadsheets_to_cati(repo_name='', input_path='/app/data/LMS_Spreadsheets',
                                         output_path = "/app/data/LMS_Spreadsheets_completed"):
     new_path = pathlib.Path().resolve()
     new_path = str(new_path)
