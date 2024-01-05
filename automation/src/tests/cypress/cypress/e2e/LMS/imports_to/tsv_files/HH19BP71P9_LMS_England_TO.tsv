@@ -135,17 +135,17 @@ ECAUTH21	Another person or organisation sets the price
 DEPCONT21	get their work through an app, such as Uber, or
 OPAUTH21	Yes, someone has to approve it
 supervisory_duties_main_2job	No
-managerial_duties_main_2job	No, they have no managerial duties
+managerial_duties_main_2job	None
 number_employees_workplace_main_2job	250-499
 Paid_wage_employee_22	A company through an app or online platform, such as Deliveroo
 NITAX22	Nine BP71 HH19 Person's accountant deals with their tax or National Insurance
-ECAUTH22	Nine BP71 HH19 Person sets the price based on the market rate
+ECAUTH22	Nine BP71 HH19 Person sets the prices based on the market rate
 DEPCONT22	get their work through an app, such as Uber, or
 OPAUTH22	Yes, someone has to approve it
 INCORP22	Yes, Nine BP71 HH19 Person has a limited company
 PARTNER22	No, Nine BP71 HH19 Person is the sole director
 supervisory_duties_second_2job	Yes
-managerial_duties_second_2job	No, they have no managerial duties
+managerial_duties_second_2job	None
 number_employees_workplace_second_2job	50-249
 EMPLOYEES22	Yes
 HOME	In a different location from their home
@@ -172,7 +172,8 @@ sic2007_employed_second_job	Painting
 Comment	< 4 months
 CONMON1	-2m
 CONMPY	-2m
-OWNBUS18	Yes, for a family owned business
+OWNBUS18_Int1	Yes
+OWNBUS18_Int2	a family owned business
 usual_unpaid_family_worker_hours	10;0
 actual_unpaid_family_worker_hours	24;6
 soc2020_job_title_unpaid_family_worker	Another type of doctor
@@ -227,7 +228,7 @@ Higher_App	Level 4
 EWNISCOT_Skills	Functional
 EWNISCOT_FuncSkills	Level 1
 sickness_disability_benefits_claiming	None of these
-oth_benefits_claiming	Or, none of these?
+oth_benefits_claiming	None of these
 previously_served_armed_forces	No
 QHEALTH1	Very bad
 LNGLST	Yes
@@ -239,15 +240,14 @@ current_sensory_problems	None of these
 current_progressive_relapsing_remitting_conditions	Symptomatic HIV
 current_neurodivergent_conditions	None of these?
 current_conditions_other	None of these?
-current_mental_health_condition	No
+current_mental_health_condition	Or, no?
 LIMACT	Yes, a little
 REDACT	Between 6 months and 12 months
-past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition_intro	
 past_long_lasting_health_condition	No
 ACCDNT	No
 ILLWRK2	Yes
-work_illness_time_off_length	At least one week but less than one month
-work_illness_time_off_length_weeks	3
+work_illness_time_off_length	At least two weeks but less than one month
 HH_refday	John IP0 HH19 Smith
 HH_refday1	No
 AddrHist_Intro	
