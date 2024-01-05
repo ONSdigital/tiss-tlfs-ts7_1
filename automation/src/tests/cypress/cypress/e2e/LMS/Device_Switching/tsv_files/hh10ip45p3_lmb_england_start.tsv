@@ -1,0 +1,44 @@
+AboutYou	John IP0;;HH10 Smith
+DOB	1;1;1940
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP37;;HH10 Person
+DOB	;;;
+Age	45
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes
+Person	3
+AddPpl	Three IP45;;HH10 Person
+DOB	;;;
+Age	34
+SEX	Female
+Rel to P1	Legally registered civil partner
+HholdChk	Yes
+Person	4
+AddPpl	Four IP47;;HH10 Person
+DOB	;;;
+Age	38
+SEX	Female
+Rel to P1	Partner
+HholdChk	Yes
+Person	5
+AddPpl	Five IP49;;HH10 Person
+DOB	;;;
+Age	68
+SEX	Female
+Rel to P1	Mother or father
+HholdChk	Yes
+Person	6
+AddPpl	Six BP50;;HH10 Person
+DOB	;;;
+Age	28
+SEX	Female
+Rel to P1	Stepmother or stepfather
+HholdChk	Yes
+Person	7
+AddPpl	Seven BP51;;HH10 Person
+DOB	;;;
+Age	55

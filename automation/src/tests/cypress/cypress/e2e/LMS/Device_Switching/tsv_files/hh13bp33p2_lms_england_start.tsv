@@ -1,0 +1,16 @@
+AboutYou	John Ineligible;;HH13 Hewitt
+DOB	1;1;1997
+SEX	Male
+AddressChk	No
+IneligibleType	My holiday home
+HholdChkAlt	Yes
+Person	2
+AddPpl	Dolly BP33;;HH13 Jones
+DOB	10;10;1969
+SEX	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	No
+Person	3
+AddPpl	Sally IP35;;HH13 Smith
+DOB	1;1;1956

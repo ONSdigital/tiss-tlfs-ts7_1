@@ -1,16 +1,21 @@
 AboutYou	John IP183;;HH59 Smith
-SEX	Male
+DOB	
+Age	65
+SEX	Female
 AddressChk	Yes
 HholdChk	Yes
 Person	2
 AddPpl	Two IP188;;HH59 Person
-SEX	Female
+DOB	10;10;1956
+SEX	Male
 Rel to P1	Partner
 HholdChk	Yes
 Person	3
 AddPpl	Three IP192;;HH59 Person
-SEX	Female
-Rel to P1	Sister or brother
+DOB	
+Age	70
+SEX	Male
+Rel to P1	Brother or sister
 HholdChk	No
 HholdChk2	Yes
 StudentChk	None of these people live in a student halls of residence
@@ -25,8 +30,6 @@ IndivIntroPage
 SETPROXY	No
 ProxyCheck	Two IP188 HH59 Person
 AltAdd	No
-DOB	
-Age	69
 XMARSTA	Formerly in a civil partnership which is now legally dissolved
 Nationality	British;Other
 Nationality_Oth	French
@@ -40,6 +43,10 @@ RELIGION_SC	No religion
 Current_Passports	None
 Expired_Passports	None
 Sexual_Orientation	Straight or Heterosexual
+SATIS	5
+WORTH	5
+HAPPY	5
+ANXIOUS	5
 PAIDJOB	No
 Own_Run_Business_Check	Yes
 STAT	An employee;Full-time
@@ -49,3 +56,66 @@ TempJob18	Casual
 WhyCas18_Emp	Other
 WhyCas18_Emp_Oth	Enrolled on a part-time course
 CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, I am a manager
+number_employees_workplace_1job	Don't know
+number_employees_workplace_1job_dont_know_bands	Between 50-499
+HOME	From home
+main_job_work_pattern_type	Working from home
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	No
+evening_work_ever_main_job	Yes
+evening_work_frequency_main_job	Half or more of the total time worked in these hours
+WHCDAYS18	
+EVEROT	I do not work overtime
+USHR	35;13
+ACTHR	0;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Tents water proofer
+SOC2020PT2	Water proof tents
+sic2007_employed_main_job	Water proofing tents
+SECTOR	Some other kind of organisation
+SECTOR03	A public limited company
+Comment	CONSEY/CONMON2 < 4 months
+CONMON1	-2m
+CONMPY	-2m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Neither disagree nor agree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Agree
+satisfaction_main_job	Neither dissatisfied nor satisfied
+manager_support_main_job	Agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	One to two times
+skills_match_main_job	I lack some skills required in my current duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+PAYINTRO	
+Grs1A	Hourly
+GrsExp	350
+paid_same_as_usual	No
+paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Bank holiday
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	Family or personal reasons
+HTHOTH	Yes
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Primary School Teacher
+soc2020_job_description_redundant_job	Teach Kids
+sic2007_industry_employed_redundant_job	Primary education
+ACTWKDY	Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one

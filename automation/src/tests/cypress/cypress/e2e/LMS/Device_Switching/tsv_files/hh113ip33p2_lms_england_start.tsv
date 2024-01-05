@@ -1,26 +1,31 @@
-AboutYou	P1 Ineligible;;HH13
-SEX	Female
+AboutYou	John Ineligible;;HH113 Hewitt
+DOB	1;1;1997
+SEX	Male
 AddressChk	No
-IneligibleType	My second home
+IneligibleType	My holiday home
 HholdChkAlt	Yes
 Person	2
-AddPpl	Dolly IP33;;Jones
+AddPpl	Dolly IP33;;HH113 Jones
+DOB	10;10;1969
 SEX	Female
 Rel to P1	Sister or brother
-HholdChk	Yes
+HholdChk	No
+HholdChk2	No
 Person	3
-AddPpl	Sally BP35;;Smith
+AddPpl	Sally BP35;;HH113 Smith
+DOB	1;1;1956
 SEX	Female
 Rel to P1	Other relative
 HholdChk	Yes
 Person	4
-AddPpl	Alex BP38;;Hamilton
-SEX	Male
-Rel to P1	Brother or sister
+AddPpl	Alexis BP38;;HH113 Hamilton
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Sister or brother
 HholdChk	No
 HholdChk2	Yes
 Comment	StudentChk is to be skipped
-StudentChk	
+StudentChk	;
 RelExPage	Save and continue
 Comment	 All Relationships skipped
 Relationships	2;3
@@ -28,7 +33,7 @@ Relationships	2;4
 Relationships	3;4
 ShareCooking	Yes
 ShareLiv	Yes
-HRP	Dolly IP33 Jones;Alex BP38 Hamilton
+HRP	Alexis BP38 HH113 Hamilton
 TEN1	Pay rent to the council, housing association, or charitable trust
 TIED	No
 Comment	End of House Hold
@@ -36,18 +41,17 @@ Comment	Start of Person 2 (IP33)
 Person	2
 IndivIntroPage	
 SETPROXY	No
-ProxyCheck	Dolly IP33 Jones
+ProxyCheck	Dolly IP33 HH113 Jones
 AltAdd	Yes
 AltAddType	A family or parental home
 TimeAway	No
-DOB	10;10;1961
 XMARSTA	A surviving member of a legally registered civil partnership
 Nationality	British;Other
 Nationality_Oth	Maltese
 CRY12	Other
-CRY12_Other	India
+CRY12_Other	Kenya
 Comment	CAMEYR > 2 years from ref date
-CAMEYR	2019
+CAMEYR	-36m
 CONTUK	Yes
 WHYUK10	Another reason
 NATID	English;Other
@@ -62,7 +66,11 @@ Multi_expired_passport	Grenada
 Expired_passport_check	Yes
 Multi_expired_passport	Sweden
 Expired_passport_check	No
-Sexual_Orientation	
+Sexual_Orientation	;
+SATIS	6
+WORTH	6
+HAPPY	6
+ANXIOUS	6
 PAIDJOB	Yes
 SECJOB	Yes
 STAT1	An employee;Full-time
@@ -85,8 +93,6 @@ managerial_duties_second_2job	No, I have no managerial duties
 number_employees_workplace_second_2job	20-24
 HOME	From home
 Work_location_second_job	From home
-BROADBANDA	Yes
-BROADBANDB	Yes
 main_job_work_pattern_type	Flexible working hours;Term-time working;Working from home 
 usual_work_pattern_time_periods_main_job	6am to 6pm
 night_work_ever_main_job	Yes
@@ -98,3 +104,85 @@ EVEROT	I do not work overtime
 USHR1	30;52
 ACTHR1	30;52
 USHR2	10;34
+ACTHR2	10;34
+Comment	Total should be 30 Hours 52 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	Total should be 30 Hours 52 Minutes
+TOTAC2	Yes
+Comment	Total should be 10 Hours 34 Minutes
+check_total_usual_work_second_2job	Yes
+Comment	Total should be 10 Hours 34 Minutes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Sheep shearer
+SOC2020PT2	Shearing sheep for wool
+sic2007_employed_main_job	sheep shearing
+SECTOR	A private firm, business or limited company
+SOC2020_2_PT1	Engineer
+SOC2020_2_PT2	Repair machines in different location
+sic2007_employed_second_job	Repair of machinery
+Comment	More than 4 Months ago
+CONMON1	-5m
+CONMPY	-5m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Strongly agree
+employees_decision_involvement_main_job	Very good
+meaningful_main_job	Strongly agree
+satisfaction_main_job	Very satisfied
+manager_support_main_job	Strongly agree
+in_job_bullying_12months	No
+skills_match_main_job	I have the skills to cope with more demanding duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	Yes
+number_of_less_hours_preferred_main_job	5;30
+PAYINTRO	Save and continue
+Grs2	;
+GrsSkp	;
+Band2	Annually
+ANBANDS2	Less than £5,600 a year
+SecGrs	Monthly
+SecGrsExp	1700
+PTHRS2B	Yes, this is the full-time pay for my job
+Paid_same_as_usual	No
+Paid_different_to_usual	Less
+paid_less_than_usual_reason_main_job	Worked less overtime than usual
+WKPL99	London
+Workplace_location_second_job	London
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	No
+soc2020_job_title_redundant_job	Barista
+soc2020_job_description_redundant_job	Made coffee for lawyers
+sic2007_industry_employed_redundant_job	Coffee house in the City
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+DIFPER	2
+sickness_continuous_absence_length_under_2_months	More than two months
+sickness_continuous_absence_length_over_2_months	11
+ILNE12SE	Employment
+AppCurr	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Trainee Architect
+apprenticeship_sic_2007_industry	Building and Construction
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	Any grade GCSEs, O Levels or CSEs
+EWNI_College	ONC
+EWNI_Additional	Basic Skills Qualification
+EWNI_Prof	Qualified Teacher Status
+EWNI_Uni	Foundation Degree
+Safety_Net_EWNINonUK	Formal Diploma Qualification
+Safety_Net_Level_Dips	Entry level
+NonUK_School	Qualifications like GCSEs or O Levels
+NonUK_Deg	Postgraduate Degree
+Qual_Check	Any grade GCSEs, O Levels or CSEs;ONC;Basic Skills Qualification;Qualified Teacher Status;Foundation Degree
+Qual_Check_NonUK	Qualifications like GCSEs or O Levels;Postgraduate Degree

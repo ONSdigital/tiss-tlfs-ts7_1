@@ -1,0 +1,54 @@
+AboutYou	John BP183;;HH159 Smith
+DOB	;;;
+Age	65
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP188;;HH159 Person
+DOB	10;10;1956
+SEX	Male
+Rel to P1	Partner
+HholdChk	Yes
+Person	3
+AddPpl	Three BP192;;HH159 Person
+DOB	;;;
+Age	70
+SEX	Male
+Rel to P1	Brother or sister
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;
+ShareCooking	Yes
+ShareLiv	No
+HRP	John BP183 HH159 Smith
+TEN1	Own it outright
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Formerly in a civil partnership which is now legally dissolved
+Nationality	British;Other
+Nationality_Oth	French
+CRY12	Isle of Man or Channel Islands
+CAMEYR	They were born in the UK
+CRY12SUK	Wales
+NATID	English
+Ethnicity	White
+WHITE	Welsh, English, Northern Irish or British
+RELIGION_SC	No religion
+Current_Passports	None
+Expired_Passports	None
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	An employee;Full-time
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Two BP188 HH159 Person's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Enrolled on a part-time course
+CONTRACTMAINJOB20	Yes
+ZHC20	No

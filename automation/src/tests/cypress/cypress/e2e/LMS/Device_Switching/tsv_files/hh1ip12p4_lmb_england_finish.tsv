@@ -1,0 +1,67 @@
+Person	4
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	2
+UPDATE_MAX_PEOPLE	5
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1']]
+NonUK_School	None of these
+NonUK_Deg	Undergraduate Degree
+Qual_Check_Scot	Standard Grades;ONC or SNC;Key or Core Skills Qualifications;14-19 Diploma
+Qual_Check_NonUK	Undergraduate Degree
+Standards_Lev	Foundation
+DIP_14_19	Foundation
+Scot_Skills	Key
+Key_Skills_Scot	Level 1
+sickness_disability_benefits_claiming	Personal Independence Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit
+uc_reason_claiming	Not working because you were sick, injured or disabled
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Mother
+SMOCCT	Teacher
+SMOCCD	Teaching
+SMERESE	Self-employed
+QHEALTH1	Very good
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	Yes
+main_health_condition	Mental health condition
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	None of these
+past_physical_conditions	None of these
+past_mental_health_conditions	Yes
+past_illnesses_reduced_activity	Yes, a lot
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	5
+TYPINJ	Fracture or broken bones
+SITEFR	Toes;Wrist or ankle
+ACCURH	Lost consciousness, even if just briefly
+ACCKIND	Contact with moving machinery or material being machined
+ILLWRK1	Yes
+NUMILL	4
+TYPILL	A different illness
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	Less than one week
+work_illness_time_off_length_days	4
+WCHJB3	Some other job
+CIGEVER	Yes
+CIGNOW	No
+HH_refday	John Ineligible HH1 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

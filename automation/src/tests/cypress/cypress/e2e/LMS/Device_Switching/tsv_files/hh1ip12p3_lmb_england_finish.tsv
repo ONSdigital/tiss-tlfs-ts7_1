@@ -3,6 +3,85 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	2
 UPDATE_MAX_PEOPLE	5
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1']]
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Current job or business may come to an end
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	11;13
+longer_hours_offered_start_in_2weeks_main_job	Yes
+PAYINTRO	
+Grs1A	Annually
+GrsExp	50000
+Paid_same_as_usual	Yes
+WKPL99	Bath
+TRVTME	15
+TRVMTH	Car, van, minibus or works van
+TRVDRV	Sometimes as a passenger and sometimes as a driver
+REDPAID	Yes
+REDYL18	Dismissed
+HTHDIS	Yes
+REDANY	Yes
+reason_made_redundant	Employer was closing down
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Cooking
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Monday
+statutory_sick_pay_receiving	Yes
+ILL1PD	One
+IL1BEF	Before the first day worked in the week
+ILNE20	Other
+ILLST17	At least two weeks but less than four weeks
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	Twelve months or longer
+ILNE20M	Other
+ILNE12SE	Employment
+HWRET12E	Something else
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Farmer
+apprenticeship_sic_2007_industry	Farming
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	Yes
+work_related_education_4weeks	Yes
+Country_Qual_Intro	
+Country_Qual	Scotland;Outside of the UK
+Scot_School	Standard Grades
+Scot_leavers	ONC or SNC
+Scot_Other	Key or Core Skills Qualifications
+Scot_HigherEd	14-19 Diploma
+Safety_Net_ScotNonUK	Formal Award Qualification
+Safety_Net_Level_Awards	My qualification is not formal and does not have a level
+NonUK_School	None of these
+NonUK_Deg	Undergraduate Degree
+Qual_Check_Scot	Standard Grades;ONC or SNC;Key or Core Skills Qualification;14-19 Diploma
+Qual_Check_NonUK	Undergraduate Degree
+Standards_Lev	Foundation
+DIP_14_19	Foundation
+Scot_Skills	Key
+Key_Skills_Scot	Level 1
+sickness_disability_benefits_claiming	Personal Independence Payment
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit
+uc_reason_claiming	Not working because you were sick, injured or disabled
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	One or both parents
+SMEARNER	Mother
+SMOCCT	Teacher
+SMOCCD	Teaching
+SMERESE	Self-employed
+QHEALTH1	Very good
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	Problems with hearing;Problems seeing even when wearing glasses or contact lenses
+current_progressive_relapsing_remitting_conditions	None of these
 current_neurodivergent_conditions	None of these
 current_conditions_other	None of these
 current_mental_health_condition	Yes

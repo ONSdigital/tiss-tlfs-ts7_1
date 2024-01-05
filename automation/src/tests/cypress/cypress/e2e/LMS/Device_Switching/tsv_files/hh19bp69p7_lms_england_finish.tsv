@@ -1,0 +1,53 @@
+Person	7
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	10
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1'], ['10', '1']]
+SETPROXY	Yes
+EMPSICK4	No
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	Yes
+work_related_education_4weeks	Yes
+Country_Qual_Intro	
+Country_Qual	England, Northern Ireland or Wales;Scotland
+EWNISCOT_School	Highers
+EWNISCOT_College	Diploma in Higher Education
+EWNISCOT_Additional	Basic Skills Qualification;Key, Core, Essential or Functional Skills Qualification
+EWNISCOT_HE	Undergraduate or Bachelor’s Degree;Master’s Degree
+Safety_Net_Q	Formal Diploma Qualification
+Safety_Net_Level_Dips	Level 3
+Qual_Check_EWNISCOT	Highers;Diploma in Higher Education;Basic Skills Qualification, these were discontinued in 2014;Key, Core, Essential or Functional Skills Qualification;Undergraduate or Bachelor’s Degree;Master’s Degree;Other Formal Diploma, Level 3;I need to add another qualification gained in the UK 
+Add_Qual_EWNISCOT	School leavers, college or training qualification
+Add_College_EWNISCOT	HNC or SHNC
+EWNISCOT_Skills	Key
+EWNISCOT_KeySkills	Level 2
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Child Benefit
+previously_served_armed_forces	No
+QHEALTH1	Fair
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Diabetes
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	No
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+work_illness_time_off_length	At least one month
+work_illness_time_off_length_months	7
+HH_refday	Son BP69 HH19 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

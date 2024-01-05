@@ -1,0 +1,70 @@
+AboutYou	John BP185;;HH162 Smith
+DOB	1;1;1997
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two BP191;;HH162 Person
+DOB	
+Age	71
+SEX	Female
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	No
+ShareLiv	Yes
+HRP	John BP185 HH162 Smith;Two BP191 HH162 Person
+TEN1	Own it outright
+Person	1
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Separated but still legally married
+Nationality	British;Polish
+CRY12	Poland
+CAMEYR	They were born in the UK
+CRY12EUK	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_Passports	United Kingdom
+Expired_Passports	United Kingdom
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	Self-employed;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_self_employed_20	John BP185 HH162 Smith's own limited company through PAYE
+NITAX20	John BP185 HH162 Smith's tax or National Insurance is taken from their pay before they are paid
+INCORP20	Yes, John BP185 HH162 Smith has a limited company
+PARTNER20	Yes, John BP185 HH162 Smith has a business partner or partners
+number_employees_self_employed_1job	50-249
+EMPLOYEES20	Yes
+HOME	In a different location from their home
+HOMEEV	Yes
+WHCDAYS18	
+EVEROT	John BP185 HH162 Smith works unpaid overtime
+usual_unpaid_overtime_1job_hours	20;0
+UPOT	0;0
+USHR	40;22
+ACTHR	26;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Farmer
+SOC2020PT2	Grow grapes
+sic2007_self_employed_main_job	Growing of grapes
+Comment	CONSEY/CONMON2 < 4 months
+CONMON2	-2m
+CONSEY	-2m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Change of job sector
+looking_for_new_main_job_preferred_hours	The same
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	Resigned

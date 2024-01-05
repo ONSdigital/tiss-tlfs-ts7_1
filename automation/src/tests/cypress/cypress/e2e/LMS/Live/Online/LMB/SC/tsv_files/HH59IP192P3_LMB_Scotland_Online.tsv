@@ -32,9 +32,9 @@ ProxyCheck	Three IP192 HH59 Person
 AltAdd	No
 XMARSTA	Prefer not to say
 Nationality	British
-CRY12	Scotland
-NATID	Scottish
-Ethnicity	White
+CRY12_sco	Scotland
+NATID_sco	Scottish
+Ethnicity_sco	White
 WHITE	Welsh, English, Northern Irish or British
 RELIGION_SC	No religion
 Current_Passports	None

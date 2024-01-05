@@ -1,19 +1,24 @@
-AboutYou	John BP0;;Smith
-Sex	Male
+AboutYou	Jane BP0;;HH138 Smith
+DOB	;
+Age	73
+Sex	Female
 AddressChk	Yes
 HholdChk	Yes
 Person	2
-AddPpl	Dolly IP115;;Jones
-Sex	Female
-Rel to P1	Sister or brother
+AddPpl	Two IP115;;HH138 Jones
+DOB	30;4;1981
+Sex	Male
+Rel to P1	Brother or sister
 HholdChk	Yes
 Person	3
-AddPpl	Sally BP121;;Smith
+AddPpl	Sally BP121;;HH138 Smith
+DOB	1;1;1997
 Sex	Female
 Rel to P1	Other relative
 HholdChk	Yes
 Person	4
-AddPpl	Alex BP122;;Hamilton
+AddPpl	Alex BP122;;HH138 Hamilton
+DOB	1;1;1956
 Sex	Male
 Rel to P1	Brother or sister
 HholdChk	No
@@ -25,12 +30,29 @@ Relationships	2;4
 Relationships	3;4;Other relative
 ShareCooking	Yes
 ShareLiv	No
-HRP	Dolly IP115 Jones;Alex BP122 Hamilton
+HRP	Jane BP0 HH138 Smith;Sally BP121 HH138 Smith
 TEN1	Currently pay off a mortgage or loan used to purchase the property
 Comment	End of House Hold
 Comment	Start of Person 2 (IP115)
 Person	2
 IndivIntroPage	
 SETPROXY	No
-ProxyCheck	Dolly IP115 Jones
+ProxyCheck	Two IP115 HH138 Jones
 AltAdd	No
+XMARSTA	Widowed
+Nationality	Indian
+CRY12	Northern Ireland
+NatID	Scottish;British
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom;Ireland;Other
+Multi_current_passport	Indonesia
+Current_passport_check	No
+Expired_passports	None
+Sexual_Orientation	Or, prefer not to say
+SATIS	4
+WORTH	5
+HAPPY	6
+ANXIOUS	9
+PAIDJOB	No

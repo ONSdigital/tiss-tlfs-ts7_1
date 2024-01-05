@@ -1,82 +1,10 @@
-AboutYou	Gerard IP59;;HH11 Way
+Aboutyou	John IP59;;HH11 Smith
+dob	5;4;1987
 Sex	Male
-AddressChk	Yes
-HholdChk	Yes
+addresschk	Yes
+Hholdchk	Yes
 Person	2
-AddPpl	Mikey BP4;;HH11 Way;Male
-Sex	Male
-Rel to P1	Brother or sister
-HholdChk	Yes
-Person	3
-AddPpl	Ray BP5;;HH11 Toro;Male
-Sex	Male
-Rel to P1	Other non-relative
-HholdChk	Yes
-Person	4
-AddPpl	Frank BP8;;HH11 Iero;Male
-Sex	Male
-Rel to P1	Other non-relative
-HholdChk	No
-HholdChk2	Yes
-StudentChk	None
-RelExPage	
-Relationships	2;3
-Relationships	2;4
-Relationships	3;4;Partner
-ShareCooking	Yes
-ShareLiv	No
-HRP	Gerard IP59 HH11 Way;Frank BP8 HH11 Iero
-TEN1	Pay rent to a private landlord
-TIED	Yes
-Comment	End of household section
-Comment	Start of Person 1 (IP59)
-Person	1
-IndivIntroPage	
-SETPROXY	No
-ProxyCheck	Gerard IP59 HH11 Way
-AltAdd	Yes
-AltAddType	A student halls of residence
-DOB	9;4;1977
-XMARSTA	A surviving member of a legally registered civil partnership
-Nationality	Other
-Nationality_Oth	German
-CRY12	Other
-CRY12_Other	Germany
-Comment	CAMEYR <=2 years from ref date
-CAMEYR	-16m
-CONTUK	Yes
-Comment	CAMEMT > 12m from ref date
-CAMEMT	-16m
-WHYUK10	Another reason
-NATID	Welsh;Northern Irish
-Ethnicity	Mixed or multiple ethnic groups
-MIXED	White and Black African
-RELIGION	Other religion
-RELIGION_OTH	Killjoy
-Welsh Language	Understand spoken Welsh;Speak Welsh
-CYMFREQ	Never
-Current_passports	Other
-Multi_current_passport	Jordan
-Current_passport_check	No
-Expired_passports	Other
-Multi_expired_passport	Jordan
-Expired_passport_check	No
-Sexual_Orientation	Straight or Heterosexual
-PAIDJOB	No
-Own_Run_Business_Check	No
-CasualJob20	No
-Look4_18	No
-NOLOWM18	Illness, injury or disability expecting to last for 4 weeks or longer
-like_paid_job	Yes
-MargAtch	No
-think_work_in_future	Don't know
-LEFTYR18	-20m;-20m
-work_unpaid	Yes, for an internship
-REDYL18	Left for some other reason
-employment_status_previous	An employee
-soc2020_job_title_previous_job	Accountant
-soc2020_job_description_previous_job	Accounting
-sic2007_industry_employed_previous_job	Money
-number_employees_workplace_previous_job	500 or more
-APPCURR	Yes
-apprenticeship_main_job	No
+addppl	Two BP4;Middle;HH11 Smith
+dob	3;12;2000
+sex	Male
+rel to p1	Son or daughter

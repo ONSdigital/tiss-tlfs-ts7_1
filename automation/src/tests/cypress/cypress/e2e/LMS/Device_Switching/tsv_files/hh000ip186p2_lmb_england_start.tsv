@@ -1,79 +1,18 @@
 AboutYou	Gerard;;Way
+DOB	1;1;1997
 Sex	Male
 AddressChk	Yes
 HholdChk	Yes
 Person	2
 AddPpl	Mikey IP186;;Way
+DOB	;;;
+Age	68
 Sex	Male
 Rel to P1	Brother or sister
 HholdChk	Yes
 Person	3
 AddPpl	Ray;;Toro
+DOB	1;1;1997
 Sex	Male
 Rel to P1	Other non-relative
 HholdChk	Yes
-Person	4
-AddPpl	Frank;;Iero
-Sex	Male
-Rel to P1	Other non-relative
-HholdChk	No
-HholdChk2	Yes
-StudentChk	None
-RelExPage	
-Relationships	2;3
-Relationships	2;4
-Relationships	3;4;Partner
-ShareCooking	Yes
-ShareLiv	No
-HRP	Gerard Way;Frank Iero
-TEN1	Pay rent to a private landlord
-TIED	Yes
-Comment	End of household section
-Comment	Start of Person 2 (IP4)
-Person	2
-IndivIntroPage	
-SETPROXY	No
-ProxyCheck	Mikey IP186 Way
-ALtAdd	No
-DOB	;;;
-Age	68
-XMARSTA	Separated but still legally in a civil partnership
-Nationality	British
-CRY12_en	England
-NATID	English
-Ethnicity	White
-WHITE	English, Welsh, Scottish, Northern Irish or British
-RELIGION	No religion
-Current_passports	None
-Expired_passports	None
-Sexual_Orientation	prefer not to say
-PAIDJOB	No
-own_run_business_check	Yes
-STAT	Self-employed;Full-time
-Paid_wage_self_employed_20	A company through an app or online platform, such as Deliveroo
-NITAX20	My tax or National Insurance is taken from my pay before I am paid
-TempJob18	Casual
-WhyCas18_Emp	Other
-WhyCas18_Emp_Oth	Other reason
-CONTRACTMAINJOB20	Yes
-ZHC20	No
-Total_DUR3_MTH	No
-number_employees_self_employed_1job	250-499
-HOME	From home
-BroadbandA	No
-BroadbandB	Yes
-WHCDAYS18	Did not work that week
-EVEROT	I do not work overtime
-USHR	35;47
-check_total_usual_work_1job	Yes
-YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
-SOC2020pt1	A job
-SoC2020pt2	A job
-SIC2020SEMP	Some work
-Comment	<4m
-CONMON2	-1m
-CONSEY	-1m
-work_unpaid	No
-self_union_membership	Yes
-looking_for_different_paid_job	No
-longer_hours_at_current_pay_main_job	No

@@ -3,6 +3,54 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	4
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+Paid_wage_employee_20	A company through an app or online platform, such as Deliveroo
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Other reason
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+supervisory_duties_1job	No
+managerial_duties_1job	Yes, I am a manager
+number_employees_workplace_1job	25-49
+HOME	From home
+main_job_work_pattern_type	Working from home
+usual_work_pattern_time_periods_main_job	6am to 6pm
+night_work_ever_main_job	No
+evening_work_ever_main_job	Yes
+evening_work_frequency_main_job	Half or more of the total time worked in these hours
+WHCDAYS18	;
+EVEROT	I do not work overtime
+USHR	35;13
+ACTHR	0;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.EMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020pt1	Job
+SoC2020pt2	Job
+sic2007_employed_main_job	Work
+SECTOR	Some other kind of organisation
+SECTOR03	A public limited company
+Comment	<4m
+CONMON1	-2m
+CONMPY	-2m
+OWNBUS18	No
+JobQual_Intro	Save and continue
+career_progression_main_job	Neither disagree nor agree
+employees_decision_involvement_main_job	Good
+meaningful_main_job	Agree
+satisfaction_main_job	Neither dissatisfied nor satisfied
+manager_support_main_job	Agree
+in_job_bullying_12months	Yes
+in_job_bullying_frequency_12months	One to two times
+skills_match_main_job	I lack some skills required in my current duties
+self_union_membership	Yes
+union_affects_pay_and_conditions	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+PAYINTRO	Save and continue
 Grs1A	Hourly
 GrsExp	17
 Paid_same_as_usual	No
@@ -30,7 +78,8 @@ ILNXSM	A different medical reason
 ILLNXT20	Pregnancy problems
 DIFPER	1
 APPCURR	No
-ENROL	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	No qualifications have been gained in the past
@@ -44,14 +93,6 @@ SMOYArea	I was living outside of the UK
 SMOYCty	It is outside of the UK
 SMHCOMP	Other non-family members
 QHEALTH1	Very bad
-SATIS	;
-SATIS	Prefer not to say
-WORTH	;
-WORTH	Prefer not to say
-HAPPY	;
-HAPPY	Prefer not to say
-ANXIOUS	;
-ANXIOUS	Prefer not to say
 LNGLST	No
 past_long_lasting_health_condition_intro	;
 past_long_lasting_health_condition	No

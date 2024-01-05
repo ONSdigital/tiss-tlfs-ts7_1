@@ -1,0 +1,38 @@
+AboutYou	Jane IP0;;HH14 Smith
+DOB	1;1;1944
+Sex	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Harry IP107;Edward;HH14 Styles
+DOB	;;;
+Age	35
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	3
+AddPpl	Louis IP106;William;HH14 Thomlinson
+DOB	;;;
+Age	43
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Niall BP53;James;HH14 Horan
+DOB	;;;
+Age	55
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	5
+AddPpl	Liam BP61;James;HH14 Payne
+DOB	;;;
+Age	67
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	6
+AddPpl	Zayn BP63;Javadd;HH14 Malik
+DOB	;;;
+Age	27
+Sex	Male

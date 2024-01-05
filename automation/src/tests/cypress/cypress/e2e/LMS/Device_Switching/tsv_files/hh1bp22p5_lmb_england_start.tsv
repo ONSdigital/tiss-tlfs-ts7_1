@@ -1,0 +1,86 @@
+AboutYou	David P1Ineligible;;HH1 Jones
+DOB	1;1;1997
+Sex	Male
+AddressChk	No
+IneligibleType	Other
+IneligibleOther	Parental home
+HholdChkAlt	Yes
+Person	2
+AddPpl	Elton IP11;;HH1 Jones
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Alex DummyIP0;;HH1 Hamilton
+DOB	1;1;1950
+Sex	Male
+Rel to P1	Other relative
+HholdChk	Yes
+Person	4
+AddPpl	Rex IP12;;HH1 Smith
+DOB	;
+Age	45
+Sex	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	No
+Person	5
+AddPpl	John BP22;;HH1 Carey
+DOB	;
+Age	35
+Sex	Male
+Rel to P1	Other relative
+HholdChk	No
+HholdChk2	Yes
+Comment	StudentChk to be skipped.
+StudentChk	;
+RelExPage	Save and continue
+Comment	All Relationships to be skipped.
+Relationships	2;3
+Relationships	2;4
+Relationships	2;5
+Relationships	3;4
+Relationships	3;5
+Relationships	4;5
+ShareCooking	Yes
+ShareLiv	Yes
+HRP	Elton IP11 HH1 Jones;Alex DummyIP0 HH1 Hamilton;John BP22 HH1 Carey;Someone else not listed above
+TEN1	Pay rent to the council, housing association, or charitable trust
+TIED	No
+Comment	End of House Hold
+Comment	Start BP22
+Person	5
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	British;Pakistani;Other
+Nationality_Oth	English
+CRY12	Other
+CRY12_Other	India
+Comment	> than 2 years from Ref date
+CAMEYR	-48m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	English;British
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_OTH	Black Japanese
+RELIGION	Other religion
+RELIGION_Oth	Jainism
+Current_Passports	Ireland
+Expired_passports	None
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Looking after the family or home
+like_paid_job	Yes
+MargAtch	Yes
+think_work_in_future	Definitely
+when_think_work_in_future	More than five years
+LEFTYR18	John BP22 HH1 Carey has never had a paid job

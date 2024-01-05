@@ -109,7 +109,7 @@ ShareLiv	No
 HRP	Someone else not listed above
 TEN1SomeoneElse	Squatting
 Person	3
-IndivIntroPage
+IndivIntroPage	
 SETPROXY	No
 ProxyCheck	Three IP45 HH10 Person
 AltAdd	Yes
@@ -229,7 +229,7 @@ current_joint_bone_muscle_conditions	None of these
 current_sensory_problems	None of these
 current_progressive_relapsing_remitting_conditions	None of these
 current_neurodivergent_conditions	Autism including Asperger's syndrome
-current_conditions_other	Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions
+current_conditions_other	Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions 
 current_mental_health_condition	No
 main_health_condition	Chest or breathing conditions, example, asthma or bronchitis
 LIMACT	Yes, a lot
@@ -255,5 +255,5 @@ CIGEVER	No
 HH_refday	John IP0 HH10 Smith
 HH_refday1	No
 AddrHist_Check	Yes
-Individual_OUTRO
+Individual_OUTRO	
 CheckText	We would now like to ask some questions about each person

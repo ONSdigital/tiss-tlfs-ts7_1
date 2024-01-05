@@ -1,0 +1,113 @@
+AboutYou	Gerard BP182;;HH158 Way
+DOB	1;1;1997
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mikey BP186;;HH158 Way
+DOB	;;
+Age	69
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	Yes
+Person	3
+AddPpl	Ray BP190;;HH158 Toro
+DOB	1;1;1947
+Sex	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	
+Relationships	2;3;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard BP182 HH158 Way;Mikey BP186 HH158 Way;Ray BP190 HH158 Toro
+TEN1	Currently pay off a mortgage or loan used to purchase the property 
+Comment	End of household section
+Comment	Start of Person 2 (BP186)
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+ALtAdd	No
+XMARSTA	Separated but still legally in a civil partnership
+Nationality	British
+CRY12_en	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_passports	None
+Expired_passports	None
+PAIDJOB	No
+own_run_business_check	Yes
+STAT	Self-employed;Full-time
+Paid_wage_self_employed_20	A company through an app or online platform, such as Deliveroo
+NITAX20	Mikey BP186 HH158 Way's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Other reason
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+number_employees_self_employed_1job	250-499
+HOME	From home
+WHCDAYS18	Did not work that week
+EVEROT	Mikey BP186 HH158 Way does not work overtime
+USHR	35;47
+check_total_usual_work_1job	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020pt1	Farmer
+SoC2020pt2	Grow Rice
+sic2007_self_employed_main_job	Growing Rice
+Comment	<4m
+CONMON2	-1m
+CONSEY	-1m
+OWNBUS18	No
+self_union_membership	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	No
+WKPL99	Cardiff
+REDPAID	Yes
+REDYL18	Family or personal reasons
+HTHOTH	No
+REDANY	Yes
+reason_made_redundant	Some other reason
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Some work
+ACTWKDY	Tuesday;Wednesday;Thursday;Friday
+ILLWK	Yes
+ILLDAYS	Tuesday;Wednesday;Thursday;Friday
+statutory_sick_pay_receiving	Yes
+ILL1PD	More than one
+IL2BEF	Before the first day worked in the week
+ILLFST20	Eye, ear, nose or mouth problem
+ILLST17	Six days
+ILNXSM	A different medical reason
+ILLNXT20	Minor illnesses
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	Twelve months or longer
+ILNE20M	Other
+ILNE12SE	Self-employment
+HWRET12S	Something else
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	Attendance Allowance;Industrial Injuries Disablement Benefit
+oth_benefits_claiming	Council Tax Reduction Benefit;National Insurance Credits;Child Benefit;Pension Credit
+state_pension_receiving	No
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces
+uk_armed_forces_year_left	2003
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very good
+LNGLST	No
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No

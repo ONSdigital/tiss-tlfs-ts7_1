@@ -1,10 +1,12 @@
-Comment	Person1(BP0) dummy person
-AboutYou	John BP0;;Smith
+AboutYou	John BP0;;HH141 Smith
+DOB	;
+Age	73
 Sex	Male
 AddressChk	Yes
 HholdChk	Yes
 Person	2
-AddPpl	Dolly IP129;;Jones
+AddPpl	Dolly IP129;;HH141 Jones
+DOB	30;4;1954
 Sex	Female
 Rel to P1	Sister or brother
 HholdChk	No
@@ -12,17 +14,15 @@ HholdChk2	Yes
 StudentChk	None of these people live in a student halls of residence
 ShareCooking	No
 ShareLiv	Yes
-HRP	John BP0 Smith;Dolly IP129 Jones
-TEN1	Pay rent to a private landlord
-TIED	No
+HRP	John BP0 HH141 Smith;Dolly IP129 HH141 Jones
+TEN1	Don't know
 Comment	End of Household Section
 Comment	Start of Person2 (IP129)
 Person	2
 IndivIntroPage	
 SETPROXY	No
-ProxyCheck	Dolly IP129 Jones
+ProxyCheck	Dolly IP129 HH141 Jones
 AltAdd	No
-DOB	30;4;1953
 XMARSTA	In a legally registered civil partnership
 Nationality	Pakistani
 CRY12	England
@@ -33,7 +33,11 @@ CARIBBEAN scottish	Black, Black Scottish or Black British
 RELIGION_SC	Buddhist
 Current_Passports	None
 Expired_Passports	None
-Sexual_Orientation	
+Sexual_Orientation	;
+SATIS	2
+WORTH	2
+HAPPY	2
+ANXIOUS	2
 PAIDJOB	Yes
 SECJOB	Yes
 STAT1	Self-employed;Full-time
@@ -52,23 +56,3 @@ number_employees_self_employed_second_2job	None, I work on my own or with a part
 HOME	In different places using home as a base
 Work_location_second_job	In the same grounds or building as my home
 HOMEEV	No
-BROADBANDA	No
-BROADBANDB	No
-WHCDAYS18	;
-EVEROT	I am self-employed and this does not apply to me
-USHR1	40;34
-ACTHR1	30;0
-USHR2	10;57
-ACTHR2	10;57
-Comment	Total should be 40 Hours 57 Minutes
-check_total_usual_work_main_2job	Yes
-TOTAC2	Yes
-check_total_usual_work_second_2job	Yes
-check_total_actual_work_second_2job	Yes
-YLESS.SEMP	Illness or disability expected to last for 4 weeks or longer
-SOC2020PT1	Teacher
-SOC2020PT2	Teaching
-SIC2020SEMP	Primary School Education
-SOC2020_2_PT1	Dentist
-SOC2020_2_PT2	Fix Oral Issues
-SIC2020_2_SEmp	Dental Treatment
