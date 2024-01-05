@@ -1,0 +1,220 @@
+Person	7
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	7
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1']]
+SEX	Female
+Rel to P1	Mother-in-law or father-in-law
+HholdChk	Yes
+Person	8
+AddPpl	Eight BP52;;HH10 Person
+DOB	;;;
+age	20
+SEX	Female
+Rel to P1	Daughter or son
+HholdChk	Yes
+Person	9
+AddPpl	Nine BP54;;HH10 Person
+DOB	;;;
+Age	67
+SEX	Female
+Rel to P1	Stepdaughter or stepson
+HholdChk	Yes
+Person	10
+AddPpl	Ten BP104;;HH10 Person
+DOB	;;;
+age	22
+SEX	Female
+Rel to P1	Daughter-in-law or son-in-law
+LastPerMessage	;
+StudentChk	Someone else not listed above
+RelExPage	;
+Relationships	2;3;Wife or husband
+Relationships	2;4;Legally registered civil partner
+Relationships	2;5;Partner
+Relationships	2;6;Mother or father
+Relationships	2;7;Stepmother or stepfather
+Relationships	2;8;Mother-in-law or father-in-law
+Relationships	2;9;Daughter or son
+Relationships	2;10;Stepdaughter or stepson
+Relationships	3;4;Daughter-in-law or son-in-law
+Relationships	3;5;Daughter or son
+Relationships	3;6;Daughter or son
+Relationships	3;7;Daughter or son
+Relationships	3;8;Daughter or son
+Relationships	3;9;Daughter or son
+Relationships	3;10;Daughter or son
+Relationships	4;5;Sister or brother
+Relationships	4;6;Sister or brother
+Relationships	4;7;Sister or brother
+Relationships	4;8;Sister or brother
+Relationships	4;9;Sister or brother
+Relationships	4;10;Sister or brother
+Relationships	5;6;Sister or brother
+Relationships	5;7;Sister or brother
+Relationships	5;8;Sister or brother
+Relationships	5;9;Sister or brother
+Relationships	5;10;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Sister or brother
+Relationships	6;9;Sister or brother
+Relationships	6;10;Sister or brother
+Relationships	7;8;Sister or brother
+Relationships	7;9;Sister or brother
+Relationships	7;10;Sister or brother
+Relationships	8;9;Sister or brother
+Relationships	8;10;Sister or brother
+Relationships	9;10;Sister or brother
+ShareCooking	Yes
+ShareLiv	No
+HRP	Someone else not listed above
+TEN1SomeoneElse	Squatting
+Person	3
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Three IP45 HH10 Person
+AltAdd	Yes
+AltAddType	Another type of address
+TimeAway	No
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	Other
+Nationality_Oth	Japanese
+CRY12	Other
+CRY12_Other	Japan
+Comment	CAMEYR > 2 years
+CAMEYR	-50m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	Welsh
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_Oth	Black Japanese
+Religion	Other religion
+Religion_Oth	Scientology
+Current_passports	Ireland
+Expired_passports	United Kingdom
+Sexual_Orientation	;
+SATIS	Don't know
+WORTH	Don't know
+HAPPY	Don't know
+ANXIOUS	Don't know
+PAIDJOB	Yes
+SECJOB	No
+STAT	Self-employed;Full-time
+paid_wage_self_employed_20	A company through an app or online platform, such as Deliveroo
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Filming work
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+number_employees_self_employed_1job	 1-10
+number_employees_self_employed_1_to_10_1job	;
+HOME	From home
+WHCDAYS18	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+HOMEREF	Yes
+EVEROT	I work unpaid overtime
+usual_unpaid_overtime_1job_hours	10;30
+UPOT	10;00
+USHR	35;47
+ACTHR	35;47
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Business not set up yet
+SOC2020PT1	Primary School Teacher
+SOC2020PT2	Teaching
+sic2007_self_employed_main_job	Provide Education
+Comment	CONSEY/CONMON2 < 4 months
+CONMON2	-0m
+CONSEY	-0m
+OWNBUS18	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Change of occupation
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	20;15
+longer_hours_offered_start_in_2weeks_self_employed	Yes
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	Family or personal reasons
+HTHOTH	No
+REDANY	Yes
+reason_made_redundant	Employer was cutting back on staff
+soc2020_job_title_check_redundant_job	Yes
+sic2007_industry_employed_redundant_job	Hospitality
+ACTWKDY	Saturday;Sunday
+ILLWK	No
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	At least six months but less than nine months
+ILNE20M	Other
+ILNE12SE	Self-employment
+HWRET12S	Something else
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	;
+Country_Qual	England, Northern Ireland or Wales;Outside of the UK
+EWNI_School	EPQ;BTEC, BEC, TEC, Edexcel or LQL
+EWNI_College	ONC;HNC
+EWNI_Additional	Basic Skills Qualification
+EWNI_Prof	Nursing Qualification
+EWNI_Uni	Undergraduate or Bachelor;Master;Doctorate
+Safety_Net_EWNINonUK	Formal Award Qualification;Formal Certificate Qualification
+Safety_Net_Level_Awards	Level 4
+Safety_Net_Level_Certs	Level 1
+NonUK_School	High school diploma
+Dip_Age	14 to 16 years old
+NonUK_Deg	Postgraduate Degree
+Qual_Check	EPQ;BTEC, BEC, TEC, Edexcel or LQL;ONC;HNC;Basic Skills Qualification;Nursing Qualification;Undergraduate or Bachelor;Master;Doctorate
+Qual_check_nonUK	;
+BTEC_Type	BEC
+BEC_Lev	National or Higher National
+Nursing_Qual	Scottish Modern Apprenticeship
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	None of these
+previously_served_armed_forces	No
+SMOYArea	I was living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very good
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	Autism including Asperger's syndrome
+current_conditions_other	Chest or breathing conditions for example asthma or bronchitis;Stomach, liver, kidney or digestive conditions 
+current_mental_health_condition	No
+main_health_condition	Chest or breathing conditions, example, asthma or bronchitis
+LIMACT	Yes, a lot
+REDACT	12 months or more
+past_long_lasting_health_condition_intro	;
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	The day after the accident
+TYPINJ	Fracture or broken bones
+SITEFR	Head, neck, spine or pelvis
+ACCURH	Lost consciousness, even if just briefly;Suffered from hypothermia or a heat induced illness;Needed resuscitation;Stayed in hospital for more than 24 hours
+ACCKIND	Another kind of accident
+ACCKIND_Other	Climbed a pylon
+ILLWRK1	Yes
+NUMILL	1
+work_illness_type_one	A bone, joint or muscle problem which mainly affects your hips, legs or feet
+AWARE	More than 12 months ago
+work_illness_most_serious_time_off_length	No time off work
+WCHJB3	Some other job
+CIGEVER	No
+HH_refday	John IP0 HH10 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

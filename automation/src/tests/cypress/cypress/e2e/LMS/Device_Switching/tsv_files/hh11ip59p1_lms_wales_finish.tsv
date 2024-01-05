@@ -1,11 +1,92 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	2
+UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
+Hholdchk	Yes
+Person	3
+addppl	Three BP5;Middle;HH11 Smith
+dob	25;7;1999
+sex	Male
+rel to p1	Son or daughter
+Hholdchk	Yes
+Person	4
+addppl	Four BP8;Middle;HH11 Smith
+dob	;;;
+Age	14
+sex	Male
+rel to p1	Son or daughter
+Hholdchk	No
+hholdchk2	Yes
+StudentChk	Two BP4 Middle HH11 Smith;Three BP5 Middle HH11 Smith
+RelExPage	Save and continue
+Relationships	2;3;Brother or sister
+Relationships	2;4;
+Relationships	3;4;Brother or sister
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP59 HH11 Smith;Three BP5 Middle HH11 Smith
+TEN1	Pay rent to a private landlord
+TIED	Yes
 Person	1
-UPDATE_EXPIRED_PASSPORTS	2
-UPDATE_CURRENT_PASSPORTS	2
-UPDATE_MAX_PEOPLE	4
-UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
-ENROL	No
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	John IP59 HH11 Smith
+AltAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	A surviving member of a legally registered civil partnership 
+Nationality	Other
+Nationality_Oth	German
+CRY12	Other
+cry12_other	Germany
+Comment	CAMEYR  <= 2 years from Ref Date
+CAMEYR	-18m
+CONTUK	Yes
+Comment	CAMEMT  >12 months from Ref Date
+CAMEMT	-15m
+WHYUK10	Another reason
+natid_wal	Welsh;Northern Irish
+Ethnicity_wal	Mixed or multiple ethnic groups
+MIXED	White and Black African
+Religion	Other
+religion_oth	Scientology
+Welsh Language	Understand spoken Welsh;Speak Welsh 
+CYMFREQ	Never
+Current_passports	Other 
+Multi_current_passport	Jordan
+Current_passport_check	No
+Expired_passports	Other 
+Multi_expired_passport	Jordan
+Expired_passport_check	No
+sexual_orientation	Straight or Heterosexual
+SATIS	5
+WORTH	6
+HAPPY	7
+ANXIOUS	8
+PAIDJOB	No
+own_run_business_check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Illness, injury or disability expecting to last for 4 weeks or longer
+like_paid_job	Yes
+MargAtch	No
+think_work_in_future	;
+think_work_in_future	Don't know
+LEFTYR18	-28m;-28m
+OWNBUS18	Yes, for an internship
+REDYL18	Left for some other reason 
+employment_status_previous	An employee
+soc2020_job_title_previous_job	Artist
+soc2020_job_description_previous_job	Painting
+sic2007_industry_employed_previous_job	Art
+supervisory_duties_previous_job	No
+number_employees_workplace_previous_job	500 or more
+APPCURR	Yes
+apprenticeship_main_job	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
 future_work_related_education_3months	Yes
-Country_Qual_Intro	Save and continue
+Country_Qual_Intro	;
 Country_Qual	England, Northern Ireland or Wales
 EWNI_School	Any grade GCSEs, O Levels or CSEs;EPQ;AS Levels, A Levels or T Levels
 EWNI_College	OND;HNC
@@ -16,23 +97,25 @@ Safety_Net_Q	Formal Diploma Qualification
 Safety_Net_Level_Dips	Level 3
 Qual_Check	Any grade GCSEs, O Levels or CSEs;AS Levels, A Levels or T Levels;HNC;I need to add a qualification gained in Scotland
 Add_Qual_Scot	My qualification does not fit into any of these
-Add_Other_Qual	Some other qualification
+Add_Other_Qual	Certificate
 GCSE_Olevs	CSEs grade 2 or below
 Alev_Tlev	AS Levels;A Levels
 sickness_disability_benefits_claiming	Child Disability Payment
-oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Carer
+oth_benefits_claiming	Universal Credit;Council Tax Reduction Benefit;Child Benefit;Carer's Allowance
 uc_reason_claiming	Not working because of being a lone parent for a child under 5
 previously_served_armed_forces	Yes, previously served in Reserve Armed Forces
 uk_armed_forces_year_left	2000
+QHEALTH1	Very bad
 LNGLST	No
-past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition_intro	;
 past_long_lasting_health_condition	No
-HH_refday	Gerard IP59 HH11 Way;Mikey BP4 HH11 Way;Frank BP8 HH11 Iero;Ray BP5 HH11 Toro
+Illwrk2	No
+HH_refday	John IP59 HH11 Smith;Two BP4 Middle HH11 Smith;Three BP5 Middle HH11 Smith;Four BP8 Middle HH11 Smith
 HH_refday1	Yes
 HH_refday2	6
-HH_refday_AddHold	Lindsey;Mary;Way;2;8;1979;Female
-HH_refday_AddHold	Tina;;;;;;;No
+HH_refday_AddHold	Martin;Steve;Smith;14;10;1999;Male
+HH_refday_AddHold	Mike;;;;;;No
 HH_refday_AddHoldCheck	Yes
-AddrHist_check	Yes
+AddrHist_Check	Yes
 Individual_OUTRO	
 CheckText	We would now like to ask some questions about each person

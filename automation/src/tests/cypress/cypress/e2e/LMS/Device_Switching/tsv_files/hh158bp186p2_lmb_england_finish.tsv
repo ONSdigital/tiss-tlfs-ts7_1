@@ -1,0 +1,28 @@
+Person	2
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+SETPROXY	Yes
+ACCDNT	Yes
+ROAD	Yes
+WCHJB	Some other job
+GOBCK9	On the fifth day or longer after the accident
+TIMEDAYS	5
+TYPINJ	Fracture or broken bones
+SITEFR	Fingers or thumbs;Toes;Wrist or ankle;Other bones in hand or foot;Other bones in arm or leg;Head, neck, spine or pelvis;Other bones
+ACCURH	Lost consciousness, even if just briefly;Suffered from hypothermia or a heat induced illness;Needed resuscitation;Stayed in hospital for more than 24 hours
+ACCKIND	Another kind of accident
+ACCKIND_Other	Fell out of a plane
+ILLWRK1	Yes
+NUMILL	6
+TYPILL	A bone, joint or muscle problem which mainly affects their back
+AWARE	More than 12 months
+work_illness_most_serious_time_off_length	No time off work
+WCHJB3	Some other job
+CIGEVER	No
+HH_refday	Gerard BP182 HH158 Way;Mikey BP186 HH158 Way;Ray BP190 HH158 Toro
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

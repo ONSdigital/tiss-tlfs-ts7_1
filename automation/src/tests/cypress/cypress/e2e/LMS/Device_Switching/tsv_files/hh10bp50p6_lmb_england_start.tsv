@@ -1,0 +1,12 @@
+AboutYou	Jane IP0;;HH10 Smith
+DOB	1;1;1950
+SEX	Female
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP37;;HH10 Person
+DOB	;
+Age	28
+SEX	Female
+Rel to P1	Wife or husband
+HholdChk	Yes

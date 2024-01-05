@@ -1,0 +1,27 @@
+Person	4
+UPDATE_EXPIRED_PASSPORTS	3
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	8
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1']]
+SETPROXY	Yes
+health_condition_illness_12months	Yes
+LIMITK	No
+LIMITA	Yes
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	Cancer
+current_neurodivergent_conditions	None of these
+current_conditions_other	None of these
+current_mental_health_condition	No
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	Yes
+work_illness_most_serious_time_off_length	At least one week but less than one month
+work_illness_time_off_length_weeks	1
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

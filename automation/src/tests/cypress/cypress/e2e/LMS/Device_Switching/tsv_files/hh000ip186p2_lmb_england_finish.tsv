@@ -1,8 +1,74 @@
-Person	2
+Person	3
 UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
-UPDATE_MAX_PEOPLE	4
-UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+Person	4
+AddPpl	Frank;;Iero
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None
+RelExPage	
+Relationships	2;3
+Relationships	2;4
+Relationships	3;4;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard Way;Frank Iero
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 2 (IP4)
+Person	2
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	Mikey IP186 Way
+ALtAdd	No
+XMARSTA	Separated but still legally in a civil partnership
+Nationality	British
+CRY12_en	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_passports	None
+Expired_passports	None
+Sexual_Orientation	prefer not to say
+SATIS	Don't know
+WORTH	Prefer not to say
+HAPPY	Don't know
+ANXIOUS	Prefer not to say
+PAIDJOB	No
+own_run_business_check	Yes
+STAT	Self-employed;Full-time
+Paid_wage_self_employed_20	A company through an app or online platform, such as Deliveroo
+NITAX20	My tax or National Insurance is taken from my pay before I am paid
+TempJob18	Casual
+WhyCas18_Emp	Other
+WhyCas18_Emp_Oth	Other reason
+CONTRACTMAINJOB20	Yes
+ZHC20	No
+Total_DUR3_MTH	No
+number_employees_self_employed_1job	250-499
+HOME	From home
+WHCDAYS18	Did not work that week
+EVEROT	I do not work overtime
+USHR	35;47
+check_total_usual_work_1job	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020pt1	A job
+SoC2020pt2	A job
+sic2007_self_employed_main_job	Some work
+Comment	<4m
+CONMON2	-1m
+CONSEY	-1m
+OWNBUS18	No
+self_union_membership	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
 shorter_hours_preferred_main_job	No
 WKPL99	Cardiff
 REDPAID	Yes
@@ -29,7 +95,8 @@ ILNE20M	Other
 ILNE12SE	Self-employment
 HWRET12S	Something else
 APPCURR	No
-ENROL	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	No qualifications have been gained in the past
@@ -42,14 +109,6 @@ SMOYArea	I was living outside of the UK
 SMOYCty	It is outside of the UK
 SMHCOMP	Other non-family members
 QHEALTH1	Very good
-SATIS	;
-SATIS	Don't know
-WORTH	;
-WORTH	Don't know
-HAPPY	;
-HAPPY	Don't know
-ANXIOUS	;
-ANXIOUS	Don't know
 LNGLST	No
 past_long_lasting_health_condition_intro	;
 past_long_lasting_health_condition	No

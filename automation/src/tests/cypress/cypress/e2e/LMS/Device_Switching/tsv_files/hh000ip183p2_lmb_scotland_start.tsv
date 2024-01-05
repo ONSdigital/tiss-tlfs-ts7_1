@@ -1,19 +1,24 @@
 AboutYou	Gerard;;Way
+DOB	1;1;1997
 Sex	Male
 AddressChk	Yes
 HholdChk	Yes
 Person	2
 AddPpl	Mikey IP183;;Way
+DOB	;;;
+Age	55
 Sex	Male
 Rel to P1	Brother or sister
 HholdChk	Yes
 Person	3
 AddPpl	Ray;;Toro
+DOB	1;1;1997
 Sex	Male
 Rel to P1	Other non-relative
 HholdChk	Yes
 Person	4
 AddPpl	Frank;;Iero
+DOB	1;1;1997
 Sex	Male
 Rel to P1	Other non-relative
 HholdChk	No
@@ -35,9 +40,5 @@ IndivIntroPage
 SETPROXY	No
 ProxyCheck	Mikey IP183 Way
 AltAdd	No
-DOB	;;;
-Age	55
 XMARSTA	Married
 Nationality	British
-CRY12	Scotland
-NATID	Scottish

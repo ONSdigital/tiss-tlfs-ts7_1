@@ -1,0 +1,66 @@
+AboutYou	Gerard IP59;;Way
+DOB	1;1;1997
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Mikey BP4;;Way
+DOB	25;6;1980
+Sex	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Ray BP5;;Toro
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Frank BP8;;Iero
+DOB	;
+age	14
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Mikey BP4 Way;Ray BP5 Toro
+RelExPage	;
+Relationships	2;3;Other non-relative
+Relationships	2;4;
+Relationships	3;4;Partner
+ShareCooking	Yes
+ShareLiv	No
+HRP	Gerard IP59 Way;Ray BP5 Toro
+TEN1	Pay rent to a private landlord
+TIED	Yes
+Comment	End of household section
+Comment	Start of Person 2 (BP4)
+Person	3
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+ALtAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	A surviving member of a legally registered civil partnership
+Nationality	British
+CRY12	Other
+CRY12_Other	France
+Comment	CAMEYR <= 2 years from ref date
+CAMEYR	-19m
+CONTUK	Yes
+Comment	CAMEMT > 12 months from ref date
+CAMEMT	-19m
+WHYUK10	Another reason
+NATID	English
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	Any other mixed or multiple ethnic background
+MIXED_OTH	French and Indian
+RELIGION	Other religion
+RELIGION_OTH	Killjoy
+Welsh Language	Read Welsh
+Current_passports	United Kingdom;Ireland;Other
+Multi_current_passport	Bahrain
+Current_passport_check	No
+Expired_passports	None
+PAIDJOB	No
+Own_run_business_check	No

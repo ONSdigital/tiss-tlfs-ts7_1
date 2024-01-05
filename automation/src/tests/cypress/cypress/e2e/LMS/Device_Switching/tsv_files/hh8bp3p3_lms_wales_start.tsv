@@ -1,0 +1,75 @@
+AboutYou	John IP2;;HH8 Smith
+DOB	1;1;1997
+Sex	Female
+AddressChk	No
+IneligibleType	Student accommodation rented through a private landlord
+HHoldChk	Yes
+Person	2
+AddPpl	Two IP0;;HH8 Smith
+DOB	Don't know
+age	77
+Sex	Male
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	Someone else not listed above
+Person	3
+AddStu	Three BP3;;HH8 Smith
+DOB	30;1;1987
+Sex	Male
+StuRel	Partner
+AddStuChk	No
+RelExPage	Save and continue
+Relationships	2;3;Father or mother
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP2 HH8 Smith
+TEN1	Own it outright
+Person	3
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Two IP0 HH8 Smith
+AltAdd	Yes
+AltAddType	A student halls of residence
+XMARSTA	In a legally registered civil partnership
+Nationality	British;Irish;Other
+Nationality_Oth	Spanish
+CRY12	Republic of Ireland
+Comment	CAMEYR <= 2 years
+CAMEYR	-13m
+CONTUK	Yes
+COmment	CAMEMT > 12 months
+CAMEMT	-13m
+WHYUK10	Another reason
+NATID	Welsh;British
+Ethnicity	Mixed or multiple ethnic groups
+MIXED	Any other mixed or multiple ethnic background
+MIXED_Oth	White Aborigine
+RELIGION	Jewish
+Welsh Language	Understand spoken Welsh;Write Welsh
+Current_passports	United Kingdom;Ireland
+Expired_passports	None
+PAIDJOB	No
+Own_Run_Business_Check	No
+CasualJob20	No
+LOOK4_18	No
+NOLOWM18	Childcare is too expensive
+like_paid_job	No
+MargAtch	No
+think_work_in_future	Probably
+when_think_work_in_future	More than one year but less than five
+LEFTYR18	Three BP3 HH8 Smith has never had a paid job
+OWNBUS18	Yes, for an internship
+APPCURR	No
+COURSE	A part-time course at university or college
+Attend	Stopped attending
+current_study_for_qual	Yes
+future_work_related_education_3months	Yes
+Enrol_Check	No
+Country_Qual_Intro	Save and continue
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP
+oth_benefits_claiming	National Insurance Credits
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2000
+QHEALTH1	Very good

@@ -1,0 +1,15 @@
+AboutYou	John IP0;;HH17 Smith
+DOB	1;1;1945
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Snow BP103;;HH17 White
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Brother or sister
+HholdChk	Yes
+Person	3
+AddPpl	Happy BP100;;HH17 White
+DOB	1;1;1997
+SEX	Female

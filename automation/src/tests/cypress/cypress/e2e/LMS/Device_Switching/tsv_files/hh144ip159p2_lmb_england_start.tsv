@@ -1,10 +1,13 @@
-AboutYou	John BP0;;HH144 Smith
+AboutYou	Vanessa BP196;;HH144 Smith
+DOB	;;;
+Age	82
 Sex	Male
 AddressChk	No
 IneligibleType	Student accommodation rented through a private landlord
 HholdChk	Yes
 Person	2
 AddPpl	Phineas IP159;;HH144 Flynn
+DOB	1;1;2000
 Sex	Male
 Rel to P1	Son or daughter
 HholdChk	No
@@ -12,13 +15,15 @@ HholdChk2	Yes
 StudentChk	Someone else not listed above
 Person	3
 Addstu	Ferb IP166;;HH144 Flynn
+DOB	1;1;1997
 Sex	Male
-StuRel	Son or daughter
+StuRel	Stepson or stepdaughter
 AddStuChk	Yes
 Person	4
 Addstu	Candice BP167;;HH144 Flynn
-Sex	Female
-StuRel	Daughter or son
+DOB	1;1;1997
+Sex	Male
+StuRel	Son-in-law or daughter-in-law
 AddStuChk	No
 RelExPage	Save and continue
 Relationships	2;3;
@@ -34,7 +39,6 @@ IndivIntroPage
 SETPROXY	No
 ProxyCheck	Phineas IP159 HH144 Flynn
 AltAdd	No
-DOB	1;1;2000
 XMARSTA	Separated but still legally married
 Nationality	British
 CRY12	Scotland
@@ -45,17 +49,9 @@ RELIGION	No religion
 Current_passports	None
 Expired_passports	None
 Sexual_Orientation	prefer not to say
+SATIS	1
+WORTH	2
+HAPPY	3
+ANXIOUS	4
 PAIDJOB	No
 Own_Run_Business_Check	No
-CasualJob20	No
-LOOK4_18	No
-NOLOWM18	Caring responsibilities for disabled, elderly or ill persons
-like_paid_job	No
-MargAtch	No
-think_work_in_future	Probably not
-Comment	> 4 months but < 12 months
-LEFTYR18	-8m;-8m
-work_unpaid	No
-REDYL18	Left for some other reason
-employment_status_previous	Self-employed
-soc2020_job_title_previous_job	Inventor

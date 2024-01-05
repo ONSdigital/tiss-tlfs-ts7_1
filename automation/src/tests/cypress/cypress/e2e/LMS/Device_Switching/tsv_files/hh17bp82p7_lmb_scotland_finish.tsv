@@ -1,0 +1,231 @@
+Person	3
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	3
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	4
+AddPpl	Bashful BP95;;HH17 White
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	5
+AddPpl	Grumpy BP87;;HH17 White
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	6
+AddPpl	Dopey BP83;;HH17 White
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	7
+AddPpl	Sleepy BP82;;HH17 White
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	8
+AddPpl	Sneezy BP42;;HH17 White
+DOB	30;9;1991
+SEX	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	9
+AddPpl	Doc BP20;;HH17 White
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other non-relative
+Relationships	2;4;
+Relationships	2;5;Other non-relative
+Relationships	2;6;Other non-relative
+Relationships	2;7;Other non-relative
+Relationships	2;8;Other non-relative
+Relationships	2;9;Other non-relative
+Relationships	3;4;Brother or sister
+Relationships	3;5;Sister or brother
+Relationships	3;6;Brother or sister
+Relationships	3;7;Sister or brother
+Relationships	3;8;Brother or sister
+Relationships	3;9;Sister or brother
+Relationships	4;5;Sister or brother
+Relationships	4;6;Brother or sister
+Relationships	4;7;Sister or brother
+Relationships	4;8;Brother or sister
+Relationships	4;9;Sister or brother
+Relationships	5;6;Brother or sister
+Relationships	5;7;Sister or brother
+Relationships	5;8;Brother or sister
+Relationships	5;9;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Brother or sister
+Relationships	6;9;Sister or brother
+Relationships	7;8;Brother or sister
+Relationships	7;9;Sister or brother
+Relationships	8;9;Sister or brother
+ShareCooking	Yes
+ShareLiv	No
+HRP	John IP0 HH17 Smith;Snow BP103 HH17 White;Happy BP100 HH17 White;Bashful BP95 HH17 White;Grumpy BP87 HH17 White;Dopey BP83 HH17 White;Sleepy BP82 HH17 White;Sneezy BP42 HH17 White;Doc BP20 HH17 White
+TEN1	Own it outright
+Person	7
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	Married
+Nationality	Polish
+CRY12	Poland
+Comment	CAMEYR > 2 years
+CAMEYR	-40m
+CONTUK	No
+Comment	CAMEYR2/CAMEMT <= 12 months
+CAMEYR2	-5m
+CAMEMT	-5m
+QSTAY	Less than 6 months
+WHYUK10	As a spouse or dependent of a UK citizen or settled person
+ever_sought_asylum	Yes
+NATID	Scottish
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Caribbean, Caribbean Scottish or Caribbean British
+RELIGION_SC	Church of Scotland
+Current_passports	United Kingdom
+Expired_passports	United Kingdom
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Part-time
+STAT2	An employee;Part-time
+Yptjob18	Illness or disability
+Paid_wage_self_employed_21	Sleepy BP82 HH17 White's employment agency or umbrella company
+NITAX21	Sleepy BP82 HH17 White's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Temporary
+Jobtyp18	Other
+Jobtyp18_Oth	They just wanted to
+WhyTemp18	Other
+WhyTemp18_Oth	Freedom
+CONTRACTMAINJOB20	No
+MINHRS	Yes
+number_employees_self_employed_main_2job	11-19
+Paid_wage_employee_22	Sleepy BP82 HH17 White's employer through PAYE
+NITAX22	Sleepy BP82 HH17 White's tax or National Insurance is taken from their pay before they are paid
+supervisory_duties_second_2job	No
+managerial_duties_second_2job	No, they have no managerial duties
+number_employees_workplace_second_2job	Don't know
+number_employees_workplace_second_2job_dont_know_bands	More than 500
+HOME	In the same grounds or building as their home
+work_location_second_job	From home
+WHCDAYS18	Did not work that week
+EVEROT	Sleepy BP82 HH17 White does not work overtime
+USHR1	40;53
+USHR2	10;41
+Comment	TOTAL should be 40 Hours 53 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	TOTAL should be 10 Hours 41 Minutes
+check_total_usual_work_second_2job	Yes
+YLESS.SEMP	Other
+YLESS.SEMP_Oth	Something else
+SOC2020PT1	Petroleum Engineer
+SOC2020PT2	Drill for hydrocarbons in efficient way
+sic2007_self_employed_main_job	Extraction of crude petroleum
+SOC2020_2_PT1	Delivery driver
+SOC2020_2_PT2	Deliver flowers to retail stores
+sic2007_employed_second_job	Wholesale of flowers
+Comment	CONSEY/CONMON2 > 4 months
+CONMON2	-8m
+CONSEY	-8m
+OWNBUS18	No
+self_union_membership	Yes
+looking_for_different_paid_job	No
+longer_hours_at_current_pay_main_job	No
+shorter_hours_preferred_main_job	Yes
+shorter_hours_less_pay_main_job	Don't know
+WKPL99	Liverpool
+workplace_location_second_job	Chester
+REDANY	No
+ACTWKDY	They were not scheduled to work
+EMPSICK4	Yes
+WKSK4	1
+ABSWK	At least four weeks but less than six weeks
+ILNE20M	Stress, depression, anxiety
+ILNE12SE	Self-employment
+HWRET12S	Returned to work without a new or adjusted role or working pattern
+APPCURR	Yes
+apprenticeship_main_job	Yes
+apprenticeship_soc2020_job_title	Painter
+apprenticeship_sic_2007_industry	Painting
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	Scotland
+Scot_School	Scottish or International Baccalaureate
+Scot_leavers	SVQ;GSVQ
+Scot_Other	City and Guilds Qualification;Apprenticeships
+Scot_HigherEd	14-19 Diploma;Early Years Teaching or Professional Status;Foundation Degree
+Safety_Net_Q	Formal Award Qualification
+Safety_Net_Level_Awards	Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Their qualification is not formal and does not have a level
+Qual_Check_Scot	Scottish or International Baccalaureate;SVQ;GSVQ;City and Guilds Qualification;Apprenticeships;14-19 Diploma;Early Years Teaching or Professional Status;Foundation Degree;Other Formal Award, Level 2;Other Formal Award, Level 3;Other Formal Award, Level 4;Other Formal Award, Level 5;Other Formal Award, Level 6;Other Formal Award, Level 7;Other Formal Award, Level 8;Award Qualification, no level;I need to add a qualification gained in England, Northern Ireland or Wales;I need to add another qualification gained in Scotland
+Add_Qual_EWNISCOT	School qualification;School leavers, college or training qualification;Higher education qualification
+Add_School_EWNISCOT	Access 1 to 3;O Grades (Ordinary Grades);National 1 to 5;GCSEs, O Levels or CSEs
+Add_College_EWNISCOT	SCOTVEC, SCOTEC or SCOTBEC Qualification;OND or SND;HNC or SHNC;HND or SHND
+Add_Uni_EWNISCOT	Diploma in Higher Education;Nursing Qualification;Qualified Teacher Status;Chartered qualification
+Nationals_Lev	National 3
+GCSE_Olevs	CSEs grade 1;CSEs grade 2 or below
+Bacc_WSI	Welsh Baccalaureate
+EWNISCOT_Wbacc	Foundation
+SCOTVEC_Type	First, General or National Diploma
+SVQ_Lev	Level 4
+SCQF_Lev	No
+CG_Type	Award;Certificate;Diploma
+CG_Size	Level 5
+DIP_14_19	Foundation;Advanced or Progression
+GSVQ_GNVQ_Lev	Foundation
+App_Location_EWNISCOT	England, Northern Ireland or Wales
+App_Lev	Intermediate or BTEC Apprenticeship
+Nursing_Qual	Postgraduate, including conversion courses
+Teaching_Qual	PGCE or PGDE
+Teach_Age	Foundation stage
+Chart_type	They have a chartered qualification
+sickness_disability_benefits_claiming	Employment Support Allowance, ESA
+oth_benefits_claiming	Universal Credit;Job Seekers Allowance, JSA
+uc_reason_claiming	Other reason
+previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
+uk_armed_forces_year_left	2010
+SMOYArea	They were living outside of the UK
+SMOYCty	It is outside of the UK
+SMHCOMP	Other non-family members
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	Yes
+LIMITK	Yes
+LIMITA	No
+current_joint_bone_muscle_conditions	None of these
+current_sensory_problems	None of these
+current_progressive_relapsing_remitting_conditions	None of these
+current_neurodivergent_conditions	Down's syndrome
+current_conditions_other	None of these
+current_mental_health_condition	No
+LIMACT	Not at all
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	No
+ACCDNT	No
+ILLWRK2	Yes
+NUMILL	1
+work_illness_type_one	A skin problem
+AWARE	More than 12 months ago
+work_illness_time_off_length	No time off work
+WCHJB3	Second job
+CIGEVER	No
+HH_refday	John IP0 HH17 Smith
+HH_refday1	No
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	We would now like to ask some questions about each person

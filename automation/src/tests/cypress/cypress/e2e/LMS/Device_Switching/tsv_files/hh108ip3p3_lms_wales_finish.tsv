@@ -3,19 +3,6 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	3
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1']]
-SETPROXY	No
-ProxyCheck	Phil IP3 HH108 Lester
-AltAdd	Yes
-AltAddType	A student halls of residence
-DOB	30;1;1987
-XMARSTA	In a legally registered civil partnership
-Nationality	British;Irish;Other
-Nationality_Oth	Spanish
-CRY12	Republic of Ireland
-Comment	CAMEYR <= 2 years
-CAMEYR	-13m
-CONTUK	Yes
-COmment	CAMEMT > 12 months
 CAMEMT	-13m
 WHYUK10	Another reason
 NATID	Welsh;British
@@ -27,6 +14,10 @@ Welsh Language	Understand spoken Welsh;Write Welsh
 Current_passports	United Kingdom;Ireland
 Expired_passports	None
 Sexual_Orientation	Gay or Lesbian
+SATIS	1
+WORTH	1
+HAPPY	1
+ANXIOUS	1
 PAIDJOB	No
 Own_Run_Business_Check	No
 CasualJob20	No
@@ -37,17 +28,20 @@ MargAtch	No
 think_work_in_future	Probably
 when_think_work_in_future	More than one year but less than five
 LEFTYR18	I have never had a paid job
-work_unpaid	Yes, for an internship
+OWNBUS18	Yes, for an internship
 APPCURR	No
-ENROL	No
+COURSE	A part-time course at university or college
+Attend	Stopped attending
+current_study_for_qual	Yes
 future_work_related_education_3months	Yes
 Enrol_Check	No
 Country_Qual_Intro	Save and continue
 Country_Qual	No qualifications have been gained in the past
-sickness_disability_benefits_claiming	Personal Independence Payment
+sickness_disability_benefits_claiming	Personal Independence Payment, PIP
 oth_benefits_claiming	National Insurance Credits
 previously_served_armed_forces	Yes, previously served in Regular Armed Forces;Yes, previously served in Reserve Armed Forces
 uk_armed_forces_year_left	2000
+QHEALTH1	Very good
 LNGLST	Yes
 health_condition_illness_12months	Yes
 LIMITK	Yes
@@ -67,7 +61,7 @@ past_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other 
 past_physical_conditions	None of these
 past_mental_health_conditions	No
 past_illnesses_reduced_activity	Yes, a lot
-HH_refday	John BP0 HH108 Smith
+HH_refday	John BP2 HH108 Smith
 HH_refday1	No
 AddrHist_Check	Yes
 Individual_OUTRO	

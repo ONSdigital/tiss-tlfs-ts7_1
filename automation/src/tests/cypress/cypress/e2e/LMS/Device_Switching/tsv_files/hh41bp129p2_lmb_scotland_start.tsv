@@ -1,0 +1,57 @@
+AboutYou	John IP0;;HH41 Smith
+DOB	;
+Age	73
+Sex	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Dolly BP129;;HH41 Jones
+DOB	30;4;1954
+Sex	Female
+Rel to P1	Sister or brother
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	No
+ShareLiv	Yes
+HRP	John IP0 HH41 Smith;Dolly BP129 HH41 Jones
+TEN1	Don't know
+Comment	End of Household Section
+Comment	Start of Person2 (BP129)
+Person	2
+IndivIntroPage	
+SETPROXY	Yes
+ProxyCheck	Someone else
+AltAdd	No
+XMARSTA	In a legally registered civil partnership
+Nationality	Pakistani
+CRY12	England
+NatID	Scottish;British;Other
+NATID Other	Cypriot
+Ethnicity	Caribbean or Black
+CARIBBEAN scottish	Black, Black Scottish or Black British
+RELIGION_SC	Buddhist
+Current_Passports	None
+Expired_Passports	None
+PAIDJOB	Yes
+SECJOB	Yes
+STAT1	Self-employed;Full-time
+STAT2	Self-employed;Part-time
+Paid_wage_self_employed_21	Dolly BP129 HH41 Jones's employer through PAYE
+NITAX21	Dolly BP129 HH41 Jones's tax or National Insurance is taken from their pay before they are paid
+TempJob18	Temporary
+Jobtyp18	Seasonal work;A job that included training
+WhyTemp18	To suit their circumstances
+CONTRACTMAINJOB20	No
+MINHRS	Yes
+number_employees_self_employed_main_2job	None, Dolly BP129 HH41 Jones works on their own or with a partner
+Paid_wage_self_employed_22	Dolly BP129 HH41 Jones's clients or customers
+NITAX22	Dolly BP129 HH41 Jones's tax or National Insurance is taken from their pay before they are paid
+number_employees_self_employed_second_2job	None, Dolly BP129 HH41 Jones works on their own or with a partner
+HOME	In different places using home as a base
+Work_location_second_job	In the same grounds or building as their home
+HOMEEV	No
+WHCDAYS18	;
+EVEROT	Dolly BP129 HH41 Jones is self-employed and this does not apply to them
+USHR1	40;34
+ACTHR1	30;0

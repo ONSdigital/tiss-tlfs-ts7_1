@@ -1,8 +1,64 @@
-Person	9
+Person	5
 UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
-UPDATE_MAX_PEOPLE	9
-UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1'], ['6', '1'], ['7', '1'], ['8', '1'], ['9', '1']]
+UPDATE_MAX_PEOPLE	5
+UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1'], ['5', '1']]
+AddPpl	Dopey IP83;;HH117 White
+DOB	1;1;1997
+SEX	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	7
+AddPpl	Sleepy IP82;;HH117 White
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	8
+AddPpl	Sneezy IP42;;HH117 White
+DOB	30;9;1991
+SEX	Male
+Rel to P1	Other non-relative
+HholdChk	Yes
+Person	9
+AddPpl	Doc IP20;;HH117 White
+DOB	1;1;1997
+SEX	Female
+Rel to P1	Other non-relative
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+RelExPage	Save and continue
+Relationships	2;3;Other non-relative
+Relationships	2;4;
+Relationships	2;5;Other non-relative
+Relationships	2;6;Other non-relative
+Relationships	2;7;Other non-relative
+Relationships	2;8;Other non-relative
+Relationships	2;9;Other non-relative
+Relationships	3;4;Brother or sister
+Relationships	3;5;Sister or brother
+Relationships	3;6;Brother or sister
+Relationships	3;7;Sister or brother
+Relationships	3;8;Brother or sister
+Relationships	3;9;Sister or brother
+Relationships	4;5;Sister or brother
+Relationships	4;6;Brother or sister
+Relationships	4;7;Sister or brother
+Relationships	4;8;Brother or sister
+Relationships	4;9;Sister or brother
+Relationships	5;6;Brother or sister
+Relationships	5;7;Sister or brother
+Relationships	5;8;Brother or sister
+Relationships	5;9;Sister or brother
+Relationships	6;7;Sister or brother
+Relationships	6;8;Brother or sister
+Relationships	6;9;Sister or brother
+Relationships	7;8;Brother or sister
+Relationships	7;9;Sister or brother
+Relationships	8;9;Sister or brother
+ShareCooking	Yes
+ShareLiv	No
 HRP	John BP0 HH117 Smith;Snow IP103 HH117 White;Happy IP100 HH117 White;Bashful IP95 HH117 White;Grumpy IP87 HH117 White;Dopey IP83 HH117 White;Sleepy IP82 HH117 White;Sneezy IP42 HH117 White;Doc IP20 HH117 White
 TEN1	Own it outright
 Person	8
@@ -10,7 +66,6 @@ IndivIntroPage
 SETPROXY	No
 ProxyCheck	Sneezy IP42 HH117 White
 AltAdd	No
-DOB	30;9;1991
 XMARSTA	Married
 Nationality	Pakistani;Other
 Nationality_Oth	Chinese
@@ -31,7 +86,11 @@ CARIBBEAN scottish	Black, Black Scottish or Black British
 RELIGION_SC	Roman Catholic
 Current_passports	None
 Expired_passports	United Kingdom
-Sexual_Orientation	prefer not to say
+Sexual_Orientation	Or, prefer not to say
+SATIS	6
+WORTH	6
+HAPPY	6
+ANXIOUS	6
 PAIDJOB	No
 Own_Run_Business_Check	No
 CasualJob20	Yes
@@ -44,17 +103,15 @@ ZHC20	No
 Total_DUR3_MTH	Yes
 HOME	In the same grounds or building as my home
 HOMEEV	No
-BroadbandA	Yes
-BroadbandB	Yes
 WHCDAYS18	Did not work that week
 SOC2020PT1	Miner
-SOC2020PT2	Mine diamonds
-SIC2020EMP	Mining
+SOC2020PT2	Mine coal
+sic2007_employed_main_job	Mining of hard coal
 SECTOR	A private firm, business or limited company
 Comment	CONMPY/CONMON1 > 4 months
 CONMON1	-8m
 CONMPY	-8m
-work_unpaid	No
+OWNBUS18	No
 JobQual_Intro	Save and continue
 career_progression_main_job	Agree
 employees_decision_involvement_main_job	Good
@@ -64,7 +121,7 @@ manager_support_main_job	Strongly disagree
 in_job_bullying_12months	No
 skills_match_main_job	I lack some skills required in my current duties
 self_union_membership	No
-workplace_union_membership	No
+workplace_union_membership	Yes
 union_affects_pay_and_conditions	Yes
 looking_for_different_paid_job	Yes
 looking_for_paid_job_type	For a new job or business to replace your current main job or business
@@ -80,9 +137,9 @@ ACTWKDY	I was not scheduled to work
 EMPSICK4	No
 APPCURR	Yes
 apprenticeship_main_job	No
-ENROL	Yes
 COURSE	A part-time course at university or college
 ATTEND	Stopped attending
+current_study_for_qual	No
 work_related_education_3months	No
 Country_Qual_Intro	Save and continue
 Country_Qual	Scotland
@@ -101,10 +158,6 @@ SMOYArea	I was living outside of the UK
 SMOYCty	It is outside of the UK
 SMHCOMP	Other non-family members
 QHEALTH1	Very bad
-SATIS	6
-WORTH	6
-HAPPY	6
-ANXIOUS	6
 LNGLST	Yes
 health_condition_illness_12months	Yes
 LIMITK	Yes
@@ -117,7 +170,7 @@ current_conditions_other	None of these
 current_mental_health_condition	Yes
 main_health_condition	Other neurodivergent condition
 LIMACT	Not at all
-past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition_intro	Save and continue
 past_long_lasting_health_condition	No
 CIGEVER	No
 HH_refday	John BP0 HH117 Smith;Snow IP103 HH117 White;Happy IP100 HH117 White;Bashful IP95 HH117 White;Grumpy IP87 HH117 White;Dopey IP83 HH117 White;Sleepy IP82 HH117 White;Sneezy IP42 HH117 White;Doc IP20 HH117 White

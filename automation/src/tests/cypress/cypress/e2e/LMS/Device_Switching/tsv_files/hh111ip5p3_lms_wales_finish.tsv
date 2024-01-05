@@ -3,20 +3,15 @@ UPDATE_EXPIRED_PASSPORTS	1
 UPDATE_CURRENT_PASSPORTS	1
 UPDATE_MAX_PEOPLE	4
 UPDATE_PEOPLE	[['1', '1'], ['2', '1'], ['3', '1'], ['4', '1']]
-ShareCooking	Yes
-ShareLiv	No
-HRP	Gerard BP59 HH111 Way;Frank IP8 HH111 Iero
-TEN1	Pay rent to a private landlord
 TIED	Yes
 Comment	End of household section
-Comment	Start of Person 3 (IP5)
+Comment	Start of Person 2 (IP4)
 Person	3
 IndivIntroPage	
 SETPROXY	No
-ProxyCheck	Ray IP5 HH111 Toro
+ProxyCheck	Ray IP5 Toro
 ALtAdd	Yes
 AltAddType	A student halls of residence
-DOB	17;9;1977
 XMARSTA	A surviving member of a legally registered civil partnership
 Nationality	British
 CRY12	Other
@@ -39,6 +34,10 @@ Multi_current_passport	Bahrain
 Current_passport_check	No
 Expired_passports	None
 Sexual_Orientation	Bisexual
+SATIS	3
+WORTH	3
+HAPPY	3
+ANXIOUS	3
 PAIDJOB	No
 Own_run_business_check	No
 CasualJob20	No
@@ -49,7 +48,7 @@ MargAtch	No
 think_work_in_future	Definitely not
 Comment	LEFTYR18 < 4 months before completetion
 LEFTYR18	-2m;-2m
-work_unpaid	No
+OWNBUS18	No
 REDYL18	Left for some other reason
 REDANY	No
 employment_status_previous	Self-employed
@@ -61,7 +60,8 @@ EMPSICK4	Yes
 WKSK4	1
 ILNE12SE	Employment
 APPCURR	No
-ENROL	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
 future_work_related_education_3months	No
 Enrol_Check	Yes
 Country_Qual_Intro	Save and continue
@@ -81,18 +81,19 @@ sickness_disability_benefits_claiming	None of these
 oth_benefits_claiming	Universal Credit
 uc_reason_claiming	Joint household claim with your partner
 previously_served_armed_forces	No
+QHEALTH1	Good
 LNGLST	Yes
 health_condition_illness_12months	No
 past_long_lasting_health_condition_intro	
 past_long_lasting_health_condition	Yes
 past_joint_bone_muscle_conditions	Legs or feet;Back or neck;Arms or hands;Other joints, bones or muscles
-past_physical_conditions	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions;Stomach, liver, kidney, or digestive conditions;Cancer;Symptomatic HIV;Allergies;Skin conditions;Severe disfigurements;Problems with hearing;Problems seeing even when wearing glasses or contact lenses;Speech impediment;Other physical conditions
+past_physical_conditions	Heart, blood pressure or blood circulation conditions;Chest or breathing conditions;Stomach, liver, kidney or digestive conditions;Cancer;Symptomatic HIV;Allergies;Skin conditions;Severe disfigurements;Problems with hearing;Problems seeing even when wearing glasses or contact lenses;Speech impediment;Other physical conditions
 past_mental_health_conditions	Yes
 past_illnesses_reduced_activity	Yes, a lot
 ACCDNT	Yes
 ILLWRK1	No
 REASOFF92	Yes
-HH_refday	Gerard BP59 HH111 Way;Frank IP8 HH111 Iero
+HH_refday	Gerard BP59 Way;Frank IP8 Iero
 HH_refday1	No
 AddrHist_check	Yes
 Individual_OUTRO	

@@ -1,31 +1,40 @@
-AboutYou	Sarah P1Ineligible;;Jones
-Sex	Female
+AboutYou	David P1Ineligible;;HH101 Jones
+DOB	1;1;1997
+Sex	Male
 AddressChk	No
-IneligibleType	My second home
+IneligibleType	Other
+IneligibleOther	Parental home
 HholdChkAlt	Yes
 Person	2
-AddPpl	Dolly BP0;;Jones
-Sex	Female
-Rel to P1	Sister or brother
+AddPpl	Elton BP11;;HH101 Jones
+DOB	1;1;1997
+Sex	Male
+Rel to P1	Brother or sister
 HholdChk	Yes
 Person	3
-AddPpl	Alex BP12;;Hamilton
+AddPpl	Alex DummyBP0;;HH101 Hamilton
+DOB	1;1;1950
 Sex	Male
 Rel to P1	Other relative
 HholdChk	Yes
 Person	4
-AddPpl	Alice BP11;;Smith
-Sex	Female
+AddPpl	Rex BP12;;HH101 Smith
+DOB	;
+Age	45
+Sex	Male
 Rel to P1	Other relative
-HholdChk	Yes
+HholdChk	No
+HholdChk2	No
 Person	5
-AddPpl	John IP22;;Carey
+AddPpl	John IP22;;HH101 Carey
+DOB	;
+Age	35
 Sex	Male
 Rel to P1	Other relative
 HholdChk	No
 HholdChk2	Yes
 Comment	StudentChk to be skipped.
-StudentChk	
+StudentChk	;
 RelExPage	Save and continue
 Comment	All Relationships to be skipped.
 Relationships	2;3
@@ -36,7 +45,7 @@ Relationships	3;5
 Relationships	4;5
 ShareCooking	Yes
 ShareLiv	Yes
-HRP	John IP22 Carey;Alice BP11 Smith;Someone else not listed above
+HRP	Elton BP11 HH101 Jones;Alex DummyBP0 HH101 Hamilton;John IP22 HH101 Carey;Someone else not listed above
 TEN1	Pay rent to the council, housing association, or charitable trust
 TIED	No
 Comment	End of House Hold
@@ -44,16 +53,29 @@ Comment	Start IP22
 Person	5
 IndivIntroPage	
 SETPROXY	No
-ProxyCheck	John IP22 Carey
+ProxyCheck	John IP22 HH101 Carey
 AltAdd	Yes
 AltAddType	Another type of address
 TimeAway	No
-DOB	
-Age	35
 XMARSTA	A surviving member of a legally registered civil partnership
 Nationality	British;Pakistani;Other
 Nationality_Oth	English
 CRY12	Other
 CRY12_Other	India
 Comment	> than 2 years from Ref date
-CAMEYR	2019
+CAMEYR	-43m
+CONTUK	Yes
+WHYUK10	Another reason
+NATID	English;British
+Ethnicity	Black, African, Caribbean or Black British
+BLACK	Any other Black, African or Caribbean background
+BLACK_OTH	Black Japanese
+RELIGION	Other religion
+RELIGION_Oth	Jainism
+Current_Passports	Ireland
+Expired_passports	None
+Sexual_Orientation	Straight or Heterosexual
+SATIS	Prefer not to say
+WORTH	Prefer not to say
+HAPPY	Prefer not to say
+ANXIOUS	Prefer not to say

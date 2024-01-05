@@ -1,0 +1,94 @@
+Person	1
+UPDATE_EXPIRED_PASSPORTS	1
+UPDATE_CURRENT_PASSPORTS	1
+UPDATE_MAX_PEOPLE	2
+UPDATE_PEOPLE	[['1', '1'], ['2', '1']]
+SETPROXY	Yes
+ACTHR2	14;8
+Comment	TOTAL should be 47 Hours 20 Minutes
+check_total_usual_work_main_2job	Yes
+Comment	TOTAL should be 60 hours 13 Minutes
+TOTAC2	Yes
+Comment	TOTAL should be 8 hours 41 minutes
+check_total_usual_work_second_2job	Yes
+Comment	TOTAL should be 17 hours 19 minutes
+check_total_actual_work_second_2job	Yes
+SOC2020PT1	Farm Manager
+SOC2020PT2	Manage crops and livestock
+sic2007_employed_main_job	Mixed farming
+SECTOR	Some other kind of organisation
+SECTOR03	A nationalised industry or state corporation
+SOC2020_2_PT1	Jewellery Polisher
+SOC2020_2_PT2	Polish platinum, gold and silver jewellery
+sic2007_employed_second_job	Manufacture of jewellery
+Comment	More than 4 months ago
+CONMON1	-5m
+CONMPY	-5m
+OWNBUS18	No
+self_union_membership	No
+workplace_union_membership	No
+union_affects_pay_and_conditions	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace their current main job or business
+looking_for_new_main_job_reasons	Current job or business is to fill time before finding another job or business
+looking_for_new_main_job_preferred_hours	Longer
+number_of_extra_weekly_hours_preferred	37;0
+longer_hours_offered_start_in_2weeks_main_job	No
+WKPL99	London
+Workplace_location_second_job	London
+REDANY	No
+ACTWKDY	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+ILLWK	Yes
+ILLDAYS	Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+statutory_sick_pay_receiving	Yes
+DIFPER	1
+APPCURR	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	Yes
+work_related_education_3months	No
+Country_Qual_Intro	Save and continue
+Country_Qual	England, Northern Ireland or Wales;Scotland;Outside of the UK
+EWNISCOT_School	Standard Grades
+EWNISCOT_College	ONC or SNC
+EWNISCOT_Additional	Key, Core, Essential or Functional Skills Qualification
+EWNISCOT_HE	Nursing Qualification
+Safety_Net_EWNIScotNonUK	Formal Award Qualification
+Safety_Net_Level_Awards	Level 7
+NonUK_School	Qualifications like AS or A Levels
+NonUK_Deg	Undergraduate Degree
+Qual_Check_EWNISCOT	Standard Grades;ONC or SNC;Key, Core, Essential or Functional Skills Qualification;Nursing Qualification;Other Formal Award, Level 7
+Qual_check_NonUK	Qualifications like AS or A Levels;Undergraduate Degree
+Standards_Lev	General
+EWNISCOT_Skills	Key
+EWNISCOT_KeySkills	Level 1
+Nursing_Qual	Nursing Associate qualification
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit
+uc_reason_claiming	Joint household claim with their partner
+previously_served_armed_forces	No
+QHEALTH1	Fair
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	Save and continue
+past_long_lasting_health_condition	Yes
+past_joint_bone_muscle_conditions	Back or neck
+past_physical_conditions	Heart, blood pressure or blood circulation conditions
+past_mental_health_conditions	No
+past_illnesses_reduced_activity	Yes, a little
+ACCDNT	Yes
+ILLWRK1	Yes
+work_illness_most_serious_time_off_length	No time off work
+HH_refday	None of the above
+HH_refday1	No
+AddrHist_Check	No
+Comment	AddrHist_date less than < 1 year from ref date
+AddrHist_Date	-11m
+AddrHist_manual	33;;univers;;MU1 1NV;button moon
+Comment	AddrHist_date less than or equal to =< 2 years from ref date
+AddrHist_Date	-23m
+AddrHist_manual	10;;univers;;MU1 1NV;button moon
+Comment	AddrHist_date less than or equal to =< 3 years from ref date
+AddrHist_Date	-35m
+AddrHist_manual	12;;univers;;MU1 1NV;button moon
+Individual_OUTRO	 
+CheckText	We would now like to ask some questions about each person
