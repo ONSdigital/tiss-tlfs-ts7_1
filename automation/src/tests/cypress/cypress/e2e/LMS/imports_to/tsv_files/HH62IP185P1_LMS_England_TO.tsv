@@ -1,0 +1,105 @@
+AddChk1	Yes
+Household_Intro	
+AboutYou	John IP185;;HH62 Smith
+DOB	1;1;1997
+SEX	Male
+AddressChk	Yes
+HholdChk	Yes
+Person	2
+AddPpl	Two IP191;;HH62 Person
+DOB	
+Age	71
+SEX	Female
+Rel to P1	Partner
+HholdChk	No
+HholdChk2	Yes
+StudentChk	None of these people live in a student halls of residence
+ShareCooking	No
+ShareLiv	Yes
+HRP	John IP185 HH62 Smith;Two IP191 HH62 Person
+TEN1	Own it outright
+AltAddressChk	None of these people
+Person	1
+IndivIntroPage	
+SETPROXY	No
+ProxyCheck	John IP185 HH62 Smith
+XMARSTA	separated but still legally married,
+Nationality	British, including English, Welsh, Scottish or Northern Irish;Polish
+CRY12	Poland
+CAMEYR	Respondent was born in the UK
+CRY12EUK	England
+NATID	English
+Ethnicity	White
+WHITE	English, Welsh, Scottish, Northern Irish or British
+RELIGION	No religion
+Current_Passports	United Kingdom
+Expired_Passports	United Kingdom
+Sexual_Orientation	Other?
+Sexual_Orientation_Oth	Asexual
+SATIS	2
+WORTH	2
+HAPPY	2
+ANXIOUS	2
+Employment_Intro	
+PAIDJOB	No
+Own_Run_Business_Check	Yes
+STAT	Self-employed;Part-time
+Yptjob18	Caring responsibilities for adults
+Paid_wage_self_employed_20	Your own limited company through PAYE
+NITAX20	Your tax or National Insurance is taken from your pay before you are paid
+INCORP20	Yes, you have a limited company,
+PARTNER20	Yes, you have a business partner or partners
+number_employees_self_employed_1job	50-249
+EMPLOYEES20	Yes
+HOME	In a different location from your home
+HOMEEV	Yes
+WHCDAYS18	
+EVEROT_INT1	Yes
+EVEROT_INT2	unpaid overtime
+usual_unpaid_overtime_1job_hours	20;0
+UPOT	0;0
+USHR	40;22
+ACTHR	26;0
+check_total_usual_work_1job	Yes
+TOTAC1	Yes
+YLESS.SEMP	Illness or injury expected to last fewer than 4 weeks
+SOC2020PT1	Farmer
+SOC2020PT2	Grow grapes
+sic2007_self_employed_main_job	Growing of grapes
+Comment	CONSEY/CONMON2 < 4 months
+CONMON2	-2m
+CONSEY	-2m
+OWNBUS18_Int1	No
+self_union_membership	No
+looking_for_different_paid_job	Yes
+looking_for_paid_job_type	For a new job or business to replace your current main job or business
+looking_for_new_main_job_reasons	Would like shorter hours;Other aspects unsatisfactory;Change of job sector
+looking_for_new_main_job_preferred_hours	The same
+WKPL99	Winchester
+REDPAID	Yes
+REDYL18	Resigned
+REDANY	No
+ACTWKDY	You were not scheduled to work
+EMPSICK4	No
+AppCurr	No
+COURSE	Not enrolled on any formal education course
+current_study_for_qual	No
+work_related_education_3months	No
+Country_Qual	No qualifications have been gained in the past
+sickness_disability_benefits_claiming	None of these
+oth_benefits_claiming	Universal Credit;Carer's Allowance;Job Seekers Allowance, also known as JSA?
+uc_reason_claiming	Not working because you were sick, injured or disabled
+previously_served_armed_forces	No
+QHEALTH1	Very bad
+LNGLST	Yes
+health_condition_illness_12months	No
+past_long_lasting_health_condition_intro	
+past_long_lasting_health_condition	No
+ACCDNT	Yes
+ILLWRK1	No
+HH_refday	John IP185 HH62 Smith;Two IP191 HH62 Person
+HH_refday1	No
+AddrHist_Intro	
+AddrHist_Check	Yes
+Individual_OUTRO	
+CheckText	I would now like to ask some questions about each perso
