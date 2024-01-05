@@ -351,12 +351,14 @@ function randomiser(listy, check_text) {
     var page_check = "The page look up has failed";
     var i = 0;
     var page_rows = my_list.split("\n")
+    // cy.log('Going in')
     for (var value in page_rows) {
 
         let my_row = page_rows[value].replace(/(\r\n|\n|\r)/gm, "");
         var the_page = my_row.split("\t");
-        // cy.log("the page is " + the_page[0].toUpperCase())
-
+        //cy.log("the page is " + the_page[0].toUpperCase())
+        // cy.log('in the for loop' )
+        // cy.log('the row is ' + my_row)
         // cy.log("the page_id is " + page_id.toUpperCase())
         if (the_page[0].toUpperCase() == page_id.toUpperCase()) {
             page_check = the_page[1];
@@ -364,6 +366,7 @@ function randomiser(listy, check_text) {
             page_check = page_check.replace('**', parseInt(max_people))
             page_check = page_check.replace('*', person)
             // cy.log("After " + page_check)
+            break;
         }
         i++;
     }
@@ -473,7 +476,7 @@ function default_behaviour(page_list, page_ident, page_answer = "", person, full
   //if the value to input (in ele[1]) is "Yes", "No" or "Any" then do the yes_no function.
   if (yesno_array.includes(page_answer)) {
 
-      yes_no(page_answer);
+      yes_no(page_answer, 0, save);
   }
   else if (dontprefer.includes(page_answer) && checkbox == "Yes"){
     // cy.log("Don't know if statement for checkboxes")
@@ -487,7 +490,7 @@ function default_behaviour(page_list, page_ident, page_answer = "", person, full
     .click();
 
     if (save == "Yes" ) {
-      //cy.log("SaveTime")
+      // cy.log("SaveTime")
       save_cont();
     }
       }
@@ -512,7 +515,7 @@ function default_behaviour(page_list, page_ident, page_answer = "", person, full
         cy.wait(1000);
         cy.get('.text-container').contains(page_answer).click();
         if (save == "Yes" ) {
-          //cy.log("SaveTime")
+          cy.log("SaveTime in the don't prefer bit")
           save_cont();
         }
       }
@@ -555,7 +558,7 @@ function default_behaviour(page_list, page_ident, page_answer = "", person, full
 
       }
     if (save == "Yes" ) {
-      //cy.log("SaveTime")
+      cy.log("SaveTime at the very end")
       save_cont();
     }
   }
