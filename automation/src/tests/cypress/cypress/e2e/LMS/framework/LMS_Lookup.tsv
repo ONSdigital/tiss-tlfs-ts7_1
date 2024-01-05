@@ -402,6 +402,7 @@ number_employees_self_employed_1_to_10_previous_job	QIndiv[*].QEmploy.number_emp
 number_employees_self_employed_1_to_10_second_2job	QIndiv[*].QEmploy.number_employees_self_employed_1_to_10_second_2job
 number_employees_self_employed_1job	QIndiv[*].QEmploy.number_employees_self_employed_1job
 number_employees_self_employed_1job_dont_know_bands	QIndiv[*].QEmploy.number_employees_self_employed_1job_dont_know_bands
+number_employees_self_employed_1job_tel	QIndiv[*].QEmploy.number_employees_self_employed_1job_tel
 number_employees_self_employed_main_2job	QIndiv[*].QEmploy.number_employees_self_employed_main_2job
 number_employees_self_employed_main_2job_dont_know_bands	QIndiv[*].QEmploy.number_employees_self_employed_main_2job_dont_know_bands
 number_employees_self_employed_main_2job_tel	QIndiv[*].QEmploy.number_employees_self_employed_main_2job_tel
@@ -474,7 +475,6 @@ Paid_wage_employee_20	QIndiv[*].QEmploy.Paid_wage_emp_20
 Paid_wage_employee_20	QIndiv[*].QEmploy.Paid_wage_employee_20
 Paid_wage_employee_21	QIndiv[*].QEmploy.Paid_wage_emp_21
 Paid_wage_employee_22	QIndiv[*].QEmploy.Paid_wage_emp_22
-Paid_wage_self_employed_20	QIndiv[*].QEmploy.Paid_wage_self_emp_20
 Paid_wage_self_employed_20	QIndiv[*].QEmploy.Paid_self_employed_20
 Paid_wage_self_employed_21	QIndiv[*].QEmploy.Paid_wage_self_emp_21
 Paid_wage_self_employed_22	QIndiv[*].QEmploy.Paid_wage_self_emp_22

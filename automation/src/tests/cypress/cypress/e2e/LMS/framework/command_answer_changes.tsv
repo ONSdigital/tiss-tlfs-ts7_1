@@ -274,7 +274,7 @@ managerial_duties_second_2job	No, they have no managerial duties	None
 skills_match_main_job	My present skills correspond well with my duties	Your present skills correspond well with your duties, or
 skills_match_main_job	I have the skills to cope with more demanding duties	You have the skills to cope with more demanding duties?
 skills_match_main_job	I lack some skills required in my current duties	Lack some skills required in your current duties,
-th_benefits_claiming	Job Seekers Allowance, JSA	Job Seekers Allowance, also known as JSA?
+oth_benefits_claiming	Job Seekers Allowance, JSA	Job Seekers Allowance, also known as JSA?
 uc_reason_claiming	Other reason	Or, any other reason?
 CheckText	We would now like to ask some questions about each person	I would now like to ask some questions about each person
 current_mental_health_conditions	No	Or, no?
