@@ -60,7 +60,7 @@ def change_answers(my_sheet, answer_list, person_list):
                                 command[1] = new_text
                                 break
                     if command[1] in str(part):
-                        print("found a value to change in command {}: from {} to {}".format(command[0]).upper(), command[1], str(command[2]))
+                        print("found a value to change in command {}: from {} to {}".format(command[0].upper(), command[1], str(command[2])))
                         replacement_list.append(command[2])
                     else:
                         replacement_list.append(str(part))
