@@ -471,7 +471,6 @@ paid_different_to_usual	QIndiv[*].QVarInPay.Paid_different_to_usual
 paid_less_than_usual_reason_main_job	QIndiv[*].QVarInPay.paid_less_than_usual_reason_main_job
 paid_same_as_usual	QIndiv[*].QVarInPay.Paid_same_as_usual
 paid_vary_reason_main_job	QIndiv[*].QVarInPay.paid_vary_reason_main_job
-Paid_wage_employee_20	QIndiv[*].QEmploy.Paid_wage_emp_20
 Paid_wage_employee_20	QIndiv[*].QEmploy.Paid_wage_employee_20
 Paid_wage_employee_21	QIndiv[*].QEmploy.Paid_wage_emp_21
 Paid_wage_employee_22	QIndiv[*].QEmploy.Paid_wage_emp_22
